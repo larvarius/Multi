@@ -84,3 +84,13 @@ https://g1.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_
 
 
 
+#EXTINF:-1  group-title="DEPORTES" tvg-logo="http://cdn-abc.xyz:2086/images/EbDaVYPoJTd1DFFXD4-lVpaEofnF7qFe6TVWhYlJ_5UanmAvgiu0XqZUEEaoQr3BgH11mHHeagwaAcAbXUU6iw.png", Espn
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=849b58e929eb9192e06e2f4b60b620e373985a78-8b-1771999875-1771945875
+https://vg7ie.envivoslatam.org/espn/tracks-v1a1/2026/02/24/17/42/21-06707.ts
+
