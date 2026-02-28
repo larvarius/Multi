@@ -1,7 +1,1 @@
-#EXTM3U
-#EXTINF:-1, Canal 1 (De la Lista A)
-http://nxt.plus:8080/get.php?username=batusaix&password=javier&type=m3u_plus
-#EXTINF:-1, Canal 2 (De la Lista B)
-http://goldtv.lat:8080/get.php?username=JuanQuitoIPTVCLUB&password=YsW7pCYj6J&type=m3u_plus
-#EXTINF:-1, Canal 3 (De la Lista c)
-http://svipwoaf.top:8080/get.php?username=David250309&password=David250309AA&type=m3u_plus
+
