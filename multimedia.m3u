@@ -8,16 +8,20 @@ https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_720.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN 2.ar" tvg-name="ESPN HD" tvg-logo="http://cdn-abc.xyz:2086/images/EbDaVYPoJTd1DFFXD4-lVpaEofnF7qFe6TVWhYlJ_5UanmAvgiu0XqZUEEaoQr3BgH11mHHeagwaAcAbXUU6iw.png" group-title="DEPORTES",ESPN HD Op1
-#EXTVLCOPT:http-user-agent=VLC
-http://192.168.101.50:8085/player.52691567
+http://media2.xyz:8080/live/2055037515/81A7Mf522J/9569.m3u8
+
 
 #EXTINF:-1 tvg-id="ESPN 2.ar" tvg-name="ESPN HD" tvg-logo="http://cdn-abc.xyz:2086/images/EbDaVYPoJTd1DFFXD4-lVpaEofnF7qFe6TVWhYlJ_5UanmAvgiu0XqZUEEaoQr3BgH11mHHeagwaAcAbXUU6iw.png" group-title="DEPORTES",ESPN HD Op2
 
 
 
 #EXTINF:-1 tvg-id="DTSAHD.ar" tvg-name="DSPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="DEPORTES",DSPORTS Op 1
+http://media2.xyz:8080/live/2055037515/81A7Mf522J/122333.m3u8
+#EXTINF:-1 tvg-id="DTSAHD.ar" tvg-name="DSPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="DEPORTES",DSPORTS Op 2
+http://media2.xyz:8080/live/2055037515/81A7Mf522J/122405.m3u8
 
-#EXTINF:-1 tvg-id="DTSAHD.ar" tvg-name="DEPORTES - Directv Sports" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="DEPORTES",DSports Op2
+#EXTINF:-1 tvg-id="DTSAHD.ar" tvg-name="DEPORTES - Directv Sports" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="DEPORTES",DSports + Op2
+http://media2.xyz:8080/live/2055037515/81A7Mf522J/122334.m3u8
 
 
 #EXTINF:-1 xui-id="3484" tvg-id="DTV2HD.ar" tvg-name="DSPORTS 2" tvg-logo="http://cdn-abc.xyz:2086/images/qcSXhPthTapOWllvZLj0cist7aGnVQ26-ShA-8LvDWqAvJxVxArhC3wjE4TRVdS3f_e_bh9HSSf81Dg_E48FPqiOU8-Nv87DLn0qmM-kmY98EsETjKFfYeTiOca6rhFxQbt9dKN0rIoZA-iqSX3nI3AojoYOzVIZaVinYncIgzs.png" group-title="DEPORTES",DSPORTS 2
@@ -26,11 +30,13 @@ http://192.168.101.50:8085/player.52691567
 
 
 #EXTINF:-1 xui-id="160136" tvg-id="FOX Sports Premium.ar" tvg-name="ESPN PREMIUM ARG" tvg-logo="http://cdn-abc.xyz:2086/images/Y_STBOg-CWcvCT_ufdf2jQzPxyJwX4C_S6xDdYAIvEz4w2o2VRNdsVNwHmh94fR4xPvT3sf1upLUNU6BL84E-g.png" group-title="DEPORTES",ESPN PREMIUM ARG Op1
+http://media2.xyz:8080/live/2055037515/81A7Mf522J/122345.m3u8
 
 #EXTINF:-1 xui-id="160136" tvg-id="FOX Sports Premium.ar" tvg-name="ESPN PREMIUM ARG" tvg-logo="http://cdn-abc.xyz:2086/images/Y_STBOg-CWcvCT_ufdf2jQzPxyJwX4C_S6xDdYAIvEz4w2o2VRNdsVNwHmh94fR4xPvT3sf1upLUNU6BL84E-g.png" group-title="DEPORTES",ESPN PREMIUM ARG Op2
 
 
 #EXTINF:-1 xui-id="8088" tvg-id="TNT Sports.ar" tvg-name="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/5/52/Logo_TNT_Sports_2021.png/revision/latest?cb=20210118175837&path-prefix=es" group-title="DEPORTES",TNT SPORTS Op 1
+http://media2.xyz:8080/live/2055037515/81A7Mf522J/122394.m3u8
 
 #EXTINF:-1 xui-id="8088" tvg-id="TNT Sports.ar" tvg-name="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/5/52/Logo_TNT_Sports_2021.png/revision/latest?cb=20210118175837&path-prefix=es" group-title="DEPORTES",TNT SPORTS Op 2
 
@@ -49,6 +55,7 @@ http://192.168.101.50:8085/player.52691567
 
 
 #EXTINF:-1 tvg-id="FOX Sports HD.ar" tvg-name="DEPORTES - Fox Deportes (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png" group-title="DEPORTES",Fox Sports
+http://media2.xyz:8080/live/2055037515/81A7Mf522J/122350.m3u8
 
 #EXTINF:-1 tvg-id="FOX Sports 2.ar" tvg-name="DEPORTES - Fox Sports 2 ARG (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="DEPORTES",Fox Sports 2
 
@@ -65,6 +72,7 @@ http://107.152.39.199:8030/hls/canal7.m3u8
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
+http://media2.xyz:8080/live/2055037515/81A7Mf522J/122387.m3u8
 
 #EXTINF:-1 tvg-id="Tv Publica.ar" tvg-name="TV Pública" group-title="General" tvg-logo="https://files.catbox.moe/3yz8zs.png",TV Publica
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
