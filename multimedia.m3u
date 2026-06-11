@@ -1,9 +1,13 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina4.xml", "https://epg.programadorx.cl/mdiaz/gratis.xml", "https://www.open-epg.com/files/argentina7.xml"
 
-#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports Op1 (1080)
-https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports
+http://liontv.es:8080/live/jorge6016tv1/6016jorge/334271.m3u8
+http://38.44.109.41:8003/play/a02l/index.m3u8
+https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/282451.m3u8
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports Op2 (720)
-https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_720.m3u8
+
 #EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports Op3
 
 
