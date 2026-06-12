@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina4.xml", "https://epg.programadorx.cl/mdiaz/gratis.xml", "https://www.open-epg.com/files/argentina7.xml"
 
-#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6tNn1hnYEwp7_PMLm4nOSp7iKzjCQ7hNewQ&s" group-title="DEPORTES",TyC Sports
-http://liontv.es:8080/live/jorge6016tv1/6016jorge/334271.m3u8
+#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.postimg.cc/ZWttPCgR/tycsports.png" group-title="DEPORTES",TyC Sports
+http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-tycar_720.m3u8
 #EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports
 http://38.44.109.41:8003/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports
