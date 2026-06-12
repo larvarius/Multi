@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml", "https://epg.programadorx.cl/mdiaz/gratis.xml"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml", "https://epg.programadorx.cl/mdiaz/gratis.xml",
 
 #EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.postimg.cc/ZWttPCgR/tycsports.png" group-title="DEPORTES",TyC Sports
 http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-tycar_720.m3u8
