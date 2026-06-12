@@ -44,10 +44,9 @@ http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-espnpremar_720.
 
 
 #EXTINF:-1 xui-id="8088" tvg-id="TNT Sports.ar" tvg-name="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/5/52/Logo_TNT_Sports_2021.png/revision/latest?cb=20210118175837&path-prefix=es" group-title="DEPORTES",TNT SPORTS
-https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
-
-#EXTINF:-1 xui-id="8088" tvg-id="TNT Sports.ar" tvg-name="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/5/52/Logo_TNT_Sports_2021.png/revision/latest?cb=20210118175837&path-prefix=es" group-title="DEPORTES",TNT SPORTS
 http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-tnt-prem_720.m3u8
+#EXTINF:-1 xui-id="8088" tvg-id="TNT Sports.ar" tvg-name="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/tvcablehttps://i.postimg.cc/TKV8tTMT/tntsports.png://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+
 
 #EXTINF:-1 xui-id="160132" tvg-id="622dtv.ar" tvg-name="ESPN 2 ARG" tvg-logo="http://cdn-abc.xyz:2086/images/Y_STBOg-CWcvCT_ufdf2jX4S6rNSQCfigTn_e9CgAUA7SBAKJSSbORKUmo8aK59TCY0ga2WiJnzCloQZW24uNw.png" group-title="DEPORTES",ESPN 2 ARG
 
