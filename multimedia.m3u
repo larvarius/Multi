@@ -70,29 +70,34 @@ https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="America Tv.ar" tvg-name="América TV" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png",América TV
+#EXTINF:-1 tvg-id="America.ar" tvg-name="América TV" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="Canal 9.ar" tvg-name="El Nueve" group-title="General" tvg-logo="https://files.catbox.moe/k3fp5s.png",El Nueve
 
 #EXTINF:-1 tvg-id="El Trece.ar" group-title="General" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.m3u8player.online/
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
+http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-eltrece_720.m3u8
 
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
+http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-telefe_720.m3u8
 
 #EXTINF:-1 tvg-id="Tv Publica.ar" tvg-name="TV Pública" group-title="General" tvg-logo="https://files.catbox.moe/3yz8zs.png",TV Publica
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="A24.ae" tvg-name="A24" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/2560px-A24_%282025%29.svg.png",A24
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/2560px-A24_%282025%29.svg.png",A24
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="Canal 26.ar" tvg-name="Canal 26" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
 #EXTINF:-1 tvg-id="Tn.ar" tvg-name="TN" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
-#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
-https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
+https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
+#EXTINF:-1 tvg-id="Tn.ar" tvg-name="TN" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
+http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-tn_720.m3u8
+#EXTINF:-1 tvg-id="Tn.ar" tvg-name="TN" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
+#http://liontv.es:8080/live/jorge6016tv1/6016jorge/334383.m3u8
+#EXTINF:-1 tvg-id="Tn.ar" tvg-name="TN" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
+htp://xott.live:8080/live/0308520/0308521/348159.m3u8
+
 #EXTINF:-1 tvg-id="Cronica.ar" tvg-name="Crónica TV" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Crónica TV
 https://g1.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="Ln+.ar" tvg-name="LN+" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/2560px-La-Nacion-Mas-Logo.svg.png",LN+
