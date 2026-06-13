@@ -78,7 +78,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-eltrece_720.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
-http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-telefe_720.m3u8
+http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-telefe.playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" group-title="General" tvg-logo="https://files.catbox.moe/3yz8zs.png",TV Publica
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
