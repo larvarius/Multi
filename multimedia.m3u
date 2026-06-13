@@ -63,21 +63,21 @@ http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-espn3ar_720.m3u
 #EXTINF:-1 xui-id="112610" tvg-id="3082dtv.cl" tvg-name="ESPN 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsgJEEP_VopjfJSYeu1qMUwrRj_lFC3_evyg&s" group-title="DEPORTES",ESPN 7
 
 
-#EXTINF:-1 tvg-id="FOX Sports HD.ar" tvg-name="DEPORTES - Fox Deportes (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png" group-title="DEPORTES",Fox Sports
+#EXTINF:-1 tvg-id="FOXSportsHD.ar" tvg-name="DEPORTES - Fox Deportes (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png" group-title="DEPORTES",Fox Sports
 http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-fox1ar_720.m3u8
 
-#EXTINF:-1 tvg-id="FOX Sports 2.ar" tvg-name="DEPORTES - Fox Sports 2 ARG (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="DEPORTES",Fox Sports 2
+#EXTINF:-1 tvg-id="FOXSports2.ar" tvg-name="DEPORTES - Fox Sports 2 ARG (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="DEPORTES",Fox Sports 2
 http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-fox2ar_720.m3u8
 
-#EXTINF:-1 tvg-id="FOX Sports 3.ar" tvg-name="DEPORTES - Fox Sports 3 ARG (i)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="DEPORTES",Fox Sports 3
+#EXTINF:-1 tvg-id="FOXSports3.ar" tvg-name="DEPORTES - Fox Sports 3 ARG (i)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="DEPORTES",Fox Sports 3
 http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-fox3ar_720.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Cronica.ar" tvg-name="Crónica TV" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Crónica TV
+#EXTINF:-1 tvg-id="Cronica.ar" tvg-name="Crónica.ar" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Crónica TV
 https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="Canal 9.ar" tvg-name="El Nueve" group-title="General" tvg-logo="https://files.catbox.moe/k3fp5s.png",El Nueve
+#EXTINF:-1 tvg-id="Canal 9.ar" tvg-name="ElNueve.ar" group-title="General" tvg-logo="https://files.catbox.moe/k3fp5s.png",El Nueve
 https://nameless-resonance-f644.javimarki.workers.dev/12
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" group-title="General" tvg-logo="https://files.catbox.moe/3yz8zs.png",TV Publica
