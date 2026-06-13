@@ -103,13 +103,13 @@ http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-eltrece_720.m3u
 http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-telefe.playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Tn.ar" tvg-name="TN" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TN_todo_noticias_logo.svg", TN
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TN_todo_noticias_logo.svg", TN
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
-#EXTINF:-1 tvg-id="Tn.ar" tvg-name="TN" group-title="General" tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg", TN
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" group-title="General" tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg", TN
 http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-tn_720.m3u8
-#EXTINF:-1 tvg-id="Tn.ar" tvg-name="TN" group-title="General" tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg", TN
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" group-title="General" tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg", TN
 http://liontv.es:8080/live/jorge6016tv1/6016jorge/334383.m3u8
-#EXTINF:-1 tvg-id="Tn.ar" tvg-name="TN" group-title="General" tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg", TN
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" group-title="General" tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg", TN
 http://xott.live:8080/live/0308520/0308521/348159.m3u8
 
 
