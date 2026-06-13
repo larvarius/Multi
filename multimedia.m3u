@@ -1,15 +1,17 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml", "https://epg.programadorx.cl/mdiaz/gratis.xml"
 
 #EXTINF:-1 tvg-id="DTSAHD.ar" tvg-name="DSPORTS" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DEPORTES",DSPORTS
-http://190.117.20.37:8000/play/a08d/index.m3u8
+http://38.226.210.46:8000/play/A008/index.m3u8
+#EXTINF:-1 tvg-id="DTSAHD.ar" tvg-name="DSPORTS" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DEPORTES",DSPORTS
+http://217.26.190.76:8888/play/a0co/index.m3u8
 #EXTINF:-1 tvg-id="DTSAHD.ar" tvg-name="DSPORTS" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DEPORTES",DSPORTS
 http://liontv.es:8080/live/jorge6016tv1/6016jorge/625589.m3u8
 #EXTINF:-1 tvg-id="DTSAHD.ar" tvg-name="DSPORTS" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DEPORTES",DSPORTS
 http://191.97.61.32:8000/play/a08t/index.m3u8
 #EXTINF:-1 tvg-id="DTSAHD.ar" tvg-name="DSPORTS" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DEPORTES",DSPORTS
-http://38.226.210.46:8000/play/A008/index.m3u8
-#EXTINF:-1 tvg-id="DTSAHD.ar" tvg-name="DSPORTS" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DEPORTES",DSPORTS
-http://217.26.190.76:8888/play/a0co/index.m3u8
+http://190.117.20.37:8000/play/a08d/index.m3u8
+
+
 
 #EXTINF:-1 xui-id="3484" tvg-id="DTV2HD.ar" tvg-name="DSPORTS 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/skuq0t1642114108.png" group-title="DEPORTES",DSPORTS 2
 http://liontv.es:8080/live/jorge6016tv1/6016jorge/72.m3u8
