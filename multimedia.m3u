@@ -43,9 +43,9 @@ http://liontv.es:8080/live/jorge6016tv1/6016jorge/69.m3u8
 http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-espnpremar_720.m3u8
 
 
-#EXTINF:-1 xui-id="8088" tvg-id="TNTSportsPremium.ar" tvg-name="TNT SPORTS" tvg-logo="https://i.postimg.cc/TKV8tTMT/tntsports.png" group-title="DEPORTES",TNT SPORTS
+#EXTINF:-1 xui-id="8088" tvg-id="TNTSportsPremium.ar" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TNT_Sports_Logo_%282017%29.png/120px-TNT_Sports_Logo_%282017%29.png" group-title="DEPORTES",TNT SPORTS
 http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-tnt-prem_720.m3u8
-#EXTINF:-1 xui-id="8088" tvg-id="TNTSportsPremium.ar" tvg-name="TNT SPORTS" tvg-logo="https://i.postimg.cc/TKV8tTMT/tntsports.png" group-title="DEPORTES",TNT SPORTS
+#EXTINF:-1 xui-id="8088" tvg-id="TNTSportsPremium.ar" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TNT_Sports_Logo_%282017%29.png/120px-TNT_Sports_Logo_%282017%29.png" group-title="DEPORTES",TNT SPORTS
 https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
 
 #EXTINF:-1 xui-id="160132" tvg-id="622dtv.ar" tvg-name="ESPN 2 ARG" tvg-logo="http://cdn-abc.xyz:2086/images/Y_STBOg-CWcvCT_ufdf2jX4S6rNSQCfigTn_e9CgAUA7SBAKJSSbORKUmo8aK59TCY0ga2WiJnzCloQZW24uNw.png" group-title="DEPORTES",ESPN 2 ARG
@@ -74,13 +74,17 @@ http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-fox3ar_720.m3u8
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica.ar" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Crónica TV
 https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="ElNueve.ar" group-title="General" tvg-logo="https://files.catbox.moe/k3fp5s.png",El Nueve
 https://nameless-resonance-f644.javimarki.workers.dev/12
 
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" group-title="General" tvg-logo="https://files.catbox.moe/3yz8zs.png",TV Publica
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_TV_P%C3%BAblica_Fueguina.png/960px-Logo_TV_P%C3%BAblica_Fueguina.png",TV Publica
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/2560px-A24_%282025%29.svg.png",A24
@@ -89,14 +93,14 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 #EXTINF:-1 tvg-id="Canal 26.ar" tvg-name="Canal 26" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:-1 tvg-id="LaNacion+.ar" tvg-name="LN+" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/2560px-La-Nacion-Mas-Logo.svg.png",LN+
+#EXTINF:-1 tvg-id="LaNacion+.ar" tvg-name="LN+" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LN%2B.png/120px-LN%2B.png",LN+
 http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-ln_720.m3u8
 
 #EXTINF:-1 tvg-id="America.ar" tvg-name="América TV" group-title="General" tvg-logo="https://i.postimg.cc/Bn3JjGrg/listasm3ufre.jpg",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar" group-title="General" tvg-name="El Trece" tvg-logo="ht
-tps://files.catbox.moe/finwuj.png",El Trece
+
+#EXTINF:-1 tvg-id="ElTrece.ar" group-title="General" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Eltrece_logotipo_2018.png/120px-Eltrece_logotipo_2018.png",El Trece
 http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-eltrece_720.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
