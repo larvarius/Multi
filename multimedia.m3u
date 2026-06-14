@@ -63,9 +63,10 @@ http://daleplaytv.vip:80/live/4nd9wbtu/c5hrn9eFhfsa/306385.m3u8
 http://liontv.es:8080/live/jorge6016tv1/6016jorge/73.m3u8
 #EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://iili.io/JKrdlR4.png" group-title="DEPORTES",ESPN HD
 http://45.170.130.224:8000/play/a04l/index.m3u8
-#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://iili.io/JKrdlR4.png" group-title="DEPORTES",ESPN Disney+
+
+#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://i.ibb.co/Z6YbHXcd/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="DEPORTES",ESPN Disney+
 http://miotv.cc:8080/live/Juan123/Juan123/273604.m3u8
-#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://iili.io/JKrdlR4.png" group-title="DEPORTES",ESPN Disney+
+#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://i.ibb.co/Z6YbHXcd/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="DEPORTES",ESPN Disney+
 http://liontv.es:8080/live/jorge6016tv1/6016jorge/1613614.m3u8
 
 
