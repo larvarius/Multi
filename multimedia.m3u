@@ -280,7 +280,8 @@ https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/282601.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDIAL",La 1
 https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/282623.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDIAL",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDIAL",Dazn La liga
+http://miotv.cc:8080/live/Juan123/Juan123/154584.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDIAL",
 
