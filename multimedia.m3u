@@ -255,11 +255,19 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/
 #KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FIFA_WorldCup_logo.svg" group-title="MUNDIAL", Worl Cup Tv
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#EXTINF:-1 tvg-name="CIGNAL TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="MUNDIAL",CIGNAL TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
+
+#EXTINF:-1 tvg-name="FRANCE TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="MUNDIAL",FRANCE TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDIAL", 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
