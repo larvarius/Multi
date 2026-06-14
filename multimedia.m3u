@@ -194,4 +194,52 @@ https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 http://daleplaytv.vip:80/live/4nd9wbtu/c5hrn9eFhfsa/81324.m3u8
 
 
+#EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="MUNDIAL", DSports
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
+
+#EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="MUNDIAL", DSports 
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
+https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
+
+#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="MUNDIAL", Dsports 2
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=010b4fa338184f52a712121ad62ae9b4:e310bad2a570b60f7799e2aa0fb33a71
+https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a463f9d5/manifest.mpd
+
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="MUNDIAL", Dsports +
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
+https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDIAL", TELEMUNDO EAST 
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDIAL", Universo 
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=069f3495380f3d25a8c03477067f7d1b:7d9dbf8134535e1665e914fb7134ce47
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDIAL", Eventos Vix
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=784d6b54efe3a13dc1fbcda17e5804db:b4f4814e01943f910b62e6bfd0c23728
+https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-92-HD/default.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/V310Z0q/canal5.png" group-title="MUNDIAL", Canal 5
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd
 
