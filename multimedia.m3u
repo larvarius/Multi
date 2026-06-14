@@ -91,9 +91,15 @@ http://liontv.es:8080/live/jorge6016tv1/6016jorge/73.m3u8
 http://45.170.130.224:8000/play/a04l/index.m3u8
 
 #EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://i.ibb.co/Z6YbHXcd/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="DEPORTES",ESPN Disney+
-http://miotv.cc:8080/live/Juan123/Juan123/273604.m3u8
+http://elpapanatas.space:8080/live/Oliver123/Oliver123/446258.m3u8
 #EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://i.ibb.co/Z6YbHXcd/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="DEPORTES",ESPN Disney+
 http://liontv.es:8080/live/jorge6016tv1/6016jorge/1613614.m3u8
+#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://i.ibb.co/Z6YbHXcd/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="DEPORTES",ESPN Disney+
+http://elpapanatas.space:8080/live/Oliver123/Oliver123/446283.m3u8
+#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://i.ibb.co/Z6YbHXcd/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="DEPORTES",ESPN Disney+
+http://liontv.es:8080/live/jorge6016tv1/6016jorge/1979622.m3u8
+#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://i.ibb.co/Z6YbHXcd/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="DEPORTES",ESPN Disney+
+http://liontv.es:8080/live/jorge6016tv1/6016jorge/1979621.m3u8
 
 
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-name="ESPN 2 ARG" tvg-logo="https://iili.io/JKrdO5x.png" group-title="DEPORTES",ESPN 2 ARG
