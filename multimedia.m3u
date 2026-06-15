@@ -1,8 +1,5 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml"
 
-#EXTINF:-1 tvg-id="610.dtv.ar" tvg-name="DSPORTS" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DEPORTES",DSPORTS mpd
-
-
 #EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DEPORTES", DSports
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
