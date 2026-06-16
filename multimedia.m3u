@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml"
 
 #EXTINF:-1 tvg-logo="https://iili.io/KYJC4V9.png" group-title="MUNDIAL",Fox Sports 2 US
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36|key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/140.0.0.0 Safari/537.36|key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 
 
 #EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DEPORTES", DSports
