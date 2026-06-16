@@ -205,7 +205,7 @@ https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d95265
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="MUNDIAL",DSPORTS op3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","45bbd582f220f438f896450d8306a3f2":"582c6ba7f64bbc0f2d91c6b0c265760c"}
+#KODIPROP:inputstream.adaptive.license_key=b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f,45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="MUNDIAL", Dsports 2
