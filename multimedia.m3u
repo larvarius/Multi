@@ -1,8 +1,5 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml"
 
-#EXTINF:-1 tvg-logo="https://iili.io/KYJC4V9.png" group-title="MUNDIAL",Fox Sports 2 US
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|User-Agent=Mozilla/5.0|key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-
 
 #EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DEPORTES", DSports
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
@@ -27,6 +24,10 @@ https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
 https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/KYJC4V9.png" group-title="MUNDIAL",Fox Sports 2 US
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|User-Agent=Mozilla/5.0|key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+
 
 #EXTINF:-1 tvg-id="610.dtv.ar" tvg-name="DSPORTS" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DEPORTES",DSPORTS Miotv
 http://miotv.cc:8080/live/Juan123/Juan123/316087.m3u8
