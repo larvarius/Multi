@@ -418,11 +418,11 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDIAL",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDIAL", a24 op2
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
+#KODIPROP:inputstream.adaptive.license_key=ed936cd5cb59eeee83addafb446662a4:dd4b7aeb2bc000468883296e7ae4a09b
+https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="MUNDIAL",TSN 1
 https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/166761.m3u8
