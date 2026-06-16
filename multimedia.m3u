@@ -1,9 +1,5 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml"
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="MUNDIAL", TyC Sports OP2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
-http://181.13.252.102:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DEPORTES", DSports
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
