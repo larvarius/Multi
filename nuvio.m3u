@@ -54,12 +54,21 @@ https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="MUNDIAL",La 1
 https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/282623.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="MUNDIAL",Dazn La liga
 http://miotv.cc:8080/live/Juan123/Juan123/154584.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="Deportes Inter",TSN 1 Op2
+https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/166761.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" group-title="Deportes Inter",Tigo Sports 1
+https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/282601.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FIFA%2B.svg/1920px-FIFA%2B.svg.png" group-title="Deportes Inter",FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 
 
