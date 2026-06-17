@@ -45,33 +45,29 @@ https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/282460.m3u8
 http://daleplaytv.vip:80/live/4nd9wbtu/c5hrn9eFhfsa/52825.m3u8
 
 
-
-#EXTINF:-1 tvg-id="612directv.cl" tvg-name="DSPORTS 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/skuq0t1642114108.png" group-title="DEPORTES",DSPORTS 2 Lion
-http://liontv.es:8080/live/jorge6016tv1/6016jorge/72.m3u8
-
-#EXTINF:-1 tvg-id="179directv.cl" tvg-name="DSPORTS +" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest?cb=20221115002318&path-prefix=es" group-title="DEPORTES",DSPORTS + Lion
-http://liontv.es:8080/live/jorge6016tv1/6016jorge/69.m3u8
-
-
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="DEPORTES",TyC Sports 720 MioTv
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="DEPORTES",TyC Sports 720 IP
+http://190.7.19.197:232/play/a04w/index.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Tyc",TyC Sports 720 MioTv
 http://miotv.cc:8080/live/Juan123/Juan123/187371.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="DEPORTES",TyC Sports 1080 IP
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Tyc",TyC Sports 1080 IP
 http://38.44.109.41:8003/play/a02l/index.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="DEPORTES",TyC Sports 720 TvGoLat
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Tyc",TyC Sports 720 TvGoLat
 https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/282451.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="DEPORTES",TyC Sports 720 ElPapanatas
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Tyc",TyC Sports 720 ElPapanatas
 http://elpapanatas.space:8080/live/Oliver123/Oliver123/207978.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="DEPORTES",TyC Sports lion
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Tyc",TyC Sports lion
 http://liontv.es:8080/live/jorge6016tv1/6016jorge/334271.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="DEPORTES",TyC Sports 1080 IP
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Tyc",TyC Sports 1080 IP
 http://38.44.109.41:8003/play/a02l/index.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="DEPORTES",TyC Sports Int 720 1nyaler
-https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="DEPORTES",TyC Sports Fan 1080
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Tyc",TyC Sports Int 720 1nyaler
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Tyc",TyC Sports Fan 1080
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://iili.io/JKrdlR4.png" group-title="DEPORTES",ESPN Ar 720 Lion
+#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://iili.io/JKrdlR4.png" group-title="DEPORTES",ESPN Ar IP
+http://190.7.19.197:232/play/a03n/index.m3u8
+#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Espn",ESPN Ar 720 Lion
 http://liontv.es:8080/live/jorge6016tv1/6016jorge/73.m3u8
 #EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://iili.io/JKrdlR4.png" group-title="DEPORTES",ESPN Ar 720 TvGoLat
 http://tvgolat.org:8080/live/Oscarmogollon01/D175349g/16497.m3u8
@@ -170,6 +166,8 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="General" tvg-name="El Trece" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png",El Trece
 http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-eltrece_720.m3u8
 
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="General" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png",Telefe IP
+http://181.209.96.155:10000/play/a15g/index.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="General" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png",Telefe tvgolat
 http://tvgolat.org:8080/live/Oscarmogollon01/D175349g/1634.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="General" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png",Telefe elpapanatas
