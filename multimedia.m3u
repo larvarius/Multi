@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml"
 
+EXTINF:-1 tvg-id="610.dtv.pe" tvg-name="DSPORTS" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DEPORTES",DSPORTS mpd
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd?key=a7d11d37a1f7611ee88d4db880171f32&kid=68f96d618b0b956b008c445896a25a79
 
 #EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DEPORTES", DSports HD
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
