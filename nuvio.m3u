@@ -1,25 +1,25 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml"
 
 
-#EXTINF:-1 tvg-id="610.dtv.pe" tvg-name="DSPORTS" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Dsports",DSPORTS Miotv
+#EXTINF:-1 tvg-id="610.dtv.pe" tvg-name="DSPORTS" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Dsports", Dsports
 http://miotv.cc:8080/live/Juan123/Juan123/316087.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Tyc",TyC Sports 720 TvGoLat
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Tyc",TyC Sports
 https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/282451.m3u8
 
-#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Espn",ESPN Ar 720 TvGoLat
+#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Espn",ESPN Ar
 http://tvgolat.org:8080/live/Oscarmogollon01/D175349g/16497.m3u8
 
-#EXTINF:-1 tvg-id="622dtv.ar" tvg-name="ESPN 2 ARG" tvg-logo="https://iili.io/JKrdO5x.png" group-title="DEPORTES",ESPN 2 tvgolat
+#EXTINF:-1 tvg-id="622dtv.ar" tvg-name="ESPN 2 ARG" tvg-logo="https://iili.io/JKrdO5x.png" group-title="DEPORTES",Espn 2
 http://tvgolat.org:8080/live/Oscarmogollon01/D175349g/81343.m3u8
 
-#EXTINF:-1 tvg-id="1623dtv.ar" tvg-name="ESPN 3 ARG" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="DEPORTES",ESPN 3 tvgolat
+#EXTINF:-1 tvg-id="1623dtv.ar" tvg-name="ESPN 3 ARG" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="DEPORTES",Espn 3
 http://tvgolat.org:8080/live/Oscarmogollon01/D175349g/81344.m3u8
 
-#EXTINF:-1 tvg-id="EspnPremium.ar" tvg-name="ESPN PREMIUM ARG" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="DEPORTES",ESPN PREMIUM Tvgolat
+#EXTINF:-1 tvg-id="EspnPremium.ar" tvg-name="ESPN PREMIUM ARG" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="DEPORTES",ESPN PREMIUM
 http://tvgolat.org:8080/live/Oscarmogollon01/D175349g/11476.m3u8
 
-#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-name="TNT SPORTS" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="DEPORTES",TNT SPORTS tvgolat
+#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-name="TNT SPORTS" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="DEPORTES",TNT SPORTS
 http://tvgolat.org:8080/live/Oscarmogollon01/D175349g/25121.m3u8
 
 
@@ -61,7 +61,7 @@ https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/282623.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="MUNDIAL",Dazn La liga
 http://miotv.cc:8080/live/Juan123/Juan123/154584.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="Deportes Inter",TSN 1 Op2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="Deportes Inter",TSN 1
 https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/166761.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" group-title="Deportes Inter",Tigo Sports 1
