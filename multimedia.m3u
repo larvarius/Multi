@@ -1,5 +1,11 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml"
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45da1df6b7dac6f46f0c95b5850bc2f2:a195dc0206035b2cc8be2d452e71b61d
+#EXTINF:-1 group-title="DEPORTES", TNT Sports AR
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Content/DASH_DASH_FK/Live/channel(TNT_SPORTS)/master.mpd
+
+
 
 #EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DEPORTES", DSports HD
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
