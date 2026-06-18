@@ -2,194 +2,146 @@
 
 
 
-#EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DEPORTES", DSports HD
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
 
-#EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DEPORTES", DSports FHD
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
-https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
 
-#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DEPORTES", Dsports 2
+#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", Dsports 2
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=010b4fa338184f52a712121ad62ae9b4:e310bad2a570b60f7799e2aa0fb33a71
 https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a463f9d5/manifest.mpd
 
-#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DEPORTES", Dsports+
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", Dsports+
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
 https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
-#EXTINF:-1 tvg-id="610.dtv.pe" tvg-name="DSPORTS" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Dsports",DSPORTS Miotv
-http://miotv.cc:8080/live/Juan123/Juan123/316087.m3u8
-#EXTINF:-1 tvg-id="610.dtv.ec" tvg-name="DSPORTS" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Dsports",DSPORTS Miotv
-http://miotv.cc:8080/live/Juan123/Juan123/316080.m3u8
-#EXTINF:-1 tvg-id="610.dtv.ar" tvg-name="DSPORTS" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Dsports",DSPORTS Lion
-http://liontv.es:8080/live/jorge6016tv1/6016jorge/625589.m3u8
-#EXTINF:-1 tvg-id="610.dtv.ar" tvg-name="DSPORTS" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Dsports",DSPORTS Rlatinop
-http://rlatinop.com:8880/Jhoselin102030xd1011/SQDyyTdV2z6x/526169
-#EXTINF:-1 tvg-id="610.dtv.ar" tvg-name="DSPORTS" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Dsports",DSPORTS Redworld
-http://redworld.pro:8880/56974081590w/A8TsKszFcs6n/428666.m3u8
-#EXTINF:-1 tvg-id="610.dtv.ar" tvg-name="DSPORTS" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Dsports",DSPORTS Dalaplaytv
-http://daleplaytv.vip:80/live/4nd9wbtu/c5hrn9eFhfsa/360943.m3u8
-#EXTINF:-1 tvg-id="610.dtv.ar" tvg-name="DSPORTS" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Dsports",DSPORTS Elpapanatas
-http://elpapanatas.space:8080/live/Oliver123/Oliver123/258844.m3u8
-#EXTINF:-1 tvg-id="610.dtv.ar" tvg-name="DSPORTS" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Dsports",DSPORTS TvGolat
-https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/282460.m3u8
-#EXTINF:-1 tvg-id="610.dtv.ar" tvg-name="DSPORTS" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Dsports",DSPORTS UY Daleplaytv
-http://daleplaytv.vip:80/live/4nd9wbtu/c5hrn9eFhfsa/52825.m3u8
+#EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", DSports FHD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
+https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
 
-
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="DEPORTES",TyC Sports 720 IP
-http://190.7.19.197:232/play/a04w/index.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Tyc",TyC Sports 720 MioTv
-http://miotv.cc:8080/live/Juan123/Juan123/187371.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Tyc",TyC Sports 1080 IP
-http://38.44.109.41:8003/play/a02l/index.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Tyc",TyC Sports 720 TvGoLat
-https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/282451.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Tyc",TyC Sports 720 ElPapanatas
-http://elpapanatas.space:8080/live/Oliver123/Oliver123/207978.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Tyc",TyC Sports lion
-http://liontv.es:8080/live/jorge6016tv1/6016jorge/334271.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Tyc",TyC Sports 1080 IP
-http://38.44.109.41:8003/play/a02l/index.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Tyc",TyC Sports Int 720 1nyaler
-https://1nyaler.streamhostingcdn.top/stream/84/index.m3
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Tyc",TyC Sports Fan 1080
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://iili.io/JKrdlR4.png" group-title="DEPORTES",ESPN Ar IP
-http://190.7.19.197:232/play/a03n/index.m3u8
-#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Espn",ESPN Ar 720 Lion
-http://liontv.es:8080/live/jorge6016tv1/6016jorge/73.m3u8
-#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Espn",ESPN Ar 720 TvGoLat
-http://tvgolat.org:8080/live/Oscarmogollon01/D175349g/16497.m3u8
-#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Espn",ESPN 720 MioTv
-http://miotv.cc:8080/live/Juan123/Juan123/369715.m3u8
-#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Espn",ESPN 720 Rlatinop
-http://rlatinop.com:8880/live/josesosa547tv/FFy5GgKfmFgh/327914.m3u8
-#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Espn",ESPN 720 MioTv
-http://miotv.cc:8080/live/Juan123/Juan123/369715.m3u8
-#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Espn",ESPN 720 DalaPlay
-http://daleplaytv.vip:80/live/4nd9wbtu/c5hrn9eFhfsa/306385.m3u8
-#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Espn",ESPN 720 IP
-http://45.170.130.224:8000/play/a04l/index.m3u8
-
-#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://i.ibb.co/Z6YbHXcd/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="DEPORTES",ESPN Disney+
-
-#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://i.ibb.co/Z6YbHXcd/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="DEPORTES",ESPN Disney+
-
-#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://i.ibb.co/Z6YbHXcd/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="DEPORTES",ESPN Disney+
-
-#EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN HD" tvg-logo="https://i.ibb.co/Z6YbHXcd/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="Espn",ESPN Disney+ 1080 Lion 
+#EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", DSports HD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
 
 
 
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Argentina",TyC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"U9DPbB1JwW9RgPhuGHCwDw","k":"frZ0O19EtSuifIginIx64g"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?
 
-#EXTINF:-1 tvg-id="622dtv.ar" tvg-name="ESPN 2 ARG" tvg-logo="https://iili.io/JKrdO5x.png" group-title="DEPORTES",ESPN 2 tvgolat
+
+#EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Argentina",ESPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bSQ-vXpXvqS0sFKuE_TAUQ","k":"XBklh53oc9Q7fCWSWQJTmw"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?
+
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="Argentina",FOX Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"GmG2RP3GhWi1vj4mKQQVZA","k":"oWcs37XeZHBxURKPgR2mZw"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd?
+
+#EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Argentina",ESPN Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"-JQ9EU4lFRyK5PYSNR1aXw","k":"fzTJpwyDYCDLwyc8Qn_ydw"}],"type":"temporary"}
+https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd?
+
+#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT Sports Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wmNxB56JIG1j4UVIk-iBtg","k":"raw8Ozd05BHW5Jck9-oO4w"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?
+
+#EXTINF:-1 tvg-id="622dtv.ar" tvg-name="ESPN 2 ARG" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Argentina",ESPN 2
 http://tvgolat.org:8080/live/Oscarmogollon01/D175349g/81343.m3u8
 
-#EXTINF:-1 tvg-id="1623dtv.ar" tvg-name="ESPN 3 ARG" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="DEPORTES",ESPN 3 tvgolat
+#EXTINF:-1 tvg-id="1623dtv.ar" tvg-name="ESPN 3 ARG" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="Argentina",ESPN 3 
 http://tvgolat.org:8080/live/Oscarmogollon01/D175349g/81344.m3u8
 
-#EXTINF:-1 tvg-id="EspnPremium.ar" tvg-name="ESPN PREMIUM ARG" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="DEPORTES",ESPN PREMIUM Tvgolat
-http://tvgolat.org:8080/live/Oscarmogollon01/D175349g/11476.m3u8
-#EXTINF:-1 tvg-id="EspnPremium.ar" tvg-name="ESPN PREMIUM ARG" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="DEPORTES",ESPN PREMIUM Miotv
-http://miotv.cc:8080/live/Juan123/Juan123/369708.m3u8
-#EXTINF:-1 tvg-id="EspnPremium.ar" tvg-name="ESPN PREMIUM ARG" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="DEPORTES",ESPN PREMIUM Lion
-http://liontv.es:8080/live/jorge6016tv1/6016jorge/500898.m3u8
-#EXTINF:-1 tvg-id="EspnPremium.ar" tvg-name="ESPN PREMIUM ARG" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="DEPORTES",ESPN PREMIUM rlatinop
-http://rlatinop.com:8880/live/EuGeniAA12@1/xBJdvrdXYjzQ/167731.m3u8
-
-#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-name="TNT SPORTS" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="DEPORTES",TNT SPORTS 1nyaler
-https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
-#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-name="TNT SPORTS" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="DEPORTES",TNT SPORTS tvgolat
-http://tvgolat.org:8080/live/Oscarmogollon01/D175349g/25121.m3u8
-#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-name="TNT SPORTS" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="DEPORTES",TNT SPORTS miotv
-http://miotv.cc:8080/live/Juan123/Juan123/273598.m3u8
-#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-name="TNT SPORTS" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="DEPORTES",TNT SPORTS miotv
-http://miotv.cc:8080/live/Juan123/Juan123/273598.m3u8
-
-
-#EXTINF:-1 tvg-id="1620dtv.cl" tvg-name="ESPN 4 ARG" tvg-logo="http://cdn-abc.xyz:2086/images/Y_STBOg-CWcvCT_ufdf2jaGymw5wzZUpLrry3dteh78wzQ-aeVEuMfXnuZ3ScdzZRkun7281vOweLTe3QAkmKw.png" group-title="DEPORTES",ESPN 4 ARG
-
-#EXTINF:-1 tvg-id="624dtv.co" tvg-name="ESPN 5HD" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/b/bb/Espn5.jpg/revision/latest/scale-to-width-down/1200?cb=20240217221020&path-prefix=pt-br" group-title="DEPORTES",ESPN 5HD
-
-#EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="DEPORTES - Espn 6 MX (Z)(720)" tvg-logo="https://i.ibb.co/vv1FJdNV/image.png" group-title="DEPORTES",ESPN 6
-
-#EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="ESPN 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsgJEEP_VopjfJSYeu1qMUwrRj_lFC3_evyg&s" group-title="DEPORTES",ESPN 7
-
-
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports" tvg-logo="https://iili.io/JKrdrqF.png" group-title="DEPORTES",Fox Sports
-
-
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="DEPORTES",Fox Sports 2
-
-
-#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="DEPORTES",Fox Sports 3
+#EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1132/1132WHORIZONTAL.jpg?size=290x163" group-title="Argentina",ESPN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"A0ZT00E_I-hySdH7fmg1mg","k":"oNa4SfF8Qw6cwC0Hc5pOSg"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd?
 
 
 
 
 
-#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N.ar" group-title="General" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png",C5N
 
 
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica.ar" group-title="General" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png",Crónica TV
-https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
-
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="ElNueve.ar" group-title="General" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png",El Nueve
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="ElNueve.ar" group-title="Argentina" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png",El Nueve
 https://nameless-resonance-f644.javimarki.workers.dev/12
 
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" group-title="General" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png",TV Publica
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" group-title="Argentina" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png",TV Publica
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="General" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png",A24
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" group-title="General" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZoO4prUj9c-jFeAzB3iH5LKy97BaubnA1xN-BeNKqZJ7wACVRhLEl8SgAmFRtaUQcrR3DP5zLFZtrY48IOqQvRxvOr9MqW8sQZKtXsklAc6ayLSH-6cPWlXHqHy5p4l5tPmEAgTOjptQ6/s1600/canal26hd.png",Canal 26
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" group-title="Argentina" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZoO4prUj9c-jFeAzB3iH5LKy97BaubnA1xN-BeNKqZJ7wACVRhLEl8SgAmFRtaUQcrR3DP5zLFZtrY48IOqQvRxvOr9MqW8sQZKtXsklAc6ayLSH-6cPWlXHqHy5p4l5tPmEAgTOjptQ6/s1600/canal26hd.png",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:-1 tvg-id="LaNacion+.ar" tvg-name="LN+" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LN%2B.png/120px-LN%2B.png",LN+
-http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-ln_720.m3u8
+#EXTINF:-1 tvg-id="LaNacion+.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" group-title="Argentina",La Nacion+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"oAIBC1BoVFmd_7uLkEjsfA","k":"Fg7t-FIp2pGafF7sT774CQ"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?
 
-#EXTINF:-1 tvg-id="America.ar" tvg-name="América TV" group-title="General" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png",América TV
+#EXTINF:-1 tvg-id="America.ar" tvg-name="América TV" group-title="Argentina" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar" group-title="General" tvg-name="El Trece" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png",El Trece
+#EXTINF:-1 tvg-id="ElTrece.ar" group-title="Argentina" tvg-name="El Trece" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png",El Trece
 http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-eltrece_720.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="General" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png",Telefe web
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="General" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png",Telefe IP
-http://181.209.96.155:10000/play/a15g/index.m3u8
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="General" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png",Telefe tvgolat
-http://tvgolat.org:8080/live/Oscarmogollon01/D175349g/1634.m3u8
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="General" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png",Telefe elpapanatas
-http://elpapanatas.space:8080/live/Oliver123/Oliver123/1111.m3u8
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="General" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png",Telefe lion
-http://liontv.es:8080/live/jorge6016tv1/6016jorge/1394278.m3u8
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="General" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png",Telefe daleplaytv
-http://daleplaytv.vip:80/live/4nd9wbtu/c5hrn9eFhfsa/50510.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="Argentina",Telefe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"m7VPzP-t3TiRboXAjemMyQ","k":"0G9QnEGOtvGy_Ct2ZEUyiw"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" group-title="General" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png", TN
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" group-title="General" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png", TN Op1
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" group-title="General" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png", TN
-http://liontv.es:8080/live/jorge6016tv1/6016jorge/334383.m3u8
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" group-title="General" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png", TN
-http://xott.live:8080/live/0308520/0308521/348159.m3u8
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" group-title="General" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png", TN
-https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" group-title="General" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png", TN
-http://daleplaytv.vip:80/live/4nd9wbtu/c5hrn9eFhfsa/81324.m3u8
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="Argentina",TN Op2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"S06-PGjEyVx2OQludsIz0A","k":"DEjNXjKYt2KgmazcBaUYKg"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="MUNDIAL", DSports HD
@@ -459,5 +411,530 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/800/542/0/0/228799490721.png" group-title="Cine",HBO LA
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Am2yipZrHQIsvqqIFuVSWw","k":"7T+IXyiBAtneF4ve87fkUQ"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/7/out/u/dash/HBO-HD-H265/default.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/160/160/0/0/228799490721.png" group-title="Cine",HBO MX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"3q0CP3qBY0M5rmOZkMFReg","k":"upcCIrRGbGHQ3szGerNEUg"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/101/CH_LOGO/800/542/0/0/36093751072127.png" group-title="Cine",HBO 2 LA
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"jO6TlJWIB1clprNSikFa4Q","k":"qyv2T/OgVOVlJ7zpXJCfgg"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO2-HD-H265/default.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/101/CH_LOGO/160/160/0/0/93371734072127.png" group-title="Cine",HBO 2 MX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"-WK3bDaT2v7gEXRjRLXoIw","k":"Gshj8WM9_C09sGnz3ZqBRQ"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/HBO2/live_dash_cld/HBO2.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/800/542/0/0/10237380072165.png" group-title="Cine",HBO Plus LA
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vPIbC2hd9pUQsnCfGL79Fw","k":"GfiCFvUt4hFJzaKMMB9dlg"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-PLUS-HD-H265/default.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png" group-title="Cine",HBO Plus MX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xvOG20LAg6griWkGTrmQfQ","k":"3Ekpac5rnLOQml1Zoz-I2g"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/800/542/0/0/7354519807335.png" group-title="Cine",HBO Family LA
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Iwps+l5/1GZbFbbdzLlkWQ","k":"k5w/Ybn7ITUY5Jwk7O6rhQ"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-FAMILY-HD-H265/default.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png" group-title="Cine",HBO Family MX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xvOG20LAg6griWkGTrmQfQ","k":"3Ekpac5rnLOQml1Zoz-I2g"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/160/160/0/0/61157416071448.png" group-title="Cine",HBO Mundi LA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vqXaRPSafjDSGm4KL93CJQ","k":"AYWyCb9Q4qGxz9QW21F33g"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/HBOMundi/live_dash_cld/HBOMundi.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/800/542/0/0/61157416071448.png" group-title="Cine",HBO Mundi MX
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"lrI3C9zJrLbKoM/VqjXc9A","k":"tzKgKRiqMuc55DlS23aMxg"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-MUNDI-HD-H265/default.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/160/160/0/0/68908128073927.png" group-title="Cine",HBO Pop LA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1c8a2ce8CiAFFTWv9jpcBA","k":"AZ6g3lkKAThfUK4_4JDRng"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/HBOPop/live_dash_cld/HBOPop.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/800/542/0/0/68908128073927.png" group-title="Cine",HBO Pop MX
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BKtM79J78mNSYfpxSviD1g","k":"WhKC7oCYJrmypWNpcHMNpg"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-POP-HD-H265/default.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/160/160/0/0/3657655307500.png" group-title="Cine",HBO Signature LA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"v0i6ieA7QeUogqfhVfrNnA","k":"UBA9ioGdT67U5E3GzZCAZg"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/800/542/0/0/3657655307500.png" group-title="Cine",HBO Signature MX
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"y9ocs4RVjY7G/TzDhButhw","k":"DrpZDP/FZe1I7mGXDIvy3A"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-SIGNATURE-HD-H265/default.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/160/160/0/0/6041444607334.png" group-title="Cine",HBO Xtreme LA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"M9SCPtLK5VwZ-gp8IPpCNQ","k":"pkxNVe2yAEaALnYzLIqnXg"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/HBOXtreme/live_dash_cld/HBOXtreme.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/800/542/0/0/6041444607334.png" group-title="Cine",HBO Xtreme MX
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"q/MEKQvsfJgucGsfrlkq6g","k":"c+HQHMhruIwYT7yjEpKXfw"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-XTREME-HD-H265/default.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/160/160/0/0/62685863076950.png" group-title="PACK UNIVERSAL+",Universal Premiere
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"TKR5uolj8TLHAe76oPsrWg","k":"vtI1GU2l4YEIwS74GzJKgA"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title="PACK UNIVERSAL+",Universal Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"amXnf7Xyg4svl8d4zFcawg","k":"vB8osexhntfaIvyagNOjXQ"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/UniCin/live_dash_cld/UniCin.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png" group-title="PACK UNIVERSAL+",Universal Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"lM2rhnP-IxqN5XJZ6sVSKw","k":"ESXRVGSXcMwSJ3BTG4-LMA"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/UniCom/live_dash_cld/UniCom.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png" group-title="PACK UNIVERSAL+",Universal Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"etHP6O28NbW6saZqXOKYsw","k":"JXlK4d8emQjUOhAkgefTEQ"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/160/160/0/0/24764893076951.png" group-title="PACK UNIVERSAL+",Universal Reality
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"37y-ZWs0iE2PjcxX0txR-A","k":"0-LAMAO0Q8zt0w1kQvvdQA"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/UniRea/live_dash_cld/UniRea.mpd?
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/800/542/0/0/53485573073445.png" group-title="Cine",Cinecanal
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"XofSTte1RXaJVUj/pl6rHQ","k":"Hl18nmckivOOSOxW0iQVBw"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/14/out/u/dash/CINECANAL-HD/default.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/47/CH_LOGO/800/542/0/0/60951863073142.png" group-title="Cine",Cinemax
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"+m0bUt2YbY+qucymrbiHSw","k":"YCIlm6ntsf5mtFB7UeHBLw"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/15/out/u/dash/CINEMAX-HD/default.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/862/CH_LOGO/400/400/0/0/33860159072069.png" group-title="Cine",Comedy Central
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"KmG3p5EgZKzGKgamriKsXA","k":"W/s3TWRHA1UPBjdTK8oEkQ"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/12/out/u/dash/COMEDY-CENTRAL-HD/default.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/800/542/0/0/77211152071862.png" group-title="Cine",AXN
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"l21wPLlSAqgIlyxyJUT64Q","k":"Vid1sXBALG4jCf9pueSOgg"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/13/out/u/dash/AXN-HD/default.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1h6W5Q.png" group-title="Cine",AMC Ñ
+https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/800/542/0/0/35224800072040.png?worldtv2" group-title="Cine",FX
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"jOHsPiQCoXDL4Tt5zpuzDw","k":"gv3P3jLMAmc1R+WLUOK1rg"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/13/out/u/dash/FX-HD/default.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTK3N70T/sony-channel.png" group-title="Cine",Sony Channel
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"R7jREYBHxH/515T8psmZeg","k":"l6+Cmy3QN/uFVQuFsHV2hQ"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/13/out/u/dash/SONY-HD/default.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HFpZ6CC/sony-movies.png" group-title="Cine",Sony Movies
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1sCypabXqnL29282BzZM6g","k":"KXcrRQOTFG6NG1YQf1Fjog"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/14/out/u/dash/SONY-MOVIES-HD/default.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNPgTC2x/space-hd.png" group-title="Cine",SPACE
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQxFfZZ9WqLFfHJ/3dxe0w","k":"XiFMFwUsxIQW5nb/cS4Z8w"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/6/out/u/dash/SPACE-HD-H265/default.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NP3RrN2/tnt.png" group-title="Cine",TNT
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"N5cdR8nmTXWEBY78/cQksw","k":"mUTs2kjvPWMlzPiasyvvgw"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/6/out/u/dash/TNT-HD-H265/default.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/117/CH_LOGO/400/400/0/0/18783550073421.png|worldtv2" group-title="Cine",TNT Series
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"jHw8egWBKlJF1kwOztCKQQ","k":"5WxN7fpsUfYXzHydLWH3qA"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/11/out/u/dash/TNT-SERIES-HD/default.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpZq6zN8/universal-tv.jpg" group-title="Cine",UNIVERSAL TV
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"SiunlgFaljahbYZC32G3jA","k":"Sl+9WC5V1gd7M7G/M5XD/w"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/7/out/u/dash/UNIVERSAL-CHANNEL-HD-H265/default.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9JprFc/unnamed-7.jpg" group-title="Cine",Studio Universal
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"buDD9kBWMpGYX+A2bc7tZQ","k":"INz80DDEuqDgpzFhnhoBhw"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/7/out/u/dash/STUDIO-UNIVERSAL-HD-H265/default.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s1yPj71/worldtv2.png" group-title="Cine",Golden
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vA5MffsQ1IM1dXIAAYDMpQ","k":"JHNROC/Nch8ocsS9oVxSRQ"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/13/out/u/dash/GOLDEN-SD/default.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BTjfF3p/golden-multiplex.png" group-title="Cine",Golden Multiplex
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"8jYBmXvAJOqWtrnR4riz/A","k":"Uhos/dP2SalUNCLcQfpMoA"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/14/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/315/CH_LOGO/800/542/0/0/86179590071069.png" group-title="Cine",Golden Edge
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mKqQy2ILlyoNDWalHNrKVg","k":"bovVM3g1btf1ED2R77XlTg"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/13/out/u/dash/GOLDEN-EDGE-SD/default.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4hMqVDX/golden-plus.png" group-title="Cine",Golden Plus
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NVWCTuagnWcaI2Lzf1o5uQ","k":"8kDlteiifKhVDyOlU0UakA"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/14/out/u/dash/GOLDEN-PLUS-HD/default.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6D60Brn/golden-premier.png" group-title="Cine",Golden Premier
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NPo1yDI8Ecu4PLOBvlW9ZA","k":"AszGrgfZl729i5eGXWm7NQ"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/12/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZFK4t3Q/golden-premier-2.png" group-title="Cine",Golden Premier 2
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"cXMkwsTmaUut2s/V+9OiDw","k":"qsvs+38dpEGkIKWCQAEC2g"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/13/out/u/dash/GOLDEN-PREMIER-2HR-HD/default.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DCxcBBw/DPel-cula-2021.png" group-title="Cine",De Peli­cula
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"IIAS0VS/USjcBEM8IuAGmA","k":"0XkTZxpxgh7X5MSTfNL7pQ"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/12/out/u/dash/DE-PELICULA-SD/default.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4ddtMWbg/DPelicula-Plus.png" group-title="Cine",De Pelicula Plus
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"cKOrHqPEXdVw2ipmCuXu2g","k":"Cp2w4I0Lc35qZOyu1SXUyw"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/14/out/u/dash/DE-PELICULA-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/365/CH_LOGO/160/160/0/0/371516250745.png" group-title="Cine",Volver
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"en7PDDRpXdTiU1dLC4VEHg","k":"5lGOC136Xg3CaKWxYQaBGw"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/488/CH_LOGO/160/160/0/0/81694330078327.png" group-title="Cine",USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Oh52YRnD-wOwlcjn8OYxOQ","k":"A5MjZOH_araM3CwZaa7mpQ"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/USANetwork/live_dash_cld/USANetwork.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/118/CH_LOGO/160/160/0/0/32013737078382.png" group-title="Cine",Adult Swim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"R2rltnt60pesZDOG0tqiKQ","k":"DvdQCd4S7-gz2vqXqjAnLA"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/160/160/0/0/95118087071584.png" group-title="Cine",A&E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"c2vvGXulxzIDrdecjo0nmg","k":"fwN9xYNTBfIqcgbXnU1dsg"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/AyE/live_dash_cld/AyE.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/160/160/0/0/29332619071250.png" group-title="Cine",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"aPx4y2_lgMNdJp2oekcesA","k":"K9YjIgokfZXWkAzqYSdp3w"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/AMC/live_dash_cld/AMC.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/160/160/0/0/77211152071862.png" group-title="Cine",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"goxHPLGSyquo4dn8Y9pNdQ","k":"y2AIYemCLv7qXS29DBV8RQ"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/AXN/live_dash_cld/AXN.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/160/160/0/0/53485573073445.png" group-title="Cine",Cinecanal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rOo0pNrfeJagKAsISW1J1Q","k":"brYaO_NBHGT4m1lOV9SHxg"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/Cinecanal/live_dash_cld/Cinecanal.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1805/CH_LOGO/160/160/0/0/38183247075481.png" group-title="Cine",Cine Familiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"dobj7j5gbmaU5uOfy8motw","k":"zQ-lm7caOYhDSZ_ruFnDQQ"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1806/CH_LOGO/160/160/0/0/47205068074564.png" group-title="Cine",Cine Hispano
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"w8tzIIFdActB_bDp1b0pFQ","k":"fIkmawzGD6NBlHT8lsGJJw"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1807/CH_LOGO/160/160/0/0/30781400075257.png" group-title="Cine",Cine Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gS-JywAk02megy1y5PDrtg","k":"hR10ls0afgMSWyttO0HJIg"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/47/CH_LOGO/160/160/0/0/60951863073142.png" group-title="Cine",Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Oz2J8OCZ91C6tPjC68TH7A","k":"EUMT9zTnqOhLDKbRa9ZSyw"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/862/CH_LOGO/160/160/0/0/33860159072069.png" group-title="Cine",Comedy Central
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"7tmhk7PGFnuCMDDXiNdxpA","k":"0h2uun5RPZ87pxTe7d0GMA"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/ComCentral/live_dash_cld/ComCentral.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/316/CH_LOGO/160/160/0/0/2880757007137.png" group-title="Cine",De Peli­cula
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Y56SSbY7cx52IZU9J6pTkw","k":"zgnLP0vK1cH-vhCJO2ukkQ"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/63/CH_LOGO/160/160/0/0/76775190072352.png" group-title="Cine",DHE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"VFMYAHTAqOz-KiHgzV8sGw","k":"EVD9k0krqGCfuU0KMIezpQ"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/DHE/live_dash_cld/DHE.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2563/CH_LOGO/160/160/0/0/1274320207337.png" group-title="Cine",Eurochannel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vxMk6rJjty9dg3OpZ45ndA","k":"E3XNM5B3KwO1E23OFkG6hA"}],"type":"temporary"}
+https://cdn.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/264/CH_LOGO/160/160/0/0/8622092407184.png" group-title="Cine",Europa Europa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AcYpXj_Jg1JCeUHcEBVgWg","k":"usnJc0DfC4E6nwjFSID-tA"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/EuropaEuropa/live_dash_cld/EuropaEuropa.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/160/160/0/0/35224800072040.png" group-title="Cine",FX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"u7jIGCKhYo9JhsY3nKVAag","k":"tmEmW6raUyTrgmIkpPNYvQ"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/FX/live_dash_cld/FX.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/281/CH_LOGO/160/160/0/0/7149423107401.png" group-title="Cine",Golden
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bsvRMt5yciTBYavYBlsN-w","k":"dfrx7KPO9yCOGd43nQpSnQ"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/315/CH_LOGO/160/160/0/0/86179590071069.png" group-title="Cine",Golden Edge
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ICyFeclN9QbBocVO9JoMYA","k":"hx-EkB81gM-nJzKTSCpmxQ"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4QXnxHV/golden-plus.png" group-title="Cine",Golden Plus
+#EXTVLCOPT:http-referrer=https://pylocalliveclarovideo.akamaized.net/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"otaoYxHCGiwPbpDVj9flkA","k":"tWB-OJHo-0wMyC2PgqvlaQ"}],"type":"temporary"}
+https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(GOLDEN_HD)/manifest.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1803/CH_LOGO/160/160/0/0/91513859074694.png" group-title="Cine",Kanal D Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ucqzIxaz2KrgRSdVzr2q3Q","k":"NeYYaYSRaAQ6RARfLX_4Qg"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/KanalD/live_dash_cld/KanalD.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1816/CH_LOGO/160/160/0/0/38444071074991.png" group-title="Cine",Morbido TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"akjpI98LF4O_oOgqPFH8IA","k":"EiZ2kGJW-wFU2EGTaQnFew"}],"type":"temporary"}
+https://cdn.sensa.com.ar/bpk-tv/Morbido/default/index.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/160/160/0/0/68355397076898.png" group-title="Cine",Noveli­sima
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RAD3WN293IG375orMiUWJQ","k":"qiRI68Y6UDS5uObo0V93DQ"}],"type":"temporary"}
+https://cdn.sensa.com.ar/bpk-tv/Novelis/default/index.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/318/CH_LOGO/160/160/0/0/87610940072910.png" group-title="Cine",Paramount Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"iahoWZrw-gNopUfaFhEgHg","k":"176Umylt7MqNai1TXAV9xg"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/Paramount/live_dash_cld/Paramount.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/160/160/0/0/86995730071579.png" group-title="Cine",Sony Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"JYtFXu521kBvh90C3cc12Q","k":"3YqtdMef6DnMFC0P9mlEcw"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="Cine",Space
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"_XUW506vv2-WZKlGUUnxeQ","k":"aqKTXRf9Th6JY-y-9O24Kw"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/42/CH_LOGO/160/160/0/0/6901418607879.png" group-title="Cine",Star Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"eDlmk7FyFYF2wzwo8ufAuA","k":"HiUREoGaNO1pG8OIHGTqTQ"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/StarChannel/live_dash_cld/StarChannel.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/267/CH_LOGO/160/160/0/0/223329100777.png" group-title="Cine",Studio Universal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"OgeyIPjxQqDvhmL_oK3uTw","k":"6IhG0EDNFXso_9odRKXPiQ"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/160/160/0/0/1820288007328.png" group-title="Cine",TCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"GM_ietrS5ETcD1CjI4oXQA","k":"oOJfGL6U1usclzMRETXARw"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/TCM/live_dash_cld/TCM.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/301/CH_LOGO/160/160/0/0/9347484107170.png" group-title="Cine",TL Novelas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"oUi1h7s0_pul51K5XQ81Fw","k":"_75Snarobits-gJak3_3pA"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/160/160/0/0/15119500074230.png" group-title="Cine",TNT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kC8fhXwwCBskmuNY4S-bgg","k":"__jLDZO1eEXBzLpFj1GXDQ"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/TNT/live_dash_cld/TNT.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/114/CH_LOGO/160/160/0/0/98175226078201.png" group-title="Cine",TNT Novelas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"igJvw9RDRUzxquSGtojKmg","k":"dmXC9ueR1E8Efl_6knOCqg"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/TNTNovelas/live_dash_cld/TNTNovelas.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/117/CH_LOGO/160/160/0/0/68097404073421.png" group-title="Cine",TNT Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LRXy0vj4H7rNgjkfWImqOg","k":"l8elApUAqB038rcNYnb8mg"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/160/160/0/0/9929073907327.png" group-title="Cine",Universal TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"fGzDa5w_RPN7cTrUBIPghQ","k":"zq7PcLmXgJZ9l7nq9uKtXw"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd?
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/160/160/0/0/14633187073787.png" group-title="Cine",Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"DNFvnq3lvdq0H9PVn4BLyw","k":"iF3JOwaS4u_jdEmkpWFz7w"}],"type":"temporary"}
+https://cdn.sensa.com.ar/live/eds/Warner/live_dash_cld/Warner.mpd?
 
 
