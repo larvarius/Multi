@@ -1,9 +1,6 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml"
 
 
-
-
-
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", Dsports 2
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -31,40 +28,19 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/
 
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Argentina",TyC Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"U9DPbB1JwW9RgPhuGHCwDw","k":"frZ0O19EtSuifIginIx64g"}],"type":"temporary"}
-https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
-
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/81252.m3u8
 
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Argentina",ESPN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bSQ-vXpXvqS0sFKuE_TAUQ","k":"XBklh53oc9Q7fCWSWQJTmw"}],"type":"temporary"}
-https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/81262.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="Argentina",FOX Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"GmG2RP3GhWi1vj4mKQQVZA","k":"oWcs37XeZHBxURKPgR2mZw"}],"type":"temporary"}
-https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd?
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/50506.m3u8
 
 #EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Argentina",ESPN Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"-JQ9EU4lFRyK5PYSNR1aXw","k":"fzTJpwyDYCDLwyc8Qn_ydw"}],"type":"temporary"}
-https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd?
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/149087.m3u8
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT Sports Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wmNxB56JIG1j4UVIk-iBtg","k":"raw8Ozd05BHW5Jck9-oO4w"}],"type":"temporary"}
-https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/81251.m3u8
 
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-name="ESPN 2 ARG" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Argentina",ESPN 2
 http://tvgolat.org:8080/live/Oscarmogollon01/D175349g/81343.m3u8
@@ -73,12 +49,6 @@ http://tvgolat.org:8080/live/Oscarmogollon01/D175349g/81343.m3u8
 http://tvgolat.org:8080/live/Oscarmogollon01/D175349g/81344.m3u8
 
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1132/1132WHORIZONTAL.jpg?size=290x163" group-title="Argentina",ESPN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"A0ZT00E_I-hySdH7fmg1mg","k":"oNa4SfF8Qw6cwC0Hc5pOSg"}],"type":"temporary"}
-https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd?
 
 
 
@@ -99,12 +69,7 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="LaNacion+.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" group-title="Argentina",La Nacion+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"oAIBC1BoVFmd_7uLkEjsfA","k":"Fg7t-FIp2pGafF7sT774CQ"}],"type":"temporary"}
-https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/81323.m3u8
 
 #EXTINF:-1 tvg-id="America.ar" tvg-name="América TV" group-title="Argentina" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -113,23 +78,11 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-eltrece_720.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="Argentina",Telefe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"m7VPzP-t3TiRboXAjemMyQ","k":"0G9QnEGOtvGy_Ct2ZEUyiw"}],"type":"temporary"}
-https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/81285.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" group-title="Argentina" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png", TN Op1
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="Argentina",TN Op2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"S06-PGjEyVx2OQludsIz0A","k":"DEjNXjKYt2KgmazcBaUYKg"}],"type":"temporary"}
-https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?
 
 
 
