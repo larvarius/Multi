@@ -97,7 +97,7 @@ https://nameless-resonance-f644.javimarki.workers.dev/12
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" group-title="Argentina" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png",TV Publica
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="General" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png",A24
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="Argentina" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png",A24
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" group-title="Argentina" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZoO4prUj9c-jFeAzB3iH5LKy97BaubnA1xN-BeNKqZJ7wACVRhLEl8SgAmFRtaUQcrR3DP5zLFZtrY48IOqQvRxvOr9MqW8sQZKtXsklAc6ayLSH-6cPWlXHqHy5p4l5tPmEAgTOjptQ6/s1600/canal26hd.png",Canal 26
@@ -125,7 +125,7 @@ http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-eltrece_720.m3u
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"m7VPzP-t3TiRboXAjemMyQ","k":"0G9QnEGOtvGy_Ct2ZEUyiw"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" group-title="General" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png", TN Op1
+#EXTINF:-1 tvg-id="TN.ar" group-title="Argentina" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png", TN Op1
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="Argentina",TN Op2
@@ -524,35 +524,35 @@ https://cdn.sensa.com.ar/live/eds/HBOXtreme/live_dash_cld/HBOXtreme.mpd?
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"q/MEKQvsfJgucGsfrlkq6g","k":"c+HQHMhruIwYT7yjEpKXfw"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-XTREME-HD-H265/default.mpd
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/160/160/0/0/62685863076950.png" group-title="PACK UNIVERSAL+",Universal Premiere
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/160/160/0/0/62685863076950.png" group-title="Cine",Universal Premiere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"TKR5uolj8TLHAe76oPsrWg","k":"vtI1GU2l4YEIwS74GzJKgA"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd?
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title="PACK UNIVERSAL+",Universal Cinema
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title="Cine",Universal Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"amXnf7Xyg4svl8d4zFcawg","k":"vB8osexhntfaIvyagNOjXQ"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/UniCin/live_dash_cld/UniCin.mpd?
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png" group-title="PACK UNIVERSAL+",Universal Comedy
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png" group-title="Cine",Universal Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"lM2rhnP-IxqN5XJZ6sVSKw","k":"ESXRVGSXcMwSJ3BTG4-LMA"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/UniCom/live_dash_cld/UniCom.mpd?
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png" group-title="PACK UNIVERSAL+",Universal Crime
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png" group-title="Cine",Universal Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"etHP6O28NbW6saZqXOKYsw","k":"JXlK4d8emQjUOhAkgefTEQ"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd?
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/160/160/0/0/24764893076951.png" group-title="PACK UNIVERSAL+",Universal Reality
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/160/160/0/0/24764893076951.png" group-title="Cine",Universal Reality
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream=inputstream.adaptive
