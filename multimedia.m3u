@@ -1,9 +1,10 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml"
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45da1df6b7dac6f46f0c95b5850bc2f2:a195dc0206035b2cc8be2d452e71b61d
-#EXTINF:-1 group-title="DEPORTES", TNT Sports AR
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Content/DASH_DASH_FK/Live/channel(TNT_SPORTS)/master.mpd
+#EXTINF:-1 tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" tvg-group="DEPORTES",TN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd|referer=https://player.sensa.com.ar/
 
 
 
