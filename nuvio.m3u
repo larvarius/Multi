@@ -1,17 +1,31 @@
 #EXTM3U 
 
 EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", Dsports 2
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/50725.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", Dsports+
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/54471.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Dsports", Dsports
-http://rlatinop.com:8880/live/Jhoselin102030xd1011/SQDyyTdV2z6x/526169.m3u8
+http://rlatinop.com:8880/live/faueazqemn/DakS9wbL9qsb/526169.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Dsports", Dsports op2
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/540038.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Dsports", Dsports op3
+http://tvdirect.pro:8080/live/hugo13/69542358h/413918.m3u8
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Argentina",TyC Sports
-http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/81252.m3u8
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/541533.m3u8
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Argentina",TyC Sports op2
+http://rlatinop.com:8880/live/faueazqemn/DakS9wbL9qsb/327918.m3u8
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Argentina",TyC Sports op3
+http://tvdirect.pro:8080/live/hugo13/69542358h/132100.m3u8
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Argentina",ESPN
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/81262.m3u8
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Argentina",ESPN op2
+http://rlatinop.com:8880/live/faueazqemn/DakS9wbL9qsb/327914.m3u8
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Argentina",ESPN op3
+http://tvdirect.pro:8080/live/hugo13/69542358h/3444.m3u8
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="Argentina",FOX Sports
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/50506.m3u8
@@ -22,26 +36,29 @@ http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/149087.m3u8
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT Sports Premium
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/81251.m3u8
 
-#EXTINF:-1 tvg-name="ESPN 2 ARG" tvg-logo="https://iili.io/JKrdO5x.png" group-title="DEPORTES",Espn 2
-
-
-#EXTINF:-1 tvg-name="ESPN 3 ARG" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="DEPORTES",Espn 3
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="MUNDIAL",Dazn La liga
-
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/541547.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="Deportes Inter",TSN 1
 https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/166761.m3u8
 
 #EXTINF:-1 tvg-name="Telefe" group-title="General" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png",Telefe IP
 http://181.209.96.155:10000/play/a15g/index.m3u8
+#EXTINF:-1 tvg-name="Telefe" group-title="General" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png",Telefe op2
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/81285.m3u8
 
 #EXTINF:-1 tvg-name="TN" group-title="General" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png", TN
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
+#EXTINF:-1 tvg-name="TN" group-title="General" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png", TN op2
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/81325.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="", Mundial 1 dsport
+http://tvdirect.pro:8080/live/hugo13/69542358h/413915.m3u8
+#EXTINF:-1 tvg-logo="", Mundial 1 tyc
+http://tvdirect.pro:8080/live/hugo13/69542358h/132100.m3u8
+#EXTINF:-1 tvg-logo="", Mundial 1 América Perú 
+http://tvdirect.pro:8080/live/hugo13/69542358h/3402.m3u8
 
 
 #EXTINF:-1 tvg-name="ElNueve.ar" group-title="General" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png",El Nueve
