@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml"
 
-#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", Dsports 2
+#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes", Dsports 2
 https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/270170.m3u8
 
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes", Dsports+
@@ -19,7 +19,7 @@ http://tvdirect.pro:8080/live/hugo13/69542358h/3444.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Deportes",ESPN Premium
-
+http://tvdirect.pro:8080/live/hugo13/69542358h/5738.m3u8
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Deportes",TNT Sports Premium
 
@@ -63,7 +63,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="Argentina",Telefe
-
+http://181.209.96.155:10000/play/a15g/index.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" group-title="Argentina" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png", TN Op1
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
