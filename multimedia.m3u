@@ -19,25 +19,19 @@ https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37
 #KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
 https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
 
-#EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", DSports HD
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
-
 
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Argentina",TyC Sports
-http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/81252.m3u8
+http://tvdirect.pro:8080/live/hugo13/69542358h/132100.m3u8
 
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Argentina",ESPN
-http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/81262.m3u8
+http://tvdirect.pro:8080/live/hugo13/69542358h/3444.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="Argentina",FOX Sports
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/50506.m3u8
 
 #EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Argentina",ESPN Premium
-http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/149087.m3u8
+http://tvdirect.pro:8080/live/hugo13/69542358h/5738.m3u8
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT Sports Premium
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/81251.m3u8
@@ -57,7 +51,7 @@ http://tvgolat.org:8080/live/Oscarmogollon01/D175349g/81344.m3u8
 
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="ElNueve.ar" group-title="Argentina" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png",El Nueve
-https://nameless-resonance-f644.javimarki.workers.dev/12
+
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" group-title="Argentina" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png",TV Publica
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
@@ -69,18 +63,18 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="LaNacion+.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" group-title="Argentina",La Nacion+
-http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/81323.m3u8
+
 
 #EXTINF:-1 tvg-id="America.ar" tvg-name="América TV" group-title="Argentina" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="Argentina" tvg-name="El Trece" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png",El Trece
-http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-eltrece_720.m3u8
+http://181.209.96.155:10000/play/a15e/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="Argentina",Telefe
-http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/81285.m3u8
+http://181.209.96.155:10000/play/a15g/index.m3u8
 
-#EXTINF:-1 tvg-id="TN.ar" group-title="Argentina" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png", TN Op1
+#EXTINF:-1 tvg-id="TN.ar" group-title="Argentina" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png", TN
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
 
@@ -92,13 +86,7 @@ https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="MUNDIAL", DSports HD
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
-
-#EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="MUNDIAL", DSports FHD
+#EXTINF:-1 tvg-id="610.dtv.pe" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="MUNDIAL", DSports FHD
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
@@ -116,31 +104,12 @@ https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a
 #KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
 https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png" group-title="MUNDIAL", Dsports+ FHD
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png" group-title="MUNDIAL", Dsports+ FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
 http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="MUNDIAL", TELEMUNDO EAST 
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/1920px-UNIVERSO_LOGO_color_black.png" group-title="MUNDIAL", Universo 
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=069f3495380f3d25a8c03477067f7d1b:7d9dbf8134535e1665e914fb7134ce47
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="MUNDIAL", TUDN 4K
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="MUNDIAL", M6 (France)
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
@@ -148,33 +117,12 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/
 #KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="MUNDIAL",TSN 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png" group-title="MUNDIAL", Fox Sports 4K
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png" group-title="MUNDIAL",Tipik Direct
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Sporza_logo.png" group-title="MUNDIAL",Sporza
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
-https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="MUNDIAL",La 1
 https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/282623.m3u8
