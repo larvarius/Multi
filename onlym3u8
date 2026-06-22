@@ -8,12 +8,18 @@ https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/244288.m3u8
 
 #EXTINF:-1 tvg-id="610.dtv.pe" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes", Dsports
 http://tvdirect.pro:8080/live/hugo13/69542358h/413918.m3u8
+#EXTINF:-1 tvg-id="610.dtv.pe" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes", Dsports op2
+http://23.153.217.158:8080/live/975275242tv1/ip4fkxw6/480.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Deportes",TyC Sports 
 http://tvdirect.pro:8080/live/hugo13/69542358h/132100.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Deportes",TyC Sports op2
+http://23.153.217.158:8080/live/975275242tv1/ip4fkxw6/462.m3u8
 
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Deportes",ESPN 
 http://tvdirect.pro:8080/live/hugo13/69542358h/3444.m3u8
+#EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Deportes",ESPN op2
+http://23.153.217.158:8080/live/975275242tv1/ip4fkxw6/518.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="Deportes",FOX Sports
 http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/50506.m3u8
@@ -23,9 +29,6 @@ http://tvdirect.pro:8080/live/hugo13/69542358h/5738.m3u8
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Deportes",TNT Sports Premium
 http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/81251.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="Deportes",TSN 1
 https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/166761.m3u8
@@ -40,7 +43,12 @@ http://tvdirect.pro:8080/live/hugo13/69542358h/3402.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="Mundial",La 1
 https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/282623.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="Mundial",Dazn La liga
-http://miotv.cc:8080/live/Juan123/Juan123/154584.m3u8
+http://23.153.217.158:8080/live/975275242tv1/ip4fkxw6/60261.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="Mundial",Telefe op2
+http://23.153.217.158:8080/live/975275242tv1/ip4fkxw6/53225.m3u8
+EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="Mundial",Telefe op3
+http://elpapanatas.space:8080/live/MASTER10083/8pHAPH2CXu5K/1111.m3u8
+
 
 
 
