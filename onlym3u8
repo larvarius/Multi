@@ -25,19 +25,22 @@ http://tvdirect.pro:8080/live/hugo13/69542358h/5738.m3u8
 http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/81251.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="Deportes",Dazn La liga
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="Deportes",TSN 1
 https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/166761.m3u8
 
 
-#EXTINF:-1 tvg-logo="", Mundial 1 dsport
+#EXTINF:-1 tvg-logo="" group-title="Mundial",dsport
 http://tvdirect.pro:8080/live/hugo13/69542358h/413915.m3u8
-#EXTINF:-1 tvg-logo="", Mundial 1 tyc
+#EXTINF:-1 tvg-logo="" group-title="Mundial",tyc
 http://tvdirect.pro:8080/live/hugo13/69542358h/132100.m3u8
-#EXTINF:-1 tvg-logo="", Mundial 1 América Perú 
+#EXTINF:-1 tvg-logo="" group-title="Mundial",América Perú 
 http://tvdirect.pro:8080/live/hugo13/69542358h/3402.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="Mundial",La 1
+https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/282623.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="Mundial",Dazn La liga
+http://miotv.cc:8080/live/Juan123/Juan123/154584.m3u8
 
 
 
