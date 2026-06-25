@@ -4,22 +4,27 @@
 https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/270170.m3u8
 
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes", Dsports+
-https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/244288.m3u8
+http://rlatinop.com:8880/live/faueazqemn/DakS9wbL9qsb/527938.m3u8
 
 #EXTINF:-1 tvg-id="610.dtv.pe" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes", Dsports
 http://tvdirect.pro:8080/live/hugo13/69542358h/413918.m3u8
 #EXTINF:-1 tvg-id="610.dtv.pe" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes", Dsports op2
-http://23.153.217.158:8080/live/975275242tv1/ip4fkxw6/480.m3u8
+http://rlatinop.com:8880/live/faueazqemn/DakS9wbL9qsb/526169.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Deportes",TyC Sports 
 http://tvdirect.pro:8080/live/hugo13/69542358h/132100.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Deportes",TyC Sports op2
-http://23.153.217.158:8080/live/975275242tv1/ip4fkxw6/462.m3u8
+http://rlatinop.com:8880/live/faueazqemn/DakS9wbL9qsb/443250.m3u8
 
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Deportes",ESPN 
 http://tvdirect.pro:8080/live/hugo13/69542358h/3444.m3u8
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Deportes",ESPN op2
-http://23.153.217.158:8080/live/975275242tv1/ip4fkxw6/518.m3u8
+http://rlatinop.com:8880/live/faueazqemn/DakS9wbL9qsb/533395.m3u8
+
+#EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Deportes",Disney+ op1
+http://liontv.es:8080/live/jorge6016tv1/6016jorge/1613614.m3u8
+#EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Deportes",Disney+ op1
+http://liontv.es:8080/live/jorge6016tv1/6016jorge/1613615.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="Deportes",FOX Sports
 http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/50506.m3u8
