@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml"
 
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes", Dsports 2
-https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/270170.m3u8
+http://tvdirect.pro:8080/live/hugo13/69542358h/132104.m3u8
 
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes", Dsports+
 http://rlatinop.com:8880/live/faueazqemn/DakS9wbL9qsb/527938.m3u8
@@ -33,7 +33,7 @@ http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/50506.m3u8
 http://tvdirect.pro:8080/live/hugo13/69542358h/5738.m3u8
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Deportes",TNT Sports Premium
-http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/81251.m3u8
+http://rlatinop.com:8880/live/faueazqemn/DakS9wbL9qsb/327919.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="Deportes",TSN 1
 https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/166761.m3u8
@@ -50,9 +50,9 @@ https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/282623.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="Mundial",Dazn La liga
 http://23.153.217.158:8080/live/975275242tv1/ip4fkxw6/60261.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="Mundial",Telefe op2
-http://23.153.217.158:8080/live/975275242tv1/ip4fkxw6/53225.m3u8
+http://tvdirect.pro:8080/live/hugo13/69542358h/5733.m3u8
 EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="Mundial",Telefe op3
-http://elpapanatas.space:8080/live/MASTER10083/8pHAPH2CXu5K/1111.m3u8
+http://rlatinop.com:8880/live/faueazqemn/DakS9wbL9qsb/490458.m3u8
 
 
 
@@ -61,6 +61,7 @@ http://elpapanatas.space:8080/live/MASTER10083/8pHAPH2CXu5K/1111.m3u8
 https://nameless-resonance-f644.javimarki.workers.dev/12
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" group-title="Argentina" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png",TV Publica
+http://rlatinop.com:8880/live/faueazqemn/DakS9wbL9qsb/490456.m3u8
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="Argentina" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png",A24
@@ -70,12 +71,13 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="LaNacion+.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" group-title="Argentina",La Nacion+
-
+http://rlatinop.com:8880/live/faueazqemn/DakS9wbL9qsb/490466.m3u8
 
 #EXTINF:-1 tvg-id="America.ar" tvg-name="América TV" group-title="Argentina" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="Argentina" tvg-name="El Trece" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png",El Trece
+http://rlatinop.com:8880/live/faueazqemn/DakS9wbL9qsb/490442.m3u8
 http://181.209.96.155:10000/play/a15e/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="Argentina",Telefe
@@ -83,5 +85,7 @@ http://181.209.96.155:10000/play/a15g/index.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" group-title="Argentina" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png", TN
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
+http://rlatinop.com:8880/live/faueazqemn/DakS9wbL9qsb/490457.m3u8
+
 
 
