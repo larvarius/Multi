@@ -21,12 +21,12 @@ http://tvdirect.pro:8080/live/hugo13/69542358h/132100.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Deportes",TyC Sports op2
 http://neospaxy.top:8080/live/kang/71267133/9979.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Deportes",TyC Sports op3
-
+https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/270167.m3u8
 
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Deportes",ESPN 
 http://tvdirect.pro:8080/live/hugo13/69542358h/3444.m3u8
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Deportes",ESPN op2
-
+https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/16497.m3u8
 
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Deportes",Disney+ op1
 http://liontv.es:8080/live/jorge6016tv1/6016jorge/1613614.m3u8
@@ -88,7 +88,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="Argentina",Telefe
-http://181.209.96.155:10000/play/a15g/index.m3u8
+https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/1634.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" group-title="Argentina" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png", TN
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
