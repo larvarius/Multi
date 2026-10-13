@@ -1,15 +1,14 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes", Dsports 2
-https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/270170.m3u8
+#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", Dsports 2
+http://tvdirect.pro:8080/live/hugo13/69542358h/132104.m3u8
 
-#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes", Dsports+
-https://tvgolat.org:8443/live/Oscarmogollon01/D175349g/244288.m3u8
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", Dsports+
+http://tvdirect.pro:8080/live/hugo13/69542358h/3472.m3u8
 
-#EXTINF:-1 tvg-id="610.dtv.pe" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes", Dsports
-http://tvdirect.pro:8080/live/hugo13/69542358h/413918.m3u8
-#EXTINF:-1 tvg-id="610.dtv.pe" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes", Dsports op2
-http://23.153.217.158:8080/live/975275242tv1/ip4fkxw6/480.m3u8
+#EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", DSports FHD
+#http://tvdirect.pro:8080/live/hugo13/69542358h/3468.m3u8
+
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Deportes",TyC Sports 
 http://tvdirect.pro:8080/live/hugo13/69542358h/132100.m3u8
