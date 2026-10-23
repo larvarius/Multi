@@ -48,7 +48,7 @@ http://tvdirect.pro:8080/live/hugo13/69542358h/5733.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" group-title="Argentina" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png",TV Publica
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="Argentina" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png",A24
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="Argentina" tvg-logo="https://e7.pngegg.com/pngimages/386/956/png-clipart-logo-america-24-television-cablevision-canal-a-argentina-logo-television-angle.png",A24
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" group-title="Argentina" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZoO4prUj9c-jFeAzB3iH5LKy97BaubnA1xN-BeNKqZJ7wACVRhLEl8SgAmFRtaUQcrR3DP5zLFZtrY48IOqQvRxvOr9MqW8sQZKtXsklAc6ayLSH-6cPWlXHqHy5p4l5tPmEAgTOjptQ6/s1600/canal26hd.png",Canal 26
