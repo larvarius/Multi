@@ -41,9 +41,9 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qubxnja5rl/
 
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", DSports FHD
 http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
-#EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", DSports FHD
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", DSports FHD
 http://45.186.254.75:8000/play/a0en/index.m3u8
-#EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", DSports FHD
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", DSports FHD
 http://restreamlatam.online:80/play/9juIprfRMreGgHoj5sTzKODcR_Df6thAtX4-hU3lRGE/tshttp://181.209.80.115:8000/play/dsports_hd
 
 
