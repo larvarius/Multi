@@ -48,9 +48,9 @@ http://tvdirect.pro:8080/live/hugo13/69542358h/392572.m3u8
 #EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Sports Ar",ESPN Premium
 https://gotv.vip:443/live/Federico2890/Federico2890/587986.m3u8
 #EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Sports Ar",ESPN Premium
-
-#EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Sports Ar",ESPN Premium
 http://181.209.38.115:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Sports Ar",ESPN Premium
+
 #EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Sports Ar",ESPN Premium
 
 
@@ -61,12 +61,9 @@ https://gotv.vip:443/live/Federico2890/Federico2890/146030.m3u8
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Sports Ar",TNT Sports Premium
 http://181.209.38.115:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Sports Ar",TNT Sports Premium
-http://181.119.185.32:8000/play/a00t/index.m3u8?hls
-#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Sports Ar",TNT Sports Premium
-http://38.226.49.253:8000/play/a06f/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="Sports Ar",FOX Sports
-http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/211219.m3u8
+http://tvdirect.pro:8080/live/hugo13/69542358h/5727.m3u8
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="Sports Ar",FOX Sports
 http://181.209.80.115:8000/play/fox_sports_hd
 
