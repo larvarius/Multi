@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml,https://epg.programadorx.cl/mdiaz/gratis.xml,https://www.open-epg.com/files/spain.xml,https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Sports Ar",TyC Sports
+#EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Sports Ar",TyC Sports Internacional
 http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/162289.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Sports Ar",TyC Sports
 http://tvdirect.pro:8080/live/hugo13/69542358h/7101.m3u8
