@@ -186,11 +186,11 @@ http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/278191.m3u8
 #EXTINF:-1 tvg-id="Energy.es" group-title="SPORTS INT" tvg-logo="",Energy
 https://gotv.vip:443/live/Federico2890/Federico2890/140005.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS INT" tvg-logo="",Win Sports
+#EXTINF:-1 tvg-id="633dtv.co" group-title="SPORTS INT" tvg-logo="",Win Sports
 https://gotv.vip:443/live/Federico2890/Federico2890/349.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS INT" tvg-logo="",Tenis Channel
+#EXTINF:-1 tvg-id="TennisChannel.es" group-title="SPORTS INT" tvg-logo="",Tenis Channel
 http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/36917.m3u8
 
 #EXTINF:-1 group-title="SPORTS INT" tvg-logo="https://i.postimg.cc/Dw8YJJ39/stablesportstv-tnt1.png",TNT SPORTS 1
