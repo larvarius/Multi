@@ -77,12 +77,12 @@ http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/211219.m3u8
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="Argentina",FOX Sports
 http://181.209.80.115:8000/play/fox_sports_hd
 
-#EXTINF:-1 tvg-id="622dtv.ar" tvg-name="ESPN 2 ARG" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Argentina",ESPN 2
+#EXTINF:-1 tvg-id="Espn2.ar" tvg-name="ESPN 2 ARG" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Argentina",ESPN 2
 http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/292588.m3u8
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-name="ESPN 2 ARG" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Argentina",ESPN 2
 http://tvdirect.pro:8080/live/hugo13/69542358h/3450.m3u8
 
-#EXTINF:-1 tvg-id="1623dtv.ar" tvg-name="ESPN 3 ARG" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="Argentina",ESPN 3 
+#EXTINF:-1 tvg-id="Espn3.ar" tvg-name="ESPN 3 ARG" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="Argentina",ESPN 3 
 http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/292587.m3u8
 #EXTINF:-1 tvg-id="1623dtv.ar" tvg-name="ESPN 3 ARG" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="Argentina",ESPN 3 
 http://tvdirect.pro:8080/live/hugo13/69542358h/3454.m3u8
