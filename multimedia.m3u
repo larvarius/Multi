@@ -2,7 +2,8 @@
 
 
 
-
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Argentina",TyC Sports
+http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/162289.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Argentina",TyC Sports
 http://tvdirect.pro:8080/live/hugo13/69542358h/7101.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Argentina",TyC Sports
@@ -10,7 +11,8 @@ https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Argentina",TyC Sports
 http://181.209.38.115:8000/play/a00k/index.m3u8
 
-
+#EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Argentina",ESPN
+http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/210881.m3u8
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Argentina",ESPN
 http://tvdirect.pro:8080/live/hugo13/69542358h/3444.m3u8
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Argentina",ESPN
@@ -58,6 +60,8 @@ http://181.209.38.115:8000/play/a00f/index.m3u8
 http://190.128.214.97:64333/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT Sports Premium
+http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/368497.m3u8
+#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT Sports Premium
 http://181.209.38.115:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT Sports Premium
 http://181.119.185.32:8000/play/a00t/index.m3u8?hls
@@ -66,17 +70,31 @@ http://38.226.49.253:8000/play/a06f/index.m3u8?hls
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT Sports Premium
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="Argentina",FOX Sports
+http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/211219.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="Argentina",FOX Sports
 http://181.209.80.115:8000/play/fox_sports_hd
 
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-name="ESPN 2 ARG" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Argentina",ESPN 2
-
+http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/292588.m3u8
+#EXTINF:-1 tvg-id="622dtv.ar" tvg-name="ESPN 2 ARG" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Argentina",ESPN 2
+http://tvdirect.pro:8080/live/hugo13/69542358h/3450.m3u8
 
 #EXTINF:-1 tvg-id="1623dtv.ar" tvg-name="ESPN 3 ARG" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="Argentina",ESPN 3 
-
+http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/292587.m3u8
+#EXTINF:-1 tvg-id="1623dtv.ar" tvg-name="ESPN 3 ARG" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="Argentina",ESPN 3 
+http://tvdirect.pro:8080/live/hugo13/69542358h/3454.m3u8
 
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1132/1132WHORIZONTAL.jpg?size=290x163" group-title="Argentina",ESPN 4
+http://tvdirect.pro:8080/live/hugo13/69542358h/3456.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",ESPN 5
+http://tvdirect.pro:8080/live/hugo13/69542358h/3458.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",ESPN 6
+http://tvdirect.pro:8080/live/hugo13/69542358h/3459.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",ESPN 7
+http://tvdirect.pro:8080/live/hugo13/69542358h/117008.m3u8
 
 
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", Dsports 2
@@ -116,7 +134,7 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="LaNacion+.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" group-title="Argentina",La Nacion+
-
+http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/210850.m3u8
 
 #EXTINF:-1 tvg-id="America.ar" tvg-name="América TV" group-title="Argentina" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -139,6 +157,7 @@ http://158.172.155.130:8000/play/a0dp/index.m3u8
 
 
 
+#EXTINF:-1 group-title="SPORTS INT" tvg-logo="",Dazn 1
 
 
 #EXTINF:-1 group-title="SPORTS INT" tvg-logo="https://i.postimg.cc/Dw8YJJ39/stablesportstv-tnt1.png",TNT SPORTS 1
