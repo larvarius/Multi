@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml,https://epg.programadorx.cl/mdiaz/gratis.xml,https://www.open-epg.com/files/spain.xml,https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml,https://epg.programadorx.cl/mdiaz/gratis.xml,https://www.open-epg.com/files/spain.xml,https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz"
 
 
 #EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Sports Ar",TyC Sports Internacional
@@ -201,21 +201,21 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="SPORTS INT" ,BEIN SPORTS 1
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_EN.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="SPORTS INT" ,BEIN SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="SPORTS INT",BEIN SPORTS 2
+#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_EN.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="SPORTS INT",BEIN SPORTS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/BeIN_Sports_3_2017_Square.png" group-title="SPORTS INT",BEIN SPORTS 3
+#EXTINF:-1 tvg-id="beIN_SPORTS3_DIGITAL_Mono_EN.bein" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/BeIN_Sports_3_2017_Square.png" group-title="SPORTS INT",BEIN SPORTS 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
