@@ -45,11 +45,11 @@ http://190.128.214.97:64333/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT Sports Premium
 http://181.209.38.115:8000/play/a00j/index.m3u8
-EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT Sports Premium
+#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT Sports Premium
 http://181.119.185.32:8000/play/a00t/index.m3u8?hls
-EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT Sports Premium
+#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT Sports Premium
 http://38.226.49.253:8000/play/a06f/index.m3u8?hls
-EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT Sports Premium
+#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT Sports Premium
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="Argentina",FOX Sports
 http://181.209.80.115:8000/play/fox_sports_hd
