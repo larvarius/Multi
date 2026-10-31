@@ -159,31 +159,31 @@ http://158.172.155.130:8000/play/a0dp/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="vamos.es" group-title="SPORTS INT" tvg-logo="",Vamos
+#EXTINF:-1 tvg-id="MovistarVamos.es" group-title="SPORTS INT" tvg-logo="",Vamos
 https://gotv.vip:443/live/Federico2890/Federico2890/139966.m3u8
 
-#EXTINF:-1 tvg-id="dazn1.es" group-title="SPORTS INT" tvg-logo="",Dazn 1
+#EXTINF:-1 tvg-id="DAZN1.es" group-title="SPORTS INT" tvg-logo="",Dazn 1
 http://xdplus.site:2082/live/GerardoSilvap/MTUUR/675049.m3u8
 
-#EXTINF:-1 tvg-id="dazn2.es" group-title="SPORTS INT" tvg-logo="",Dazn 2
+#EXTINF:-1 tvg-id="DAZN2.es" group-title="SPORTS INT" tvg-logo="",Dazn 2
 http://xdplus.site:2082/live/GerardoSilvap/MTUUR/675052.m3u8
 
-#EXTINF:-1 tvg-id="dazn3.es" group-title="SPORTS INT" tvg-logo="",Dazn 3
+#EXTINF:-1 tvg-id="DAZN3.es" group-title="SPORTS INT" tvg-logo="",Dazn 3
 http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/278238.m3u8
 
-#EXTINF:-1 tvg-id="daznlalige.es" group-title="SPORTS INT" tvg-logo="",Dazn La Liga
+#EXTINF:-1 tvg-id="DAZNLALIGA.es" group-title="SPORTS INT" tvg-logo="",Dazn La Liga
 http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/278284.m3u8
 
-#EXTINF:-1 tvg-id="daznf1.es" group-title="SPORTS INT" tvg-logo="",Dazn F1
+#EXTINF:-1 tvg-id="DAZNF1.es" group-title="SPORTS INT" tvg-logo="",Dazn F1
 http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/278286.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS INT" tvg-logo="", Movistar La Liga
+#EXTINF:-1 tvg-id="MovistarLaLigaHDR.es" group-title="SPORTS INT" tvg-logo="", Movistar La Liga
 http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/278185.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS INT" tvg-logo="", Movistar Liga de Campeones
+#EXTINF:-1 tvg-id="MovistarLigaDeCampeones.es" group-title="SPORTS INT" tvg-logo="", Movistar Liga de Campeones
 http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/278191.m3u8
 
-#EXTINF:-1 tvg-id="energy.es" group-title="SPORTS INT" tvg-logo="",Energy
+#EXTINF:-1 tvg-id="Energy.es" group-title="SPORTS INT" tvg-logo="",Energy
 https://gotv.vip:443/live/Federico2890/Federico2890/140005.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS INT" tvg-logo="",Win Sports
