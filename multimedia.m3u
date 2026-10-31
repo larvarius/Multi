@@ -7,10 +7,24 @@
 http://tvdirect.pro:8080/live/hugo13/69542358h/7101.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Argentina",TyC Sports
 https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Argentina",TyC Sports
+http://181.209.38.115:8000/play/a00k/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Argentina",ESPN
 http://tvdirect.pro:8080/live/hugo13/69542358h/3444.m3u8
+#EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Argentina",ESPN
+http://181.209.38.115:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Argentina",ESPN
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 
+
+#EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", DSports FHD
+http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
+#EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", DSports FHD
+http://45.186.254.75:8000/play/a0en/index.m3u8
+#EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", DSports FHD
+http://restreamlatam.online:80/play/9juIprfRMreGgHoj5sTzKODcR_Df6thAtX4-hU3lRGE/tshttp://181.209.80.115:8000/play/dsports_hd
 #EXTINF:-1 tvg-id="610.dtv.pe" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="MUNDIAL", DSports FHD
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -24,12 +38,21 @@ https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d95265
 http://tvdirect.pro:8080/live/hugo13/69542358h/5738.m3u8
 #EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Argentina",ESPN Premium
 http://158.172.155.130:8000/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Argentina",ESPN Premium
+http://181.209.38.115:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Argentina",ESPN Premium
+http://190.128.214.97:64333/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT Sports Premium
-
+http://181.209.38.115:8000/play/a00j/index.m3u8
+EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT Sports Premium
+http://181.119.185.32:8000/play/a00t/index.m3u8?hls
+EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT Sports Premium
+http://38.226.49.253:8000/play/a06f/index.m3u8?hls
+EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT Sports Premium
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="Argentina",FOX Sports
-
+http://181.209.80.115:8000/play/fox_sports_hd
 
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-name="ESPN 2 ARG" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Argentina",ESPN 2
 
@@ -40,7 +63,6 @@ http://158.172.155.130:8000/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1132/1132WHORIZONTAL.jpg?size=290x163" group-title="Argentina",ESPN 4
 
 
-#EXTINF:-1 tvg-id="610.dtv.ar" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", DSports FHD
 
 
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Argentina", Dsports 2
@@ -84,6 +106,8 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="America.ar" tvg-name="América TV" group-title="Argentina" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-id="America.ar" tvg-name="América TV" group-title="Argentina" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png",América TV
+http://livetv-plus.com:8880/dUowdWJzYjlZUDJoMnF4c2QzNlNrbXZxL3FueXNqamlPTFFBQXBZNVNBWlhoUW9lemZ6dVp6TWNNTzRVTTFUVA
 #EXTINF:-1 tvg-id="America.ar" tvg-name="América TV" group-title="Argentina" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png",América TV
 http://181.115.239.66:8000/play/a00i/index.m3u8
 
@@ -308,6 +332,51 @@ https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/AZTECA-UNO-HD/default.mpd
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/Dw8YJJ39/stablesportstv-tnt1.png",TNT SPORTS 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/26pJfzMN/stablesportstv-tnt2.png",TNT SPORTS 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/SQc4RPfP/stablesportstv-tnt3.png",TNT SPORTS 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXIG2bWDA1DJXhlmjkJqsggBFjV-mZtHonutYHUlapCA&s=10",Sportv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
+https://abbfz7naaaaaaaamlleqwa446ufun.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/7/77/Stv2-21.jpg/revision/latest?cb=20240215020517&path-prefix=pt-br",Sportv 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/2/2f/Stv3-21.png/revision/latest?cb=20240215020544&path-prefix=pt-br",Sportv 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+
+#EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcKkWn9mrApiZjcTXj7jwtGjG6lmXLTT8t0XG3TCkaUlRbvI6aTD89f6hR&s=10" group-title="SPORTS",Premier Sports 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+#EXTINF:-1 tvg-name="Premier Sports 2" tvg-logo="https://i.ytimg.com/vi/h9X3IOL_3l8/hqdefault.jpg" group-title="SPORTS",Premier Sports 2
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 
 
 
