@@ -66,9 +66,9 @@ http://181.209.38.115:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Sports Ar",TNT Sports Premium
 http://iptvpremium.ink:55577/live/juscsl54/748596js/167260.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="Sports Ar",FOX Sports
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://www.pngitem.com/pimgs/m/394-3949805_foxsports-fox-sports-logo-white-png-transparent-png.png" group-title="Sports Ar",FOX Sports
 http://tvdirect.pro:8080/live/hugo13/69542358h/5727.m3u8
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="Sports Ar",FOX Sports
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://www.pngitem.com/pimgs/m/394-3949805_foxsports-fox-sports-logo-white-png-transparent-png.png" group-title="Sports Ar",FOX Sports
 http://181.209.80.115:8000/play/fox_sports_hd
 
 #EXTINF:-1 tvg-id="Espn2.ar" tvg-name="ESPN 2 ARG" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Sports Ar",ESPN 2
