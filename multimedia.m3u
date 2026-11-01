@@ -186,18 +186,23 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-name="Premier Sports 2" tvg-logo="https://i.ytimg.com/vi/h9X3IOL_3l8/hqdefault.jpg" group-title="SPORTS INT",Premier Sports 2
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="" group-title="SPORTS INT",Sky Sports Premier Leage
+http://nn.nnyx4k.com:8444/live/ECPC20000413/1335f76da5a8/201503.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS INT",Sky Sports Arena
 http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/35238.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS INT",Sky Sports Football 
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="" group-title="SPORTS INT",Sky Sports Football 
+http://nn.nnyx4k.com:8444/live/ECPC20000413/1335f76da5a8/201508.m3u8
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="" group-title="SPORTS INT",Sky Sports Football 
 http://xdplus.site:2082/live/GerardoSilvap/MTUUR/183600.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS INT",Sky Sports F1
-http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/335439.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS INT",Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="" group-title="SPORTS INT",Sky Sports F1
+http://nn.nnyx4k.com:8444/live/ECPC20000413/1335f76da5a8/201505.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="" group-title="SPORTS INT",Sky Sports Main Event
 http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/137720.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="" group-title="SPORTS INT",Sky Sports Main Event
+http://nn.nnyx4k.com:8444/live/ECPC20000413/1335f76da5a8/201511.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS INT",Sky Sports Arena
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="" group-title="SPORTS INT",Sky Sports Tennis
+http://nn.nnyx4k.com:8444/live/ECPC20000413/1335f76da5a8/201517.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS INT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXIG2bWDA1DJXhlmjkJqsggBFjV-mZtHonutYHUlapCA&s=10",Sportv
