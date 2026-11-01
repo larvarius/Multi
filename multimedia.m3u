@@ -23,24 +23,24 @@ http://xdplus.site:2082/live/GerardoSilvap/MTUUR/588132.m3u8
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Sports Ar",ESPN
 http://iptvpremium.ink:55577/live/juscsl54/748596js/167215.m3u8
 
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", DSports FHD
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", DSports COL FHD
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
 
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", DSports FHD
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", DSports COL FHD
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c432184d1ab00475aded5731162d99b7:5f361ae2b35dcb415fe612ea7e85ed9d
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qubxnja5rl/out/v1/4ef0db80aa3341e2babb58314541f1e0/cenc.mpd
 
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", DSports FHD
-http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", DSports FHD
-http://45.186.254.75:8000/play/a0en/index.m3u8
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", DSports FHD
-http://restreamlatam.online:80/play/9juIprfRMreGgHoj5sTzKODcR_Df6thAtX4-hU3lRGE/tshttp://181.209.80.115:8000/play/dsports_hd
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", DSports PE HD
+http://tvdirect.pro:8080/live/hugo13/69542358h/3468.m3u8
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", DSports EC HD
+https://gotv.vip:443/live/Federico2890/Federico2890/540804.m3u8
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", DSports PE HD
+https://gotv.vip:443/live/Federico2890/Federico2890/529975.m3u8
 
 
 
@@ -66,9 +66,9 @@ http://181.209.38.115:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Sports Ar",TNT Sports Premium
 http://iptvpremium.ink:55577/live/juscsl54/748596js/167260.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://www.pngitem.com/pimgs/m/394-3949805_foxsports-fox-sports-logo-white-png-transparent-png.png" group-title="Sports Ar",FOX Sports
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/fox-sports-1-logo-png-transparent.png" group-title="Sports Ar",FOX Sports
 http://tvdirect.pro:8080/live/hugo13/69542358h/5727.m3u8
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://www.pngitem.com/pimgs/m/394-3949805_foxsports-fox-sports-logo-white-png-transparent-png.png" group-title="Sports Ar",FOX Sports
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/fox-sports-1-logo-png-transparent.png" group-title="Sports Ar",FOX Sports
 http://181.209.80.115:8000/play/fox_sports_hd
 
 #EXTINF:-1 tvg-id="Espn2.ar" tvg-name="ESPN 2 ARG" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Sports Ar",ESPN 2
@@ -245,7 +245,7 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-id="BeINSports.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png" group-title="SPORTS INT",BeIN Sports Ñ
-https://gotv.vip:443/live/Federico2890/Federico2890/20896.m3u8
+http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/36879.m3u8
 
 #EXTINF:-1 tvg-id="fox-sports.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Fox_sports_mx.png/1920px-Fox_sports_mx.png" group-title="SPORTS INT" , FOX SPORTS MX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
