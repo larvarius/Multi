@@ -25,7 +25,9 @@ http://xdplus.site:2082/live/GerardoSilvap/MTUUR/588132.m3u8
 http://iptvpremium.ink:55577/live/juscsl54/748596js/167215.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", DSports AR HD
-https://amokin.onrender.com/latam-tv/proxy/playlist/a7400d6d-ffeb-4709-b9f6-21671c59c1a8.m3u8
+http://181.209.80.115:8000/play/dsports_hd
+http://190.117.20.37:8000/play/a08d/index.m3u
+http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", DSports COL FHD
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
