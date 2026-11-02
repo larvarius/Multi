@@ -156,6 +156,8 @@ https://gotv.vip:443/live/Federico2890/Federico2890/349.m3u8
 
 
 #EXTINF:-1 tvg-id="TennisChannel.es" group-title="SPORTS INT" tvg-logo="",Tenis Channel
+http://cord-cutter.net:8080/live/1AfCNg/597288/20184.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.es" group-title="SPORTS INT" tvg-logo="",Tenis Channel
 http://tvprem.pro:8080/live/Yefri2023/Yefri2023/345695.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="SPORTS INT" tvg-logo="https://i.postimg.cc/Dw8YJJ39/stablesportstv-tnt1.png",TNT SPORTS 1
@@ -196,12 +198,18 @@ http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/35238.m3u8
 http://nn.nnyx4k.com:8444/live/ECPC20000413/1335f76da5a8/201508.m3u8
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="" group-title="SPORTS INT",Sky Sports Football 
 http://xdplus.site:2082/live/GerardoSilvap/MTUUR/183600.m3u8
+
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="" group-title="SPORTS INT",Sky Sports F1
 http://nn.nnyx4k.com:8444/live/ECPC20000413/1335f76da5a8/201505.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="" group-title="SPORTS INT",Sky Sports F1
+http://cord-cutter.net:8080/live/1AfCNg/597288/53704.m3u8
+
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="" group-title="SPORTS INT",Sky Sports Main Event
 http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/137720.m3u8
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="" group-title="SPORTS INT",Sky Sports Main Event
 http://nn.nnyx4k.com:8444/live/ECPC20000413/1335f76da5a8/201511.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="" group-title="SPORTS INT",Sky Sports Main Event
+http://cord-cutter.net:8080/live/1AfCNg/597288/35243.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="" group-title="SPORTS INT",Sky Sports Tennis
 http://nn.nnyx4k.com:8444/live/ECPC20000413/1335f76da5a8/201517.m3u8
