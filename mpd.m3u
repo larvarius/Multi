@@ -268,3 +268,68 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
+
+# ==========================================
+# GRUPO: ⚽ Bein Sports ⚽
+# ==========================================
+
+
+#EXTINF:-1 tvg-id="BEIN_SPORTS_1_AU" tvg-name="beIN SPORTS 1 AU" tvg-logo="https://i.postimg.cc/PxVwNGgX/be-IN-SPORTS1-ENGLISH-Digital-Mono.png" group-title="beIN SPORTS",beIN SPORTS 1 AU
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=M12td4EJlUUD3Lsh3JIBXw:JL_XXUNsv3MWiiotzNQCgQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.143 Safari/537.36
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 tvg-id="BEIN_SPORTS_2_AU" tvg-name="beIN SPORTS 2 AU" tvg-logo="https://i.postimg.cc/5NYwY0NW/be-IN-SPORTS2-ENGLISH-Digital-Mono.png" group-title="beIN SPORTS",beIN SPORTS 2 AU
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=C0K-JmTX6BHQTz5QTgkkxQ:riQJASO4xyrFQE3BUoR8uA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.143 Safari/537.36
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="BEIN_SPORTS_3_AU" tvg-name="beIN SPORTS 3 AU" tvg-logo="https://i.postimg.cc/9fjtjh2F/be-IN-SPORTS3-ENGLISH-Digital-Mono.png" group-title="beIN SPORTS",beIN SPORTS 3 AU
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eZXHJKE3SO2XCECoq1u5sw:Z72vHiF1uf9oL83w4jVLHg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.143 Safari/537.36
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="BEIN_SPORTS_1_ID" tvg-name="beIN SPORTS 1 ID" tvg-logo="https://i.postimg.cc/PxVwNGgX/be-IN-SPORTS1-ENGLISH-Digital-Mono.png" group-title="beIN SPORTS",beIN SPORTS 1 ID
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=M12td4EJlUUD3Lsh3JIBXw:JL_XXUNsv3MWiiotzNQCgQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.143 Safari/537.36
+https://global-cdn3.visionplus.id/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 tvg-id="BEIN_SPORTS_2_ID" tvg-name="beIN SPORTS 2 ID" tvg-logo="https://i.postimg.cc/5NYwY0NW/be-IN-SPORTS2-ENGLISH-Digital-Mono.png" group-title="beIN SPORTS",beIN SPORTS 2 ID
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=C0K-JmTX6BHQTz5QTgkkxQ:riQJASO4xyrFQE3BUoR8uA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.143 Safari/537.36
+https://global-cdn4.visionplus.id/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+#EXTINF:-1 tvg-id="BEIN_SPORTS_3_ID" tvg-name="beIN SPORTS 3 ID" tvg-logo="https://i.postimg.cc/9fjtjh2F/be-IN-SPORTS3-ENGLISH-Digital-Mono.png" group-title="beIN SPORTS",beIN SPORTS 3 ID
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eZXHJKE3SO2XCECoq1u5sw:Z72vHiF1uf9oL83w4jVLHg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.143 Safari/537.36
+https://global-cdn1.visionplus.id/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 tvg-id="BEIN_SPORTS_4_ID" tvg-name="beIN SPORTS 4 ID" tvg-logo="https://i.postimg.cc/9fjtjh2F/be-IN-SPORTS3-ENGLISH-Digital-Mono.png" group-title="beIN SPORTS",beIN SPORTS 4 ID
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=rvGCMXetQBmd5EBQTZkq1Q:uVyRlAjux2YyFKmmevgxug
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.143 Safari/537.36
+https://global-cdn2.visionplus.id/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+
+#EXTINF:-1 tvg-id="BEIN_SPORTS_5_ID" tvg-name="beIN SPORTS 5 ID" tvg-logo="https://i.postimg.cc/9fjtjh2F/be-IN-SPORTS3-ENGLISH-Digital-Mono.png" group-title="beIN SPORTS",beIN SPORTS 5 ID
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=xIyOSNuiRCC13O+fW4R7Eg:2q0K6xZbmia3BvKiYbj6/g
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.143 Safari/537.36
+https://global-cdn1.visionplus.id/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+
+
+
+
