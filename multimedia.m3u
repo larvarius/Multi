@@ -1,7 +1,6 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml,https://epg.programadorx.cl/mdiaz/gratis.xml,https://www.open-epg.com/files/spain.xml,https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz"
 
 
-#EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="https://i.ibb.co/F4zq0S6P/channels4-profile.png" group-title="Sports Ar",TyC Sports Internacional
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/F4zq0S6P/channels4-profile.png" group-title="Sports Ar",TyC Sports
 http://tvdirect.pro:8080/live/hugo13/69542358h/7101.m3u8
@@ -9,10 +8,11 @@ http://tvdirect.pro:8080/live/hugo13/69542358h/7101.m3u8
 http://iptvpremium.ink:55577/live/juscsl54/748596js/167261.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/F4zq0S6P/channels4-profile.png" group-title="Sports Ar",TyC Sports
 https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
+#EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="https://i.ibb.co/F4zq0S6P/channels4-profile.png" group-title="Sports Ar",TyC Sports Internacional
+http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/328474.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/F4zq0S6P/channels4-profile.png" group-title="Sports Ar",TyC Sports
 http://181.209.38.115:8000/play/a00k/index.m3u8
 
-#EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Sports Ar",ESPN
 
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Sports Ar",ESPN
 http://tvdirect.pro:8080/live/hugo13/69542358h/3444.m3u8
@@ -22,6 +22,8 @@ https://gotv.vip:443/live/Federico2890/Federico2890/65659.m3u8
 http://xdplus.site:2082/live/GerardoSilvap/MTUUR/588132.m3u8
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Sports Ar",ESPN
 http://iptvpremium.ink:55577/live/juscsl54/748596js/167215.m3u8
+#EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Sports Ar",ESPN
+
 
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", DSports COL FHD
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
@@ -57,7 +59,6 @@ http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/327404.m3u8
 #EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Sports Ar",ESPN Premium
 http://iptvpremium.ink:55577/live/juscsl54/748596js/444969.m3u8
 
-#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Sports Ar",TNT Sports Premium
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Sports Ar",TNT Sports Premium
 https://gotv.vip:443/live/Federico2890/Federico2890/146030.m3u8
@@ -65,6 +66,8 @@ https://gotv.vip:443/live/Federico2890/Federico2890/146030.m3u8
 http://181.209.38.115:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Sports Ar",TNT Sports Premium
 http://iptvpremium.ink:55577/live/juscsl54/748596js/167260.m3u8
+#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Sports Ar",TNT Sports Premium
+http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/328478.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/fox-sports-1-logo-png-transparent.png" group-title="Sports Ar",FOX Sports
 http://tvdirect.pro:8080/live/hugo13/69542358h/5727.m3u8
@@ -72,12 +75,12 @@ http://tvdirect.pro:8080/live/hugo13/69542358h/5727.m3u8
 http://181.209.80.115:8000/play/fox_sports_hd
 
 #EXTINF:-1 tvg-id="Espn2.ar" tvg-name="ESPN 2 ARG" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Sports Ar",ESPN 2
-
+https://gotv.vip:443/live/Federico2890/Federico2890/65661.m3u8
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-name="ESPN 2 ARG" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Sports Ar",ESPN 2
 http://tvdirect.pro:8080/live/hugo13/69542358h/3450.m3u8
 
 #EXTINF:-1 tvg-id="Espn3.ar" tvg-name="ESPN 3 ARG" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="Sports Ar",ESPN 3 
-
+https://gotv.vip:443/live/Federico2890/Federico2890/65648.m3u8
 #EXTINF:-1 tvg-id="1623dtv.ar" tvg-name="ESPN 3 ARG" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="Sports Ar",ESPN 3 
 http://tvdirect.pro:8080/live/hugo13/69542358h/3454.m3u8
 
@@ -132,18 +135,18 @@ http://xdplus.site:2082/live/GerardoSilvap/MTUUR/675049.m3u8
 http://xdplus.site:2082/live/GerardoSilvap/MTUUR/675052.m3u8
 
 #EXTINF:-1 tvg-id="DAZN3.es" group-title="SPORTS INT" tvg-logo="",Dazn 3
-
+http://tvprem.pro:8080/live/Yefri2023/Yefri2023/343448.m3u8
 #EXTINF:-1 tvg-id="DAZNLALIGA.es" group-title="SPORTS INT" tvg-logo="",Dazn La Liga
-http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/278284.m3u8
+
 
 #EXTINF:-1 tvg-id="MovistarLaLigaHDR.es" group-title="SPORTS INT" tvg-logo="", Movistar La Liga
-http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/278185.m3u8
+
 
 #EXTINF:-1 tvg-id="MovistarLigaDeCampeones.es" group-title="SPORTS INT" tvg-logo="", Movistar Liga de Campeones
 https://gotv.vip:443/live/Federico2890/Federico2890/145936.m3u8
 
 #EXTINF:-1 tvg-id="DAZN F1.es" group-title="SPORTS INT" tvg-logo="",Dazn F1
-http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/278286.m3u8
+http://tvprem.pro:8080/live/Yefri2023/Yefri2023/61813.m3u8
 
 #EXTINF:-1 tvg-id="Energy.es" group-title="SPORTS INT" tvg-logo="",Energy
 https://gotv.vip:443/live/Federico2890/Federico2890/140005.m3u8
@@ -153,7 +156,7 @@ https://gotv.vip:443/live/Federico2890/Federico2890/349.m3u8
 
 
 #EXTINF:-1 tvg-id="TennisChannel.es" group-title="SPORTS INT" tvg-logo="",Tenis Channel
-http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/36917.m3u8
+http://tvprem.pro:8080/live/Yefri2023/Yefri2023/345695.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="SPORTS INT" tvg-logo="https://i.postimg.cc/Dw8YJJ39/stablesportstv-tnt1.png",TNT SPORTS 1
 #KODIPROP:inputstream=inputstream.adaptive
