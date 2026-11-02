@@ -331,5 +331,175 @@ https://global-cdn2.visionplus.id/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.
 https://global-cdn1.visionplus.id/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 
+# ==========================================
+# GRUPO: ⚽ Sports UK ⚽
+# ==========================================
+
+#EXTINF:-1 tvg-id="TNT_SPORTS_1_UK" tvg-name="TNT SPORTS 1 UK" tvg-logo="https://i.postimg.cc/sxQ0rjgd/descarga-38.jpg" group-title="Sports UK",TNT SPORTS 1 UK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aaWqg1oGHOZKYw0QRnJ-QA:0C_qyKmZvQa_QFm_M0EXSQ
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNT_SPORTS_2_UK" tvg-name="TNT SPORTS 2 UK" tvg-logo="https://i.postimg.cc/sxQ0rjgd/descarga-38.jpg" group-title="Sports UK",TNT SPORTS 2 UK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8994QwgK50O_hl3F_fZMaA:VnyGO8Eut0eI6nSIjAQuGw
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNT_SPORTS_3_UK" tvg-name="TNT SPORTS 3 UK" tvg-logo="https://i.postimg.cc/sxQ0rjgd/descarga-38.jpg" group-title="Sports UK",TNT SPORTS 3 UK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=zJFQgyTOncr0JaQ9WPHZ1A:ZD5UdNnt2Hx9kJHIyXmUyg
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNT_SPORTS_4_UK" tvg-name="TNT SPORTS 4 UK" tvg-logo="https://i.postimg.cc/sxQ0rjgd/descarga-38.jpg" group-title="Sports UK",TNT SPORTS 4 UK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=-jT6jJAzbdUox6I4ccrR_g:VSp40a63TxZQ1oJVxXSUCA
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNT_SPORTS_5_UK" tvg-name="TNT SPORTS 5 UK" tvg-logo="https://i.postimg.cc/sxQ0rjgd/descarga-38.jpg" group-title="Sports UK",TNT SPORTS 5 UK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+
+#EXTINF:-1 tvg-id="PREMIER_SPORTS_1" tvg-name="Premier Sports 1" tvg-logo="https://i.postimg.cc/m2ChRY5V/Premier-Sports-1-II.png" group-title="Sports UK",Premier Sports 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=FET0I1Up8YPwpaSGvv6c2w:5eP-xnobs0cqIInIoKJVfw
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+#EXTINF:-1 tvg-id="PREMIER_SPORTS_2" tvg-name="Premier Sports 2" tvg-logo="https://i.postimg.cc/6QjpzY8J/premier-sports-2.png" group-title="Sports UK",Premier Sports 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=Gl31NgnryYV4mMSQ9HJJGA:d_YpgNWC7FQSgHlqz4stGQ
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+
+# ==========================================
+# GRUPO: ⚽ Sports EU ⚽
+# ==========================================
+
+
+#EXTINF:-1 tvg-id="SPORTDIGITAL_FUSSBALL" tvg-name="SPORTDIGITAL FUSSBALL" tvg-logo="https://i.postimg.cc/fT1dwWC5/sportdigital.png" group-title="Sports EU",SPORTDIGITAL FUSSBALL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=CtQIDN/4xgsSM7Igh/CzQA:KF8SnF7KAd0IpdWhStgByA
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+https://abd5xpeaaaaaaaamn2tirj37mzzps.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="SPORTDIGITAL_SCOOORE" tvg-name="SPORTDIGITAL SCOOORE" tvg-logo="https://i.ibb.co/pfHxtNN/scooore.png" group-title="Sports EU",SPORTDIGITAL SCOOORE
+https://d30q89nbu2cn1m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dqa8cbhgtjvjl/ScoooreDE.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ATBD26000124P
+
+#EXTINF:-1 tvg-id="SPORTDIGITAL_FREE" tvg-name="SPORTDIGITAL FREE" tvg-logo="https://i.ibb.co/XX6rKD0/sdf.png" group-title="Sports EU",SPORTDIGITAL FREE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/1ee22da8-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=AT&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="EUROSPORT_1_DE" tvg-name="EUROSPORT 1 DE" tvg-logo="https://pbs.twimg.com/profile_images/1917288551647002624/WbMLaqaS_400x400.jpg" group-title="Sports EU",EUROSPORT 1 DE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=h3QE1TEzz4kHeX+MHRu8Pg:aKNdii4z407gqmgH5krOJg
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+https://otte-azion.live.pv-cdn.net/gru-nitro/live/dash/enc/gnqwc9ji0p/out/v1/41ec3ffa7bc24070b4b431ce6646a3dd/cenc.mpd
+
+#EXTINF:-1 tvg-id="EUROSPORT_2_DE" tvg-name="EUROSPORT 2 DE" tvg-logo="https://pbs.twimg.com/profile_images/1917288551647002624/WbMLaqaS_400x400.jpg" group-title="Sports EU",EUROSPORT 2 DE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=LiPqQV9qaRshKhV/IYrMvg:uq71xSgddBNzxlK5Eh+3kA
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+https://otte-azion.live.pv-cdn.net/gru-nitro/live/dash/enc/wqzoyel9x7/out/v1/86a2b301f0714cdebc04ef968946e245/cenc.mpd
+
+
+
+# ==========================================
+# GRUPO: ⚽ Sports Varios ⚽
+# ==========================================
+
+#EXTINF:-1 tvg-id="TYC_SPORTS_INTERNACIONAL_1" tvg-name="TYC SPORTS INTERNACIONAL" tvg-logo="https://i.postimg.cc/BQpnGZ15/tycsports-int.png" group-title="Sports Varios",TYC SPORTS INTERNACIONAL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=54gOGw1QyjJGRrnXPXgeHw:K-8teRLuUjENQhwdd1bQcg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://cdn-live.mundogo.cl/tycsports/tycsports.mpd
+
+#EXTINF:-1 tvg-id="TYC_SPORTS_INTERNACIONAL_2" tvg-name="TYC SPORTS INTERNACIONAL 2" tvg-logo="https://i.postimg.cc/BQpnGZ15/tycsports-int.png" group-title="Sports Varios",TYC SPORTS INTERNACIONAL 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=54gOGw1QyjJGRrnXPXgeHw:K-8teRLuUjENQhwdd1bQcg
+https://chromecast.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_C/TyC_Internacional.mpd
+
+#EXTINF:-1 tvg-id="SHOWSPORT_CORDOBA" tvg-name="ShowSport (Córdoba)" tvg-logo="https://i.postimg.cc/k5xSPHR6/showsports.png" group-title="Sports Varios",ShowSport (Córdoba)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=SYHFnDMcrP_3A5CpmxAnnQ:dgN9AbRP8eK-XB0I-7HwTg
+https://chromecast.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc_C/Show_Sports.mpd
+
+#EXTINF:-1 tvg-id="FLOW_SPORTS" tvg-name="FLOW SPORTS" tvg-logo="https://i.postimg.cc/wTwgZh4c/flow-sports.png" group-title="Sports Varios",FLOW SPORTS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=_bmWNSpFszm4bz6zNq82xg:IbhUPBOyuH4OCXYCpx8_kQ
+https://chromecast.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_C/Eventos1HD.mpd
+
+#EXTINF:-1 tvg-id="FLOW_SPORTS_2" tvg-name="FLOW SPORTS 2" tvg-logo="https://i.postimg.cc/VL8JmBFx/flow-sports-2.png" group-title="Sports Varios",FLOW SPORTS 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=AsX0bexMP-rd5vWwsMbptg:iRhvjCUPgpG0IRrBsr3BAw
+https://chromecast.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_C/Eventos_2_HD.mpd
+
+#EXTINF:-1 tvg-id="EVENTOS_3" tvg-name="EVENTOS 3" tvg-logo="https://i.ibb.co/02hhVcv/evento330hd.png" group-title="Sports Varios",EVENTOS 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=BIyqMGBnjv7v8-sOm1-nAg:KtLb13q1U1ma0q2yVo_iGw
+https://chromecast.cvattv.com.ar/live/c7eds/Eventos_3/SA_Live_dash_enc_C/Eventos_3.mpd
+
+#EXTINF:-1 tvg-id="AMERICA_SPORTS" tvg-name="AMERICA SPORTS" tvg-logo="https://i.ibb.co/LtCNCcJ/america-sports.png" group-title="Sports Varios",AMERICA SPORTS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=MmlTb-3GnLoeAoH_YsxOuQ:Ukbu305683cfgImdtmfe3g
+https://chromecast.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc_C/America_Sports.mpd
+
+#EXTINF:-1 tvg-id="TENNIS_CHANNEL" tvg-name="TENNIS CHANNEL" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports Varios",TENNIS CHANNEL
+https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8
+
+#EXTINF:-1 tvg-id="TENNIS_CHANNEL_2" tvg-name="TENNIS CHANNEL 2" tvg-logo="https://i.ibb.co/m8rwcJy/T2-live-tennis.png" group-title="Sports Varios",TENNIS CHANNEL 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=WfUGecnmCWO9DLZkCZKqqg:hoWBfE0x8yLgiUD-6uKFWg
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+
+#EXTINF:-1 tvg-id="TENNIS_CHANNEL_UK" tvg-name="Tennis Channel UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20230809T053838SQUARE.png_20230809053839.png" group-title="Sports Varios",Tennis Channel UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TENNIS_CHANNEL_US" tvg-name="Tennis Channel US" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20230809T053838SQUARE.png_20230809053839.png" group-title="Sports Varios",Tennis Channel US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.37
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 
 
