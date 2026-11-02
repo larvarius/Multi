@@ -166,6 +166,7 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash-sd/enc/ln7isfb6fz/out/v1
 
 
 
+
 # ==========================================
 # GRUPO: ⚽ Fox Sports ⚽
 # ==========================================
@@ -224,121 +225,254 @@ https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/TyC_Internacional/SA
 # ==========================================
 
 
-#EXTINF:-1 tvg-id="DSPORTS_RADIO" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="DIRECTV SPORTS PACK",DSports Radio
+#EXTM3U
+
+#EXTINF:-1 tvg-id="DSPORTS_RADIO" tvg-name="DSports Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="DIRECTV SPORTS PACK",DSports Radio
 https://24403.live.streamtheworld.com/DSPORTSRADIOAAC.aac
 
-#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DIRECTV SPORTS PACK",DSports
+#EXTINF:-1 tvg-id="DSPORTS" tvg-name="DSports" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DIRECTV SPORTS PACK",DSports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=+LIHwQ8/dq66MqNg7FK55A:r61J0g6zlnDpPjccHWaZIQ
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
 
-#EXTINF:-1 tvg-id="DSPORTS2" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DIRECTV SPORTS PACK",DSports2
+#EXTINF:-1 tvg-id="DSPORTS2" tvg-name="DSports2" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DIRECTV SPORTS PACK",DSports2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=A_Etaj2_06b6fdf2QX4MEQ:6ge4es3y5FvoJM3koc81BA
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
 http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
 
-#EXTINF:-1 tvg-id="DSPORTS_PLUS" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DIRECTV SPORTS PACK",DSports+
+#EXTINF:-1 tvg-id="DSPORTS_PLUS" tvg-name="DSports+" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DIRECTV SPORTS PACK",DSports+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=g_gcTMFEOZFUPeTiLup1hg:3f18plPW81VD2O2zxojiDw
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
 http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
 
 # ==========================================
-# GRUPO: ⚽ Sports Norte ⚽
+# GRUPO: ⚽ DDeportes Norte ⚽
 # ==========================================
 
-
-#EXTINF:-1 tvg-id="TUDN" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES NORTE [MX]",TUDN
+#EXTINF:-1 tvg-id="TUDN" tvg-name="TUDN" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES NORTE [MX]",TUDN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=djzh68ryNQLIzzV8bvQj4Q:DF5sCCCh6ih1NyHbACckEQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
 
-#EXTINF:-1 tvg-id="FS1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="DEPORTES NORTE [MX]",FS1
+#EXTINF:-1 tvg-id="FS1" tvg-name="FS1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="DEPORTES NORTE [MX]",FS1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=VGbr1wcEvetlfwq/PFyk7w:vdebctjkjtSDqmI8w4qKFg
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
 
-#EXTINF:-1 tvg-id="FS2" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="DEPORTES NORTE [MX]",FS2
+#EXTINF:-1 tvg-id="FS2" tvg-name="FS2" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="DEPORTES NORTE [MX]",FS2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=CUU86CDWX7xnXeMYX55FTA:mM/5YAmV+jgcdv2s88ftrg
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="NBC_SPORTS_PEACOCK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/960px-NBCSN_logo_%28flat%29.svg.png" group-title="DEPORTES NORTE [MX]",NBC SPORTS PEACOCK
+#EXTINF:-1 tvg-id="NBC_SPORTS_PEACOCK" tvg-name="NBC SPORTS PEACOCK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/960px-NBCSN_logo_%28flat%29.svg.png" group-title="DEPORTES NORTE [MX]",NBC SPORTS PEACOCK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=AEWQEbJlJKZzsM7VTO8Kiw:sx3tDopMrVo2tr4G2udvKA
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0 (12.0.0.4186-55)
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(nbcsportspeacock)/master.mpd
 
-#EXTINF:-1 tvg-id="NBC_SPORTS_NOW" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="DEPORTES NORTE [MX]",NBC SPORTS NOW
+#EXTINF:-1 tvg-id="NBC_SPORTS_NOW" tvg-name="NBC SPORTS NOW" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="DEPORTES NORTE [MX]",NBC SPORTS NOW
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="NBC_SPORTS_BAY_AREA" tvg-logo="https://i.imgur.com/MTgUVKx.png" group-title="DEPORTES NORTE [MX]",NBC SPORTS BAY AREA
+#EXTINF:-1 tvg-id="NBC_SPORTS_BAY_AREA" tvg-name="NBC SPORTS BAY AREA" tvg-logo="https://i.imgur.com/MTgUVKx.png" group-title="DEPORTES NORTE [MX]",NBC SPORTS BAY AREA
 https://tvpass.org/live/nbc-sports-bay-area/hd
 
-#EXTINF:-1 tvg-id="NBC_SPORTS_PHILADELPHIA" tvg-logo="https://i.imgur.com/j9mVaf3.png" group-title="DEPORTES NORTE [MX]",NBC SPORTS PHILADELFHIA
+#EXTINF:-1 tvg-id="NBC_SPORTS_PHILADELFHIA" tvg-name="NBC SPORTS PHILADELFHIA" tvg-logo="https://i.imgur.com/j9mVaf3.png" group-title="DEPORTES NORTE [MX]",NBC SPORTS PHILADELFHIA
 https://tvpass.org/live/nbc-sports-philadelphia/hd
 
-#EXTINF:-1 tvg-id="NBC_SPORTS_BOSTON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NBC_Sports_Boston.png/960px-NBC_Sports_Boston.png" group-title="DEPORTES NORTE [MX]",NBC SPORTS BOSTON
+#EXTINF:-1 tvg-id="NBC_SPORTS_BOSTON" tvg-name="NBC SPORTS BOSTON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NBC_Sports_Boston.png/960px-NBC_Sports_Boston.png" group-title="DEPORTES NORTE [MX]",NBC SPORTS BOSTON
 https://tvpass.org/live/nbc-sports-boston/hd
 
-#EXTINF:-1 tvg-id="LALIGA_TV" tvg-logo="https://i.imgur.com/ilay5Jr.png" group-title="DEPORTES NORTE [MX]",LALIGA TV
+#EXTINF:-1 tvg-id="LALIGA_TV" tvg-name="LALIGA TV" tvg-logo="https://i.imgur.com/ilay5Jr.png" group-title="DEPORTES NORTE [MX]",LALIGA TV
 https://deportes.ksdjugfsddeports.com/stream.php?canal=skysportslaliga&target=1
 
-#EXTINF:-1 tvg-id="BUNDESLIGA_TV" tvg-logo="https://i.imgur.com/UXtjFtd.png" group-title="DEPORTES NORTE [MX]",BUNDESLIGA TV
+#EXTINF:-1 tvg-id="BUNDESLIGA_TV" tvg-name="BUNDESLIGA TV" tvg-logo="https://i.imgur.com/UXtjFtd.png" group-title="DEPORTES NORTE [MX]",BUNDESLIGA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=sky_bundesliga_mx
+#EXTVLCOPT:http-origin=https://la14hd.com
 https://la18hd.com/vivo/canales.php?stream=sky_bundesliga_mx
 
-#EXTINF:-1 tvg-id="SKY_SPORTS_16" tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="DEPORTES NORTE [MX]",Sky Sports 16
+#EXTINF:-1 tvg-id="SKY_SPORTS_16" tvg-name="Sky Sports 16" tvg-logo="https://i.imgur.com/SuTOqKi.png" group-title="DEPORTES NORTE [MX]",Sky Sports 16
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=y4Dh59dZjq+Ysdu+bcFO6Q:EDrlXHlIyh0VnWdDYZ0mxA
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
-#EXTINF:-1 tvg-id="SKY_SPORTS_21" tvg-logo="https://i.postimg.cc/W1yjByM9/sky-sport-21.png" group-title="DEPORTES NORTE [MX]",Sky Sports 21
+#EXTINF:-1 tvg-id="SKY_SPORTS_21" tvg-name="Sky Sports 21" tvg-logo="https://i.postimg.cc/W1yjByM9/sky-sport-21.png" group-title="DEPORTES NORTE [MX]",Sky Sports 21
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=mZCQMjicbuQcPS8+yCn4BA:QfvFdcjvHNrB3KmQyaDfnQ
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 https://aca-live4-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd
 
-#EXTINF:-1 tvg-id="SKY_SPORTS_24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_24_-_Logo_2020.svg/960px-Sky_Sport_24_-_Logo_2020.svg.png" group-title="DEPORTES NORTE [MX]",Sky Sports 24
+#EXTINF:-1 tvg-id="SKY_SPORTS_24" tvg-name="Sky Sports 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_24_-_Logo_2020.svg/960px-Sky_Sport_24_-_Logo_2020.svg.png" group-title="DEPORTES NORTE [MX]",Sky Sports 24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2NWCPZKp75MGpMxL1jS0tA:35+9qg756QW3X0aS8hOvGQ
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 https://aca-live4-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd
 
-#EXTINF:-1 tvg-id="SKY_SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sky_Sport_-_Logo_2026.svg/960px-Sky_Sport_-_Logo_2026.svg.png" group-title="DEPORTES NORTE [MX]",Sky Sports
+#EXTINF:-1 tvg-id="SKY_SPORTS" tvg-name="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sky_Sport_-_Logo_2026.svg/960px-Sky_Sport_-_Logo_2026.svg.png" group-title="DEPORTES NORTE [MX]",Sky Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=M1UR398NA7wG8f3q1YcLWg:GgIvszrT3k1FebBJZlUUiA
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 https://aca-live4-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-HD/default.mpd
 
-#EXTINF:-1 tvg-id="SKY_SPORTS_F1_H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="DEPORTES NORTE [MX]",Sky Sports F1 H265
+#EXTINF:-1 tvg-id="SKY_SPORTS_F1_H265" tvg-name="Sky Sports F1 H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="DEPORTES NORTE [MX]",Sky Sports F1 H265
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=rn8WGR4q36rNm1Nu1Yopig:MxmzylzW8K8vPUvZp2MKiw
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 https://aca-live4-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd
 
-#EXTINF:-1 tvg-id="SKY_SPORTS_F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="DEPORTES NORTE [MX]",Sky Sports F1
+#EXTINF:-1 tvg-id="SKY_SPORTS_F1" tvg-name="Sky Sports F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="DEPORTES NORTE [MX]",Sky Sports F1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=qDncWojOYtofzHungWGrwg:MKLw1ECNOKpZaPCKeEw3rQ
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 https://vod-cua-orbit3-s1.izzigo.tv/out/u/startover/dash/F1-HD/default.mpd
 
-#EXTINF:-1 tvg-id="SKY_LIVE_EVENT_1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="DEPORTES NORTE [MX]",Sky Live Event 1
+#EXTINF:-1 tvg-id="SKY_LIVE_EVENT_1" tvg-name="Sky Live Event 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="DEPORTES NORTE [MX]",Sky Live Event 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=o2NqUSJ/ozjN3fWJLYpiHA:FETuPE0IvzlFS5FPeXlo6w
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 https://aca-live4-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd
 
-#EXTINF:-1 tvg-id="SKY_LIVE_EVENT_2" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="DEPORTES NORTE [MX]",Sky Live Event 2
+#EXTINF:-1 tvg-id="SKY_LIVE_EVENT_2" tvg-name="Sky Live Event 2" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="DEPORTES NORTE [MX]",Sky Live Event 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=HSIJh7E6WUsUTRu7a+3VaA:sXeOTCIAo6iFlXUAsT9TNQ
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 https://aca-live4-ott.izzigo.tv/8/out/u/dash/SKY-LIVE-EVENT-2-HD-H265/default.mpd
 
-#EXTINF:-1 tvg-id="SKY_LIVE_EVENT_3" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="DEPORTES NORTE [MX]",Sky Live Event 3
+#EXTINF:-1 tvg-id="SKY_LIVE_EVENT_3" tvg-name="Sky Live Event 3" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="DEPORTES NORTE [MX]",Sky Live Event 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=qTGy6VNpX/sM/ThXPpe6Mw:Td2ZzE+xaNfw4gvooyhxAA
+#EXTVLCOPT:http-user-agent=Mozila
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://aca-live4-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-4-HD/default.mpd
 
-#EXTINF:-1 tvg-id="SKY_LIVE_EVENT_4" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="DEPORTES NORTE [MX]",Sky Live Event 4
+#EXTINF:-1 tvg-id="SKY_LIVE_EVENT_4" tvg-name="Sky Live Event 4" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="DEPORTES NORTE [MX]",Sky Live Event 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bInoTFLq4EKLfSyOiHpI7A:dYoUhPkgoPGqc+ldXyviJQ
+#EXTVLCOPT:http-user-agent=Mozila
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-LIVE-EVENT-5-HD/default.mpd
 
-#EXTINF:-1 tvg-id="GOLF_CHANNEL_LATAM" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/160/160/0/0/6885621707734.png" group-title="DEPORTES NORTE [MX]",GOLF CHANNEL LATIN AMERICA
+#EXTINF:-1 tvg-id="GOLF_CHANNEL_LATAM" tvg-name="GOLF CHANNEL LATIN AMERICA" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/160/160/0/0/6885621707734.png" group-title="DEPORTES NORTE [MX]",GOLF CHANNEL LATIN AMERICA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=uN95fgcbDvHxojjIrBitLQ:plvOKc9LtTkMaG6gy7vEzQ
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 https://aca-live4-ott.izzigo.tv/6/out/u/dash/GOLF-CHANNEL-HD-H265/default.mpd
 
-#EXTINF:-1 tvg-id="NFL_NETWORK" tvg-logo="https://i.postimg.cc/xdnppLvX/NFL.png" group-title="DEPORTES NORTE [MX]",NFL NETWORK
+#EXTINF:-1 tvg-id="NFL_NETWORK" tvg-name="NFL NETWORK" tvg-logo="https://i.postimg.cc/xdnppLvX/NFL.png" group-title="DEPORTES NORTE [MX]",NFL NETWORK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=sSt213aFOk8BV4aut2htOA:1pUXj0sr5MLO9TXLTKVX/w
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 https://aca-live4-ott.izzigo.tv/6/out/u/dash/NFL-HD-H265/default.mpd
 
-#EXTINF:-1 tvg-id="BASKET_AMERICAS" tvg-logo="https://i.postimg.cc/G2HhmWFH/basket-americas.png" group-title="DEPORTES NORTE [MX]",Basket Americas
+#EXTINF:-1 tvg-id="BASKET_AMERICAS" tvg-name="Basket Americas" tvg-logo="https://i.postimg.cc/G2HhmWFH/basket-americas.png" group-title="DEPORTES NORTE [MX]",Basket Americas
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=M3ffmj4853NXk1Qd60lleg:31W33w9dP9s0/1aXeqcznQ
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 https://aca-live4-ott.izzigo.tv/11/out/u/dash/BASKET-AMERICAS-HD/default.mpd
 
-#EXTINF:-1 tvg-id="LATIN_AMERICAN_SPORTS" tvg-logo="https://i.postimg.cc/T36wJHx3/LAS.png" group-title="DEPORTES NORTE [MX]",Latin American Sports
+#EXTINF:-1 tvg-id="LATIN_AMERICAN_SPORTS" tvg-name="Latin American Sports" tvg-logo="https://i.postimg.cc/T36wJHx3/LAS.png" group-title="DEPORTES NORTE [MX]",Latin American Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=khO/v3wC4b6tp129OJYIpQ:qKSL1AoaYuYlioXmg6f6eA
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 https://aca-live4-ott.izzigo.tv/14/out/u/dash/LATIN-AMERICAN-SPORTS-HD/default.mpd
 
-#EXTINF:-1 tvg-id="BEISBOL_LATINO_TV" tvg-logo="https://i.postimg.cc/sxvRGbKM/beisbol-latino.png" group-title="DEPORTES NORTE [MX]",Beisbol Latino TV
+#EXTINF:-1 tvg-id="BEISBOL_LATINO_TV" tvg-name="Beisbol Latino TV" tvg-logo="https://i.postimg.cc/sxvRGbKM/beisbol-latino.png" group-title="DEPORTES NORTE [MX]",Beisbol Latino TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=Xb8UiIvZmnsBo8mwOGwp7Q:HuX2BCspLPs2blsuwn7PIg
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 https://aca-live4-ott.izzigo.tv/14/out/u/dash/BEISBOL-LATINO-HD/default.mpd
 
-#EXTINF:-1 tvg-id="HI_SPORTS" tvg-logo="https://i.postimg.cc/nhxDp91D/hi-sports.png" group-title="DEPORTES NORTE [MX]",Hi Sports
+#EXTINF:-1 tvg-id="HI_SPORTS" tvg-name="Hi Sports" tvg-logo="https://i.postimg.cc/nhxDp91D/hi-sports.png" group-title="DEPORTES NORTE [MX]",Hi Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8pZq1TPlKhnD3tHHueQDcA:LguyDj7bPOf8DWFrP/KHSA
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 https://aca-live4-ott.izzigo.tv/12/out/u/dash/HI-SPORTS-SD/default.mpd
 
-#EXTINF:-1 tvg-id="ITV_DEPORTES" tvg-logo="https://i.postimg.cc/Pr8hcbyv/itv-deportes.png" group-title="DEPORTES NORTE [MX]",ITV Deportes
+#EXTINF:-1 tvg-id="ITV_DEPORTES" tvg-name="ITV Deportes" tvg-logo="https://i.postimg.cc/Pr8hcbyv/itv-deportes.png" group-title="DEPORTES NORTE [MX]",ITV Deportes
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MAtY39rzXoU3ziXDnpmuxw:b8EHpvYvOdons2_wedf5Nw
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 https://aca-live4-ott.izzigo.tv/11/out/u/dash/ITV-DEPORTES-HD/default.mpd
 
-#EXTINF:-1 tvg-id="AYM_SPORTS" tvg-logo="https://i.postimg.cc/282gDssm/aym-sports.png" group-title="DEPORTES NORTE [MX]",AYM SPORTS
+#EXTINF:-1 tvg-id="AYM_SPORTS" tvg-name="AYM SPORTS" tvg-logo="https://i.postimg.cc/282gDssm/aym-sports.png" group-title="DEPORTES NORTE [MX]",AYM SPORTS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=EVBeSY3DVxyBjDUNNlY9+w:HcobI3me8Gzk+FGjlotzuA
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 https://aca-live4-ott.izzigo.tv/14/out/u/dash/AYM-SPORTS-TV-HD/default.mpd
 
-#EXTINF:-1 tvg-id="AZTECA_DEPORTES_NETWORK" tvg-logo="https://i.ibb.co/pLzvPJ3/aztecadeportes.png" group-title="DEPORTES NORTE [MX]",AZTECA DEPORTES NETWORK
+#EXTINF:-1 tvg-id="AZTECA_DEPORTES_NETWORK" tvg-name="AZTECA DEPORTES NETWORK" tvg-logo="https://i.ibb.co/pLzvPJ3/aztecadeportes.png" group-title="DEPORTES NORTE [MX]",AZTECA DEPORTES NETWORK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=DDl3j+j7T5+FdAFrPUri7Q:IysfRQ8uN/R/3VtniopUbQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
 https://mega.z5cable.com/bpk-tv/azteca_deportes_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="AZTECA_DEPORTES_NETWORK_2" tvg-logo="https://i.ibb.co/pLzvPJ3/aztecadeportes.png" group-title="DEPORTES NORTE [MX]",AZTECA DEPORTES NETWORK 2
+#EXTINF:-1 tvg-id="AZTECA_DEPORTES_NETWORK_2" tvg-name="AZTECA DEPORTES NETWORK 2" tvg-logo="https://i.ibb.co/pLzvPJ3/aztecadeportes.png" group-title="DEPORTES NORTE [MX]",AZTECA DEPORTES NETWORK 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
 https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
 
-#EXTINF:-1 tvg-id="AZTECA_DEPORTES_NETWORK_3" tvg-logo="https://i.ibb.co/pLzvPJ3/aztecadeportes.png" group-title="DEPORTES NORTE [MX]",AZTECA DEPORTES NETWORK 3
+#EXTINF:-1 tvg-id="AZTECA_DEPORTES_NETWORK_3" tvg-name="AZTECA DEPORTES NETWORK 3" tvg-logo="https://i.ibb.co/pLzvPJ3/aztecadeportes.png" group-title="DEPORTES NORTE [MX]",AZTECA DEPORTES NETWORK 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
 https://apollo.production-public.tubi.io/live/azteca-deportes-network-ootAAI.m3u8
 
-#EXTINF:-1 tvg-id="ADRENALINA_SPORTS_NETWORK" tvg-logo="https://i.postimg.cc/3x24hrK1/adrenalina-sports.webp" group-title="DEPORTES NORTE [MX]",Adrenalina Sports Network
+#EXTINF:-1 tvg-id="ADRENALINA_SPORTS_NETWORK" tvg-name="Adrenalina Sports Network" tvg-logo="https://i.postimg.cc/3x24hrK1/adrenalina-sports.webp" group-title="DEPORTES NORTE [MX]",Adrenalina Sports Network
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=beCma1KEAcA3jFWXEvdGQw:+aJAzqdfWFrdhAU3WtHXhw
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 https://aca-live4-ott.izzigo.tv/11/out/u/dash/ADRENALINA-HD/default.mpd
 
-#EXTINF:-1 tvg-id="TVC_DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="DEPORTES NORTE [MX]",TVC DEPORTES
+#EXTINF:-1 tvg-id="TVC_DEPORTES" tvg-name="TVC DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="DEPORTES NORTE [MX]",TVC DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=tvc_deportes
+#EXTVLCOPT:http-origin=https://la14hd.com
 https://la14hd.com/vivo/canales.php?stream=tvc_deportes
 
-#EXTINF:-1 tvg-id="MEXICO_AL_AIRE_LIBRE" tvg-logo="https://i.postimg.cc/442NjxTV/mx-al-aire-libre.png" group-title="DEPORTES NORTE [MX]",Mexico Al Aire Libre
-https://aca-live4-ott.izzigo.tv/12/out/u/dash/MEXICO-AL-AIRE-LIBRE-HD/default.mpd
+#EXTINF:-1 tvg-id="MEXICO_AL_AIRE_LIBRE" tvg-name="Mexico Al Aire Libre" tvg-logo="https://i.postimg.cc/442NjxTV/mx-al-aire-libre.png" group-title="DEPORTES NORTE [MX]",Mexico Al Aire Libre
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=EhNLGt6eLFW+FEoSFujl+g:EMSaq9lFGMzUuMP3/Sus2w
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izz
