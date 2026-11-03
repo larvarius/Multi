@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml,https://epg.programadorx.cl/mdiaz/gratis.xml,https://www.open-epg.com/files/spain.xml,https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 
-
+# ==========================================
+# GRUPO: ⚽ Sports AR ⚽
+# ==========================================
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/F4zq0S6P/channels4-profile.png" group-title="Sports Ar",TyC Sports
 http://tvdirect.pro:8080/live/hugo13/69542358h/7101.m3u8
@@ -101,7 +103,9 @@ http://tvdirect.pro:8080/live/hugo13/69542358h/132104.m3u8
 http://tvdirect.pro:8080/live/hugo13/69542358h/3472.m3u8
 
 
-
+# ==========================================
+# GRUPO: ⚽ LPF Event ⚽
+# ==========================================
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 1
 https://emitiendoenvivo.com/lpf/1.m3u8
@@ -119,31 +123,48 @@ https://emitiendoenvivo.com/lpf/4.m3u8
 https://emitiendoenvivo.com/lpf/5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 6
-https://emitiendoenvivo.com/lpf/1.m3u8
+https://emitiendoenvivo.com/lpf/6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 7
-https://emitiendoenvivo.com/lpf/1.m3u8
+https://emitiendoenvivo.com/lpf/7.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 8
-https://emitiendoenvivo.com/lpf/1.m3u8
+https://emitiendoenvivo.com/lpf/8.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 9
-https://emitiendoenvivo.com/lpf/1.m3u8
+https://emitiendoenvivo.com/lpf/9.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 10
-https://emitiendoenvivo.com/lpf/1.m3u8
+https://emitiendoenvivo.com/lpf/10.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 11
-https://emitiendoenvivo.com/lpf/1.m3u8
+https://emitiendoenvivo.com/lpf/11.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 12
-https://emitiendoenvivo.com/lpf/1.m3u8
+https://emitiendoenvivo.com/lpf/12.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 13
-https://emitiendoenvivo.com/lpf/1.m3u8
+https://emitiendoenvivo.com/lpf/13.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 14
+https://emitiendoenvivo.com/lpf/14.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 15
+https://emitiendoenvivo.com/lpf/15.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 16
+https://emitiendoenvivo.com/lpf/16.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 17
+https://emitiendoenvivo.com/lpf/17.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 18
+https://emitiendoenvivo.com/lpf/18.m3u8
+
+# ==========================================
+# GRUPO: ⚽ Sports Int ⚽
+# ==========================================
 
 #EXTINF:-1 tvg-id="MovistarVamos.es" group-title="SPORTS INT" tvg-logo="",Vamos
 https://gotv.vip:443/live/Federico2890/Federico2890/139966.m3u8
@@ -334,7 +355,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 
 
-
+# ==========================================
+# GRUPO: ⚽ Argentina ⚽
+# ==========================================
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="ElNueve.ar" group-title="Argentina" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png",El Nueve
 http://181.115.239.66:8000/play/a00k/index.m3u8
@@ -387,7 +410,9 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/nelfyucw9a/out/v1/6f
 #KODIPROP:inputstream.adaptive.license_key=
 
 
-
+# ==========================================
+# GRUPO: ⚽ Deportes Espn Col ⚽
+# ==========================================
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png" group-title="DEPORTES ESPN",ESPN
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
@@ -411,7 +436,9 @@ https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.mpd?
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.mpd?
 
 
-
+# ==========================================
+# GRUPO: ⚽ Sports Bra ⚽
+# ==========================================
 
 #EXTINF:-1 tvg-id="CAZE_TV_LIVE_EVENT_1" tvg-name="CAZE TV LIVE EVENT 1" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" group-title="EVENTOS / PREMIERE",CAZE TV LIVE EVENT 1
 #KODIPROP:inputstream=inputstream.adaptive
