@@ -12,8 +12,6 @@ https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
 http://tvdirect.pro:8080/live/hugo13/69542358h/7101.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/F4zq0S6P/channels4-profile.png" group-title="Sports Ar",TyC Sports
 http://iptvpremium.ink:55577/live/juscsl54/748596js/167261.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/F4zq0S6P/channels4-profile.png" group-title="Sports Ar",TyC Sports
-https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
 #EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="https://i.ibb.co/F4zq0S6P/channels4-profile.png" group-title="Sports Ar",TyC Sports Internacional
 http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/328474.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/F4zq0S6P/channels4-profile.png" group-title="Sports Ar",TyC Sports
@@ -327,9 +325,6 @@ https://emitiendoenvivo.com/lpf/18.m3u8
 # GRUPO: ⚽ Sports ES ⚽
 # ==========================================
 
-#EXTINF:-1 tvg-id="MovistarVamos.es" group-title="Sports ES" tvg-logo="",M+ Vamos
-https://gotv.vip:443/live/Federico2890/Federico2890/139966.m3u8
-
 #EXTINF:-1 tvg-id="DAZN 1.es" group-title="Sports ES" tvg-logo="",Dazn 1
 http://xdplus.site:2082/live/GerardoSilvap/MTUUR/675049.m3u8
 
@@ -338,18 +333,38 @@ http://xdplus.site:2082/live/GerardoSilvap/MTUUR/675052.m3u8
 
 #EXTINF:-1 tvg-id="DAZN3.es" group-title="Sports ES" tvg-logo="",Dazn 3
 http://tvprem.pro:8080/live/Yefri2023/Yefri2023/343448.m3u8
+
 #EXTINF:-1 tvg-id="DAZNLALIGA.es" group-title="Sports ES" tvg-logo="",Dazn La Liga
-
-#EXTINF:-1 tvg-id="MovistarLaLigaHDR.es" group-title="Sports ES" tvg-logo="", Movistar La Liga 
-
-#EXTINF:-1 tvg-id="MovistarLigaDeCampeones.es" group-title="Sports ES" tvg-logo="", Movistar Liga de Campeones
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/664.m3u8
-https://gotv.vip:443/live/Federico2890/Federico2890/145936.m3u8
 
 #EXTINF:-1 tvg-id="DAZN F1.es" group-title="Sports ES" tvg-logo="",Dazn F1
 http://tvprem.pro:8080/live/Yefri2023/Yefri2023/61813.m3u8
 
-#EXTINF:-1 tvg-id="BEIN_SPORTS_XTRA_EN" tvg-name="BEIN SPORTS XTRA Ñ" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-xtra-en-espanol-main-copy.png" group-title="Sports ES",BEIN SPORTS XTRA Ñ
+#EXTINF:-1 tvg-id="MovistarVamos.es" group-title="Sports ES" tvg-logo="",M+ Vamos
+https://gotv.vip:443/live/Federico2890/Federico2890/139966.m3u8
+
+#EXTINF:-1 tvg-id="MovistarLaLigaHDR.es" group-title="Sports ES" tvg-logo="",Movistar La Liga 
+
+#EXTINF:-1 tvg-id="MovistarLigaDeCampeones.es" group-title="Sports ES" tvg-logo="",Movistar Liga de Campeones
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/664.m3u8
+https://gotv.vip:443/live/Federico2890/Federico2890/145936.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports ES",Movistar La Liga Hypermotion 1
+#EXTVLCOPT:http-referer=
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
+https://cache2.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports ES",Movistar La Liga Hypermotion 1
+#EXTVLCOPT:http-referer=
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f
+https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd
+
+#EXTINF:-1 tvg-id="BEIN_SPORTS_XTRA_EN" tvg-name="BEIN SPORTS XTRA Ñ" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-xtra-en-espanol-main-copy.png" group-title="Sports ES",BBein Xtra N
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png" group-title="Sports ES",BeIN Sports Español
@@ -358,40 +373,25 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-id="Energy.es" tvg-logo="" group-title="Sports ES",Energy
 https://gotv.vip:443/live/Federico2890/Federico2890/140005.m3u8
 
-#EXTINF:-1 tvg-chno="574" group-title="Sports ES"  tvg-id="Teledeporte.es" tvg-name="Teledeporte.es"  tvg-logo="https://www.tvchannellists.com/w/File:Teledeporte_2026.svg" ,tdp (España)
+#EXTINF:-1 tvg-chno="574" group-title="Sports ES"  tvg-id="Teledeporte.es" tvg-name="Teledeporte.es"  tvg-logo="https://www.tvchannellists.com/w/File:Teledeporte_2026.svg" ,Teledeporte
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports ES",🇪🇸LA LIGA HYPERMOTION 1
-#EXTVLCOPT:http-referer=
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
-https://cache2.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports ES",🇪🇸LA LIGA HYPERMOTION 2
-#EXTVLCOPT:http-referer=
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f
-https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd
 
 # ==========================================
 # GRUPO: ⚽ Sports Latino ⚽
 # ==========================================
 
-#EXTINF:-1 tvg-id="LaLiga" tvg-logo="" group-title="Sports Latino",SKY La Liga
+#EXTINF:-1 tvg-id="LaLiga" tvg-logo="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysportslaliga.png" group-title="Sports Latino",SKY Sports La Liga
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb80e1e7d7598eaf98b1dbbe6dc14ee9:103ae55c7948ca1d159d6743619d26c4
 https://live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
-#EXTINF:-1 tvg-chno="573" group-title="Sports Latino" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysportslaliga.png" ,Sky Sports - La Liga (Mexico)
+#EXTINF:-1 tvg-chno="573" group-title="Sports Latino" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysportslaliga.png" ,Sky Sports La Liga MX
 http://181.119.177.253:8000/play/a0dz/index.m3u8
 
-#EXTINF:-1 tvg-chno="573" group-title="Sports Latino" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysportslaliga.png" ,Sky Sports - La Liga (Mexico)
+#EXTINF:-1 tvg-chno="573" group-title="Sports Latino" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysportslaliga.png" ,Sky Sports La Liga MX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb80e1e7d7598eaf98b1dbbe6dc14ee9:103ae55c7948ca1d159d6743619d26c4
@@ -403,17 +403,17 @@ https://live3-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 #EXTINF:-1 tvg-id="633dtv.co" group-title="Sports Latino" tvg-logo="",Win Sports
 https://gotv.vip:443/live/Federico2890/Federico2890/349.m3u8
 
-#EXTINF:-1 tvg-id="TUDN" tvg-name="TUDN" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Sports Latino",TUDN
+#EXTINF:-1 tvg-id="TUDN" tvg-name="TUDN" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Sports Latino",TUDN MX
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=djzh68ryNQLIzzV8bvQj4Q:DF5sCCCh6ih1NyHbACckEQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
 
-#EXTINF:-1 tvg-chno="575" group-title="Sports Latino" tvg-logo="https://americatvguide.com/img/mx/logo/tudn.webp" ,TUDN (Mexico)
+#EXTINF:-1 tvg-chno="575" group-title="Sports Latino" tvg-logo="https://americatvguide.com/img/mx/logo/tudn.webp" ,TUDN MX
 http://181.119.177.253:8000/play/a0ds/index.m3u8
 
-#EXTINF:-1 tvg-chno="576" group-title="Sports Latino" tvg-logo="https://i.ibb.co/zVYvXY2H/Picsart-26-06-11-15-18-55-176.png" ,TUDN | ViX 1
+#EXTINF:-1 tvg-chno="576" group-title="Sports Latino" tvg-logo="https://i.imgur.com/oT5CAvd.png" ,TUDN MX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=0c5e6c0820a1ea28753721db00272411&keyid=763ce1ebcaf23502c8cf357c6ef423e1
@@ -422,7 +422,7 @@ http://181.119.177.253:8000/play/a0ds/index.m3u8
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/26hxutyti4/out/v1/c7064d5b251a4564b53e0854426b9c8f/cenc.mpd
 
-#EXTINF:-1 tvg-chno="577" group-title="Sports Latino" tvg-logo="https://i.ibb.co/zVYvXY2H/Picsart-26-06-11-15-18-55-176.png" ,TUDN | ViX 2
+#EXTINF:-1 tvg-chno="577" group-title="Sports Latino" tvg-logo="https://i.ibb.co/zVYvXY2H/Picsart-26-06-11-15-18-55-176.png" ,TUDN Xtra ViX 2
 https://linear-357.frequency.stream/mt/monitoring/357/hls/master/playlist.m3u8
 
 
@@ -611,7 +611,7 @@ https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="Sports USA",NBA (NITRO)
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="Sports USA",NBA
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Sports USA",NFL Network
@@ -635,7 +635,7 @@ https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/b3b3fkmrbl/out/v1/1084d5c
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Sports USA",Fubo Sports 1
+#EXTINF:-1 tvg-logo="" group-title="Sports USA",Fubo Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -658,13 +658,6 @@ https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Jpd7qTeVVSpgVZZ5q3QLOA","k":"51F1GR0O1JTaPewli7/XTw"}],"type":"temporary"}
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/filihyb6x1/out/v1/e2b737b02ca046729b34f0594a611494/cenc.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Sports USA",ONE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
-https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Sports USA",UFC
 #KODIPROP:inputstream=inputstream.adaptive
