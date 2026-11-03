@@ -182,6 +182,7 @@ http://tvprem.pro:8080/live/Yefri2023/Yefri2023/343448.m3u8
 #EXTINF:-1 tvg-id="MovistarLaLigaHDR.es" group-title="SPORTS INT" tvg-logo="", Movistar La Liga 
 
 #EXTINF:-1 tvg-id="MovistarLigaDeCampeones.es" group-title="SPORTS INT" tvg-logo="", Movistar Liga de Campeones
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/664.m3u8
 https://gotv.vip:443/live/Federico2890/Federico2890/145936.m3u8
 
 #EXTINF:-1 tvg-id="DAZN F1.es" group-title="SPORTS INT" tvg-logo="",Dazn F1
