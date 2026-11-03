@@ -393,12 +393,6 @@ https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 http://158.172.155.130:8000/play/a0dp/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports Mpd", Premiere br
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=VrecF4KzDmtvyXOw6P1BBA\:-jiqqGWlftp8d0RGl7qO0w\
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports Mpd", 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -563,17 +557,3 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash-sd/enc/ln7isfb6fz/out/v1
 
 
 
-#EXTINF:-1 tvg-name="Sky Sports" group-title="Sky",Sky Sports
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
-https://aca-live4-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-HD/default.mpd
-
-#EXTINF:-1 tvg-name="Sky Live Event 2" group-title="Sky",Sky Live Event 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d220987b13a594b144d1bbb6bedd568:b1778e4c2200a3a885957500b13f5335
-https://aca-live4-ott.izzigo.tv/8/out/u/dash/SKY-LIVE-EVENT-2-HD-H265/default.mpd
-
-#EXTINF:-1 tvg-name="Sky Live Event 3" group-title="Sky",Sky Live Event 3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
-https://aca-live4-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-4-HD/default.mpd
