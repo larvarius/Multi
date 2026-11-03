@@ -111,7 +111,7 @@ http://tvdirect.pro:8080/live/hugo13/69542358h/3472.m3u8
 # GRUPO: ⚽ DSPORSTS ⚽
 # ==========================================
 
-#EXTINF:-1 tvg-id="DSports.us" tvg-logo="https://i.ibb.co/WWDdrBV5/DSPORTS.png" group-title="DSports",DSPORTS AR
+#EXTINF:-1 tvg-id="DSports.us" tvg-logo="https://i.ibb.co/WWDdrBV5/DSPORTS.png" group-title="DSports",DSports AR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -125,19 +125,19 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RbvVgvIg9Dj4lkUNgwaj8g","k":"WCxrp/ZLvA8tkcawwmV2DA"}],"type":"temporary"}
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DSports", DSports COL
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DSports",DSports COL
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
 
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DSports", DSports COL 
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DSports",DSports COL 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c432184d1ab00475aded5731162d99b7:5f361ae2b35dcb415fe612ea7e85ed9d
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qubxnja5rl/out/v1/4ef0db80aa3341e2babb58314541f1e0/cenc.mpd
 
-#EXTINF:-1 group-title="DSports",DSPORTS SD AR
+#EXTINF:-1 group-title="DSports",DSports SD AR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -145,7 +145,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qubxnja5rl/
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 
 
-#EXTINF:-1 tvg-id="DSports2.us" tvg-logo="https://i.ibb.co/7JcX24vF/DSPORTS2.png" group-title="DSports",DSPORTS 2 AR
+#EXTINF:-1 tvg-id="DSports2.us" tvg-logo="https://i.ibb.co/7JcX24vF/DSPORTS2.png" group-title="DSports",DSports 2 AR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -159,7 +159,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"A/Etaj2/06b6fdf2QX4MEQ","k":"6ge4es3y5FvoJM3koc81BA"}],"type":"temporary"}
 http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
 
-#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DSports", Dsports 2 COL
+#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DSports",Dsports 2 COL
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=010b4fa338184f52a712121ad62ae9b4:e310bad2a570b60f7799e2aa0fb33a71
@@ -174,14 +174,14 @@ https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
 
-#EXTINF:-1 group-title="DSports",DSPORTS 2 SD AR
+#EXTINF:-1 group-title="DSports",DSports 2 SD AR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
 
-#EXTINF:-1 tvg-name="DSportsPlus.us" tvg-logo="https://i.ibb.co/0y0YCFyk/DSPORTS-PLUS.png" group-title="DSports",DSPORTS + FHD AR
+#EXTINF:-1 tvg-name="DSportsPlus.us" tvg-logo="https://i.ibb.co/0y0YCFyk/DSPORTS-PLUS.png" group-title="DSports",DSports + AR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -195,13 +195,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"g/gcTMFEOZFUPeTiLup1hg","k":"3f18plPW81VD2O2zxojiDw"}],"type":"temporary"}
 http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
 
-#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DSports", Dsports + COL
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DSports",Dsports + COL
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
 https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
-#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DSports", DSports + COL
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DSports",DSports + COL
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
@@ -216,7 +216,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2t
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
 
-#EXTINF:-1 group-title="DSports",DSPORTS + SD AR
+#EXTINF:-1 group-title="DSports",DSports + SD AR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -355,7 +355,7 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png" group-title="Sports ES",BeIN Sports Español
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-#EXTINF:-1 tvg-id="Energy.es" group-title="Sports ES tvg-logo="",Energy
+#EXTINF:-1 tvg-id="Energy.es" tvg-logo="" group-title="Sports ES",Energy
 https://gotv.vip:443/live/Federico2890/Federico2890/140005.m3u8
 
 #EXTINF:-1 tvg-chno="574" group-title="Sports ES"  tvg-id="Teledeporte.es" tvg-name="Teledeporte.es"  tvg-logo="https://www.tvchannellists.com/w/File:Teledeporte_2026.svg" ,tdp (España)
@@ -581,7 +581,7 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/awxnrqkbo5/out/v1/71
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.37
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 
-#EXTINF:-1 tvg-id="TennisChannel.es" group-title="Sports USAT" tvg-logo="",Tenis Channel
+#EXTINF:-1 tvg-id="TennisChannel.es" group-title="Sports USA" tvg-logo="",Tenis Channel
 http://cord-cutter.net:8080/live/1AfCNg/597288/20184.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.es" group-title="Sports USA" tvg-logo="",Tenis Channel
 http://tvprem.pro:8080/live/Yefri2023/Yefri2023/345695.m3u8
@@ -1178,7 +1178,7 @@ https://xite-rakuten.amagi.tv/playlist.m3u8
 https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20260421T141846SQUARE.png" group-title="Music",XITE HITS UK
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎵MUSICALES🎵",XITE CELEBRATES
+#EXTINF:-1 tvg-logo="" group-title="Music",XITE CELEBRATES
 https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240716T002652SQUARE.png" group-title="Music",XITE JUST CHILL
 https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8
