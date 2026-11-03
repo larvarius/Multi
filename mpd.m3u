@@ -1,44 +1,26 @@
 #EXTM3U 
 
 
-#EXTINF:-1 , TYC Sports
-https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd|referer=https://player.sensa.com.ar/&webtoken=1.0
-53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2 
-#EXTINF:-1 , ESPN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
-Chrome/151.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd 
-6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
-#EXTINF:-1 , ESPN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
-Chrome/151.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd 
-6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158 
-#EXTINF:-1 , ESPN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
-Chrome/151.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd 
-8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8 
-#EXTINF:-1 , ESPN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
-Chrome/151.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd 
-034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a 
-#EXTINF:-1 , Fox Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
-Chrome/151.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd 
-1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667 
-#EXTINF:-1 , Fox Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
-Chrome/151.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd 
-6ec1c5620f5c1553d3238988714e71b2:b8917b12e851dfc7bb8a3b832348b3be 
-#EXTINF:-1 , Fox Sports 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
-Chrome/151.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd|referer=https://player.sensa.com.ar/&webtoken=1.0 
-c7f87e51c56a87a59cab7ec98fd062db:c3f0d7d067e385900a0e6d4c8e406a68 
+#EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-lam.png?raw=true" group-title="DEPORTES", ESPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn1.json
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc3eds%2FESPN2HD%2FSA_Live_dash_enc%2FESPN2HD.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)&x-flow-origin="Android"
+
+#EXTINF:-1 tvg-id="Espn2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-2-lam.png?raw=true" group-title="DEPORTES", ESPN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn2.json
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc6eds%2FESPN2_Arg%2FSA_Live_dash_enc%2FESPN2_Arg.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)&x-flow-origin="Android"
+
+#EXTINF:-1 tvg-id="Espn3.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-3-lam.png?raw=true" group-title="DEPORTES", ESPN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn3.json
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc3eds%2FESPN3%2FSA_Live_dash_enc%2FESPN3.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)&x-flow-origin="Android"
+
+#EXTINF:-1 tvg-id="Espn4.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-4-lam.png?raw=true" group-title="DEPORTES", ESPN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espnextra.json
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc3eds%2FESPNHD%2FSA_Live_dash_enc%2FESPNHD.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)&x-flow-origin="Android"
+
 
 # ==========================================
 # GRUPO: ⚽DSPORSTS AR ⚽
