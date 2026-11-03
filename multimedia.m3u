@@ -103,6 +103,47 @@ http://tvdirect.pro:8080/live/hugo13/69542358h/3472.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 1
+https://emitiendoenvivo.com/lpf/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 2
+https://emitiendoenvivo.com/lpf/2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 3
+https://emitiendoenvivo.com/lpf/3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 4
+https://emitiendoenvivo.com/lpf/4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 5
+https://emitiendoenvivo.com/lpf/5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 6
+https://emitiendoenvivo.com/lpf/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 7
+https://emitiendoenvivo.com/lpf/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 8
+https://emitiendoenvivo.com/lpf/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 9
+https://emitiendoenvivo.com/lpf/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 10
+https://emitiendoenvivo.com/lpf/1.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 11
+https://emitiendoenvivo.com/lpf/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 12
+https://emitiendoenvivo.com/lpf/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 13
+https://emitiendoenvivo.com/lpf/1.m3u8
+
+
 
 #EXTINF:-1 tvg-id="MovistarVamos.es" group-title="SPORTS INT" tvg-logo="",Vamos
 https://gotv.vip:443/live/Federico2890/Federico2890/139966.m3u8
