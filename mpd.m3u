@@ -110,6 +110,10 @@ https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/iy79zu8tb9/out/v1/e86df8b45c0f452daf49ca6e3d27103e/cenc-sd.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GE_TV.svg/960px-Logo_GE_TV.svg.png" group-title="Sports BRA",GE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+
 #EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV" tvg-logo="https://i.ibb.co/NKs6v0v/sportv.png" group-title="Sports BRA",SPORTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
