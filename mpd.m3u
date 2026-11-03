@@ -293,9 +293,28 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKtY0vKajoqmtyxlUZhBWgYuIYZe2az-UsrycGliHE5A&s=10" group-title="Sports Latino",FOXSPORTS MX
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5vhc8ySvcR2T1aCuAOy9HzJfJcIJlqFa9VwOVcJPXiA&s=10" group-title="Sports Latino",FOXSPORTS 2 MX
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Sports Latino",FOXSPORTS 3 MX
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Sports Latino",Fox Sports Premium
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Sports Latino",Fox Sports Premium MX
 https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
 
@@ -396,63 +415,6 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg" group-title="Bein Sports",BeIN Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/250px-Logo_bein_sports_1.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Bein Sports",BeIN Sports TR 1
-#EXTGRP:LIVE | LIGA INGGRIS
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/250px-Logo_bein_sports_2.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Bein Sports",BeIN Sports TR 2
-#EXTGRP:LIVE | LIGA INGGRIS
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/250px-Logo_bein_sports_3.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Bein Sports",BeIN Sports TR 3
-#EXTGRP:LIVE | LIGA INGGRIS
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1280px-Logo_bein_sports_4.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Bein Sports",BeIN Sports TR 4
-#EXTGRP:LIVE | LIGA INGGRIS
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdDBlvL4BLh3OBvzpY0r3m_GJdMsX0MLw4HteyXn3orw&s=10" group-title="Bein Sports",BeIN Sports TR 5
-#EXTGRP:LIVE | LIGA INGGRIS
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports5/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/250px-Logo_bein_sports_1.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Bein Sports",BEIN SPORTS 1 (BRN)
-#EXTGRP:LIVE | LIGA INGGRIS
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242268&extension=ts&play_token=x3fNaqm4Ri
-
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/250px-Logo_bein_sports_2.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Bein Sports",BEIN SPORTS 2 (BRN)
-#EXTGRP:LIVE | LIGA INGGRIS
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242267&extension=ts&play_token=Zm6f5ZFVvM
-
-
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/250px-Logo_bein_sports_3.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Bein Sports",BEIN SPORTS 3 (BRN)
-#EXTGRP:LIVE | LIGA INGGRIS
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985129&extension=ts&play_token=TPQ8WmP7DF
-
-#EXTINF:-1 ttvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1280px-Logo_bein_sports_4.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Bein Sports",BEIN SPORTS 4 (BRN)
-#EXTGRP:LIVE | LIGA INGGRIS
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985130&extension=ts&play_token=oFFcF0hSHZ
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdDBlvL4BLh3OBvzpY0r3m_GJdMsX0MLw4HteyXn3orw&s=10" group-title="Bein Sports",BEIN SPORTS 5 (BRN)
-#EXTGRP:LIVE | LIGA INGGRIS
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985131&extension=ts&play_token=VHa3jbdD8x
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuEZPagRhhkh7XAed7lspQx7BEgM8CmMQdm-3hllESRD5stcUHxWIL3ft1&s=10" group-title="Bein Sports",BEIN SPORTS 6 (BRN)
-#EXTGRP:LIVE | LIGA INGGRIS
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985132&extension=ts&play_token=gADjKCMGWq
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVm_pVb_tTG_k_p56qJJjvzmgabWH9w_u_OJTPbGMWMA&s=10" group-title="Bein Sports",BEIN SPORTS 7 (BRN)
-#EXTGRP:LIVE | LIGA INGGRIS
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985133&extension=ts&play_token=vn0lYlSzrp
 
 
 # ==========================================
@@ -595,7 +557,7 @@ https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/rbem8rorcw/out/v1/5318821
 #KODIPROP:inputstream.adaptive.license_key=421b7a258a557c073110d2bd0aa335ba:4d7481264fdffb9b7cc05bf490e62ad2
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/8kmy1rjdu3/out/v1/53c15187903449e6971e0817d79d7cca/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",CBS Chicago
+#EXTINF:-1 tvg-logo="" group-title="Sports USA",CBS Chicago
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -693,26 +655,7 @@ https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290
 #KODIPROP:inputstream=inputstream.adaptive
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/77693/77693_264_live.m3u8
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
-#EXTINF:-1 group-title="Sports EU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRmqVD4UqSWgGrP9JpNcTDZSBedADZ6FdJLg&s",DAZN FAST+
-https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
-
-#EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="Sports EU",DAZN RISE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=75508caa27239cd34ca45ee862f1bbf2:d38f9f2b690bad3fcc838013242cc5e4
-https://ac-003.live.p7s1video.net/4a37da02/t_003/dazn-rise-hd/cenc-default.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="Sports EU",ELEVEN SPORTS
-https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 1 HD.sk" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="Sports EU", Arena Sport 1 🇸🇰
+#EXTINF:-1 tvg-id="Arena Sport 1 HD.sk" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="Sports EU", Kanal 1 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
