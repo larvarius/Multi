@@ -603,13 +603,6 @@ https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/1wlv9dr4vx/out/v1/632322b
 #KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
 https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",Premier League TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://cors-anywhere.froala.com/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
 #EXTINF:-1 tvg-logo="" group-title="Sports VA",Nova Sports 1 SK
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -695,83 +688,6 @@ https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/46_HTTP/__op/
 #KODIPROP:inputstream.adaptive.license_key=5f3213807cfb5887b12faf17892530ba:a0289eb8fb1508a81f1cf84acff2e44e,229c33cfd61455a8bb8a4aedf77d72b4:5ddfb6e78ea93db5ffb855599667f2ad,57329e961d4a50ac88f4f2fb15ef5323:bea93ea08795787dfe1b842848775c97
 https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/64_HTTP/__op/dash-default/__f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",ELEVEN SPORTS 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4853dbe4c4cf51f3ba95424c6e6f69c7:39c0346198bc9b1614eb319115afdb84,751db0bb03145084973c6cf9c85fa16e:6571153c39eed18c29cdc63eb83c553a,fd9b5f8ae64a51edacd4f245ef515287:c867d24646b170b5c0e0556b56b291d7
-https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports1/default/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",ELEVEN SPORTS 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a118a928ea39552f976c8fad437f71ad:f58fb7a53ee86de9d0b9823446ba9756,78f826af752f54ddbc4ad9959ff2a42d:c1479ffada263000730d627a989e96ab,95c2aefadb7e522c9deeed393207f853:16e857224e16ab01a3c549212cdbdbb8
-https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports2/default/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",ELEVEN SPORTS 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d895d50a5a0f55758d31f247e6743815:9f4882e56631edb0da1c7bf1e0fa4904,e3a9d5c27a6d5eac955daf5a1a640c69:4c2e674f97ff33c5de13032b92e78bc9,e3dd9d531eee578fbd08c87de8ab84d5:133e5a170236f4ba5930f5ba4213ee03
-https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports3/default/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",ELEVEN SPORTS 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=37b0bbf897ad5bd5a3ec19b5a91f54f9:3e84e6b93e19197d5aea59ef8ad9d270,54a7d8f8dbee564981beb470f22b529b:a0e341fec141f8733c0805f5480762ba,14e62b5f16385a139e2a1c747b8b1cc4:0cece074b5f3fabc76fc9ed109b3819d
-https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports4/default/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",POLSAT SPORT FIGHT
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=32b3354096315c15b4a3cba28e3b54a1:db99f221d3bb5f0b4af19c641e47c8d8,ebe8a6a869fa551890a4cd14f4bbeaf0:14b9cf0aab42d1ac53631c45421f043f,a54032aac3995caf84b4701d349b4cfd:c4869694ff70677188fadc76ff374d98
-https://lineartv-cdn.t-mobile.pl/bpk-tv/polsatsportfight/default/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",POLSAT GAMES
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a16c0a6a9ec351bc8e723790cda52cbf:036fe3632e72a686259a60faba70a13a,132f9c6a916a59eb96188f6d9c60b77d:cd9b9c5af8d3a514eec60fd97053ffc3,b45508b33d0b559894c62eb4ca512628:2f82f9a2e12339260c0194d252095301
-https://lineartv-cdn.t-mobile.pl/bpk-tv/polsatgames/default/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",CANAL+ SPORT 5
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f188c181db4853daba8be7141bfa3eea:5252255b9620418eaa6a661f2c90bb92,2a6938ad390852c6b7cdba49e8345872:191e608cd18b49076809a37ff5ecd142,f6af408c09b95249bb312f4705acaca2:f54b85aa5bc8ea64f01503d567b08034
-https://lineartv-cdn.t-mobile.pl/bpk-tv/nsportplus/default/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",POLSAT SPORT 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=643d9c2974a35d61912d35bb214a3a75:5eefb9350af7726c2f594e20d98d06f7,b85c3ede1e37564aab707d2cb6d3f18c:2f4f6594c787f4598b9e9ec12260c67b,6bd7e8896db35f79b6cd15c658d87489:b941e07ba1895a795bde83c6bcdf575b
-https://lineartv-cdn.t-mobile.pl/bpk-tv/polsatsport/default/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",POLSAT SPORT 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=311b601dac0d5545b0ce05216db151f1:a4b2722e5eb1ad1026164946e19e2d22,160eda74a84c55a8b16d926fc2fcaeb0:743ec9d72ce52ea45b50935b7bba08c6,6b20d89d955750c8b9ef1d1280dadf09:3be0b6a5a94f9c21676bb30d411b11f8
-https://lineartv-cdn.t-mobile.pl/bpk-tv/polsatsportextra/default/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",POLSAT SPORT 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1734700a37445a89ab893dbb4a20dbf6:b459d1b3d5f66cb8af7994b6d20be158,917b302db9895ea4be14d4f6fa05033f:5097c1c297e0ff225c85918216b5f90d,4c7f7f2f21e055308af76fe43c314010:a75ab3827153b31861a4aaccbb32c578
-https://lineartv-cdn.t-mobile.pl/bpk-tv/polsatsportnews/default/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",Match!
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
-https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
-
 #EXTINF:-1 tvg-logo="" group-title="Sports VA",Match! Futbol 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -779,26 +695,6 @@ https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
 https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",Match! Futbol 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7cf9b28d1a8d874accebc44d7e1fcd:cda18d4d20abd5cc778315abe277feb9
-https://video.beeline.tv/live/d/channel320.isml/manifest-stb.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",Match! Futbol 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6cfb55b12aaa9df1626a8adaa4f26329:84486e2e8e5fdee2ef8240019923078c
-https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",Match! Arena
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9839b170b4fc384f243bffd8929b71a2:34cdd6f3e1bf6a9f9d54e9165abf8c09
-https://video.beeline.tv/live/d/channel512.isml/manifest-stb.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Sports VA",Match! Premier
 #KODIPROP:inputstream=inputstream.adaptive
@@ -807,12 +703,6 @@ https://video.beeline.tv/live/d/channel512.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_key=2bb7b314771ed5eeddd8f44a9aa42740:01f2a8f11bd891655a752c1749f478ec
 https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",Match! Fight
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=660a37a91aa00b7e2e0bc7dca349b982:3593a4a2bfbd7d9585efff083b769cf5
-https://video.beeline.tv/live/d/channel377.isml/manifest-stb.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Sports VA", HBO BOXING
 #KODIPROP:inputstream=inputstream.adaptive
@@ -835,20 +725,6 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/
 #KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",Sportsnet East
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b880980108c83068bb8f941995667135:d8a4d58fc53eca1af235fe2b73372115
-https://live-d-01-rogers-cc-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",Sportsnet One
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f935ebc1b9e3481a84ab5e1a80a131a:14395d078816fa2d1e3411fa2e1a43f6
-https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-05-prd-r-v2/dash-ch-05-prd-r-hd/index.mpd
-
 #EXTINF:-1 tvg-logo="" group-title="Sports VA",NBC GOLF
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -870,26 +746,6 @@ https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",beIN SPORTS ES
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/6poqa1gqqp/out/v1/2469724fa7754a4da6861d8ba80de958/ff986861-b242-46d2-a663-5a93e33b4035-cenc.mpd?aws_sessionId=173b6ba7-4cb8-43b9-82c2-033a10e848e7
-
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",SETANTA SPORTS 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=229c33cfd61455a8bb8a4aedf77d72b4:5ddfb6e78ea93db5ffb855599667f2ad,57329e961d4a50ac88f4f2fb15ef5323:bea93ea08795787dfe1b842848775c97,5f3213807cfb5887b12faf17892530ba:a0289eb8fb1508a81f1cf84acff2e44e
-https://rigasa8-headend3-4020-p1.helio.lv/session/a30ed3d4-cafb-11f1-ab2a-f403434d0eec$h1.0$default/mqyd7j/__cl/cg:EDW-Production_HTTP/__c/64_HTTP/__op/dash-default/__f/manifest.mpd?token=cec120e08d257e063eb764d4af902296_1792418154_1792418154
-
-#EXTINF:-1 tvg-logo="" group-title="Sports VA",beIN SPORTS XTRA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
-https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Sports VA",SPORT 1
 #KODIPROP:inputstream=inputstream.adaptive
