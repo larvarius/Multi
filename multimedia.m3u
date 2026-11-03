@@ -556,9 +556,12 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash-sd/enc/ln7isfb6fz/out/v1
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports Mpd", Sky Sports
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://embedcanais.com/
+#EXTVLCOPT:http-origin=https://embedcanais.com
 https://aca-live4-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-HD/default.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports Mpd", 
