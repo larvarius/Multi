@@ -306,6 +306,17 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash-sd/enc/ln7isfb6fz/out/v1
 #KODIPROP:inputstream.adaptive.license_key=cb80e1e7d7598eaf98b1dbbe6dc14ee9:103ae55c7948ca1d159d6743619d26c4
 https://live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
+#EXTINF:-1 tvg-chno="573" group-title="Sports Latino" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysportslaliga.png" ,Sky Sports - La Liga (Mexico)
+http://181.119.177.253:8000/play/a0dz/index.m3u8
+
+#EXTINF:-1 tvg-chno="573" group-title="Sports Latino" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysportslaliga.png" ,Sky Sports - La Liga (Mexico)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb80e1e7d7598eaf98b1dbbe6dc14ee9:103ae55c7948ca1d159d6743619d26c4
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
+#EXTVLCOPT:http-origin=https://www.izzigo.tv/webclient/
+#EXTVLCOPT:http-user-agent=izzigo/11.5.1(18)_prd izzigo ahh (Linux;Android 16) AndroidXMedia3/1.0.2
+https://live3-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
 
 #EXTINF:-1 tvg-id="TUDN" tvg-name="TUDN" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Sports Latino",TUDN
@@ -315,12 +326,34 @@ https://live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
 
+
+
+#EXTINF:-1 tvg-chno="575" group-title="Sports Latino" tvg-logo="https://americatvguide.com/img/mx/logo/tudn.webp" ,TUDN (Mexico)
+http://181.119.177.253:8000/play/a0ds/index.m3u8
+
+#EXTINF:-1 tvg-chno="576" group-title="Sports Latino" tvg-logo="https://i.ibb.co/zVYvXY2H/Picsart-26-06-11-15-18-55-176.png" ,TUDN | ViX 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=0c5e6c0820a1ea28753721db00272411&keyid=763ce1ebcaf23502c8cf357c6ef423e1
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com/
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/26hxutyti4/out/v1/c7064d5b251a4564b53e0854426b9c8f/cenc.mpd
+
+#EXTINF:-1 tvg-chno="577" group-title="Sports Latino" tvg-logo="https://i.ibb.co/zVYvXY2H/Picsart-26-06-11-15-18-55-176.png" ,TUDN | ViX 2
+https://linear-357.frequency.stream/mt/monitoring/357/hls/master/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qkfX5Wc/FOX-Deportes.png" group-title="Sports Latino",FOX DEPORTES
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"0aFjkU24/60sPpT5eYlqDQ","k":"lyiACjlZqv3VsLz783aIEQ"}],"type":"temporary"}
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-chno="574" group-title="Sports Latino"  tvg-id="Teledeporte.es" tvg-name="Teledeporte.es"  tvg-logo="https://www.tvchannellists.com/w/File:Teledeporte_2026.svg" ,tdp (España)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
