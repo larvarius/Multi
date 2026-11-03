@@ -28,18 +28,18 @@ http://xdplus.site:2082/live/GerardoSilvap/MTUUR/588132.m3u8
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Sports Ar",ESPN
 http://iptvpremium.ink:55577/live/juscsl54/748596js/167215.m3u8
 
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", DSports AR 
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Sports Ar", DSports AR 
 http://181.209.80.115:8000/play/dsports_hd
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", DSports AR 
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Sports Ar", DSports AR 
 http://190.117.20.37:8000/play/a08d/index.m3u
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", DSports AR 
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Sports Ar", DSports AR 
 http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", DSports PE 
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Sports Ar", DSports PE 
 http://tvdirect.pro:8080/live/hugo13/69542358h/3468.m3u8
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", DSports EC 
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Sports Ar", DSports EC 
 https://gotv.vip:443/live/Federico2890/Federico2890/540804.m3u8
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", DSports PE 
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Sports Ar", DSports PE 
 https://gotv.vip:443/live/Federico2890/Federico2890/529975.m3u8
 
 
@@ -95,13 +95,13 @@ http://tvdirect.pro:8080/live/hugo13/69542358h/117008.m3u8
 
 
 
-#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", Dsports 2
+#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="Sports Ar", Dsports 2
 http://tvdirect.pro:8080/live/hugo13/69542358h/132104.m3u8
 
-#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", Dsports + 
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="Sports Ar", Dsports + 
 
 
-#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Sports Ar", Dsports + 
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="Sports Ar", Dsports + 
 http://tvdirect.pro:8080/live/hugo13/69542358h/3472.m3u8
 
 
@@ -265,60 +265,60 @@ http://158.172.155.130:8000/play/a0dp/index.m3u8
 # ==========================================
 # GRUPO: ⚽ LPF Event ⚽
 # ==========================================
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 1
+https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 1
 https://emitiendoenvivo.com/lpf/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 2
 https://emitiendoenvivo.com/lpf/2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 3
 https://emitiendoenvivo.com/lpf/3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 4
 https://emitiendoenvivo.com/lpf/4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 5
 https://emitiendoenvivo.com/lpf/5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 6
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 6
 https://emitiendoenvivo.com/lpf/6.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 7
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 7
 https://emitiendoenvivo.com/lpf/7.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 8
 https://emitiendoenvivo.com/lpf/8.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 9
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 9
 https://emitiendoenvivo.com/lpf/9.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 10
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 10
 https://emitiendoenvivo.com/lpf/10.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 11
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 11
 https://emitiendoenvivo.com/lpf/11.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 12
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 12
 https://emitiendoenvivo.com/lpf/12.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 13
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 13
 https://emitiendoenvivo.com/lpf/13.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 14
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 14
 https://emitiendoenvivo.com/lpf/14.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 15
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 15
 https://emitiendoenvivo.com/lpf/15.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 16
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 16
 https://emitiendoenvivo.com/lpf/16.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 17
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 17
 https://emitiendoenvivo.com/lpf/17.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LPF Event",LPF 18
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 18
 https://emitiendoenvivo.com/lpf/18.m3u8
 
 # ==========================================
