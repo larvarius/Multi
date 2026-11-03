@@ -1,25 +1,111 @@
 #EXTM3U 
 
-
-#EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-lam.png?raw=true" group-title="DEPORTES", ESPN
+#EXTINF:-1 tvg-chno="520" group-title="Deportes"  tvg-id="GolfChannel.ar" tvg-name="GolfChannel.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GOLFC.png?raw=true" ,Golf Channel Latinoamerica
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn1.json
-http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc3eds%2FESPN2HD%2FSA_Live_dash_enc%2FESPN2HD.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)&x-flow-origin="Android"
+#KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd
 
-#EXTINF:-1 tvg-id="Espn2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-2-lam.png?raw=true" group-title="DEPORTES", ESPN 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn2.json
-http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc6eds%2FESPN2_Arg%2FSA_Live_dash_enc%2FESPN2_Arg.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)&x-flow-origin="Android"
 
-#EXTINF:-1 tvg-id="Espn3.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-3-lam.png?raw=true" group-title="DEPORTES", ESPN 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn3.json
-http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc3eds%2FESPN3%2FSA_Live_dash_enc%2FESPN3.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)&x-flow-origin="Android"
 
-#EXTINF:-1 tvg-id="Espn4.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-4-lam.png?raw=true" group-title="DEPORTES", ESPN 4
+#EXTINF:-1 tvg-chno="521" group-title="Deportes"  tvg-id="ElGarage.ar" tvg-name="ElGarage.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/VMtd4DTffIxtznKvY0LNyg?tags=CH_LOGO" ,El Garage TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espnextra.json
-http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc3eds%2FESPNHD%2FSA_Live_dash_enc%2FESPNHD.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)&x-flow-origin="Android"
+#KODIPROP:inputstream.adaptive.license_key=ad1be5752980085910010adb9d72532d:8acfaacb600b382bfe18962964355ce6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd
+
+
+
+#EXTINF:-1 tvg-chno="521" group-title="Deportes"  tvg-id="PXSports.ar" tvg-name="PXSports.ar"  tvg-logo="https://www.pxsports.com/images/brand/logo.svg" ,PX Sports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e070a7426b8cb1cab5f63996b7bd7669:1c140e0715b26c7232942ab87d232964
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd
+
+
+
+#EXTINF:-1 tvg-chno="530" group-title="Deportes Premium"  tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
+
+
+
+#EXTINF:-1 tvg-chno="530" group-title="Deportes Premium"  tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd
+
+
+
+#EXTINF:-1 tvg-chno="530" group-title="Deportes Premium"  tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium 3
+http://45.188.229.33:8000/play/a1di/index.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="530" group-title="Deportes Premium"  tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium 4
+http://181.209.80.115:8000/play/espn_premium_hd
+
+
+
+#EXTINF:-1 tvg-chno="531" group-title="Deportes Premium"  tvg-id="TNTSportsPremium.ar" tvg-name="TNTSportsPremium.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" ,TNT Sports Premium 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
+
+
+
+#EXTINF:-1 tvg-chno="531" group-title="Deportes Premium"  tvg-id="TNTSportsPremium.ar" tvg-name="TNTSportsPremium.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" ,TNT Sports Premium 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08fe89bb41ac5f4825bbaa358b3458c7:c1ea85d94fb80f64d53747529e488a75
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd
+
+
+
+#EXTINF:-1 tvg-chno="531" group-title="Deportes Premium"  tvg-id="TNTSportsPremium.ar" tvg-name="TNTSportsPremium.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" ,TNT Sports Premium 3
+http://181.209.80.115:8000/play/tnt_sports_hd
+
+
+
+#EXTINF:-1 tvg-chno="531" group-title="Deportes Premium"  tvg-id="TNTSportsPremium.ar" tvg-name="TNTSportsPremium.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" ,TNT Sports Premium 4
+http://138.59.227.20:8000/play/a06z/index.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="532" group-title="Deportes Premium" tvg-logo="https://www.totalmedios.com/img/noticias/2026/08/6a90d38c2b1d7.jpg" ,TyC Sports Fan
+https://streams2.sofast.tv/ptnr-hispasat/title-TYC-SPORTS-LATMA/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18a85327-6b17-4d41-8c2f-41ff8511c1dd/sofastplayout/2f7c083c-a970-4cd4-a634-0b56fed45495/manifest.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="532" group-title="Deportes Premium" tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/logos_2026/logo-play-azul.svg" ,TyC Sports Internacional
+http://45.188.229.33:8000/play/a18u/index.m3u8
+
+
 
 
 # ==========================================
