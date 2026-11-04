@@ -535,12 +535,15 @@ http://nn.nnyx4k.com:8444/live/ECPC20000413/1335f76da5a8/201511.m3u8
 http://cord-cutter.net:8080/live/1AfCNg/597288/35243.m3u8
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Main Event
 http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/394553.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Main Event 4K
+http://tvprem.pro:8080/live/Yefri2023/Yefri2023/1435598.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Premier Leage
 http://nn.nnyx4k.com:8444/live/ECPC20000413/1335f76da5a8/201503.m3u8
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Premier Leage
 http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/394557.m3u8
-
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Premier Leage
+http://tvprem.pro:8080/live/Yefri2023/Yefri2023/24183.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Football 
 http://nn.nnyx4k.com:8444/live/ECPC20000413/1335f76da5a8/201508.m3u8
@@ -555,11 +558,16 @@ http://nn.nnyx4k.com:8444/live/ECPC20000413/1335f76da5a8/201505.m3u8
 http://cord-cutter.net:8080/live/1AfCNg/597288/53704.m3u8
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports F1
 http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/394543.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports F1 4K
+http://tvprem.pro:8080/live/Yefri2023/Yefri2023/783621.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Tennis
 http://nn.nnyx4k.com:8444/live/ECPC20000413/1335f76da5a8/201517.m3u8
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Tennis
 http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/394549.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Golf
+http://tvprem.pro:8080/live/Yefri2023/Yefri2023/856423.m3u8
 
 # ==========================================
 # GRUPO: ⚽ Sports USA ⚽
@@ -776,6 +784,13 @@ https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 1 Premium.ba" tvg-logo="https://i.ibb.co.com/VpY4kD2s/arena4prm.png" group-title="Sports EU", ARENA SPORT 1
+http://skylikem.com/live/2VZWJC3W/B7D7XK4T/31462.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 1 Premium.ba" tvg-logo="https://i.ibb.co.com/VpY4kD2s/arena4prm.png" group-title="Sports EU", ARENA SPORT 2
+http://skylikem.com/live/2VZWJC3W/B7D7XK4T/949783.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 1 Premium.ba" tvg-logo="https://i.ibb.co.com/VpY4kD2s/arena4prm.png" group-title="Sports EU", ARENA SPORT 3
+http://skylikem.com/live/2VZWJC3W/B7D7XK4T/31464.m3u8
 
 #EXTINF:-1 tvg-id="Arena Sport 4 Premium.ba" tvg-logo="https://i.ibb.co.com/VpY4kD2s/arena4prm.png" group-title="Sports EU", ARENA SPORT 4 PREMIUM 🇭🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
