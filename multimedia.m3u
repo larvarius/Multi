@@ -1077,6 +1077,14 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/dsa3hwuhd1/out/v1/63
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 
+#EXTINF:-1 tvg-id="" group-title="Sports BRA" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/06/TNT-Sports-Logo.png" ,TNT Sports 1 (Brasil)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83a4bc2c011e2c72b35b7b5f2d35560d:01bd0115c83d3493449181ba68998ab1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://absucn2yeiuaaaaya6gwkqye6jcza.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd
+
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
@@ -1318,5 +1326,37 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/bw5g1vx3k9/out/v
 https://otte.cache.aiv-cdn.net/iad-nitro/live/
 
 
+
+# ==========================================
+# GRUPO: ⚽ Movies Mpv ⚽
+# =========================================
+
+#EXTINF:-1 group-title="Movies Mpv" tvg-id="Cinemax HDTV (West).us" tvg-name="Cinemax HDTV (West).us"  tvg-logo="https://www.directv.com/dtvassets/global/channel-icons/c-d/Channel_Icon_Cinemax_West.svg" ,Cinemax (USA) (West)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
+
+#EXTINF:-1 group-title="Movies Mpv" tvg-id="Cinemax Action HDTV (East).us" tvg-name="Cinemax Action HDTV (East).us"  tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cinemax-action._SL500_FMpng_.png" ,Cinemax Action (USA)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=136a75130b82cdf89cb5f05d739b663f:0ef360ff75bb11b7f0982a86b86d39ae
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/995zvakyej/out/v1/3fa049c0afea4a83bb5f508f1859f160/cenc.mpd
+
+#EXTINF:-1 group-title="Movies Mpv" tvg-id="Cinemax Classics HDTV (East).us" tvg-name="Cinemax Classics HDTV (East).us"  tvg-logo="https://p-img.movetv.com/1280x720/9bf416be0ae1f3b58feae9881e8a9d26.png" ,Cinemax Classics (USA)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd
+
+#EXTINF:-1 group-title="Movies Mpv" tvg-id="Cinemax Hits (East).us" tvg-name="Cinemax Hits (East).us"  tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cinemax-hits._SL500_FMpng_.png" ,Cinemax HITS (USA)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=046c374a3db594dfb32cba86d2e4f72f:04c00a6ed0fc4ce37841210a42eeeb35
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd
 
 
