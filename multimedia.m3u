@@ -1359,4 +1359,28 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/yfo5p7nmtt/out/v
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd
 
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/c4526445da1e72faca3e5b485c490386d3d6857c9a8b440bd871afbac79eac6f._SL170_FMpng_.png" group-title="Movies Mpv",AMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3290efe4c5cf67165e846a0742c22cd9":"ddb94463c46af6037432fc026339c09d"}
+https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/gyczo3tdxu/out/v1/4e9f7dd1b08a404581818c3923af9a93/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/gyczo3tdxu/out/v1/4e9f7dd1b08a404581818c3923af9a93/cenc.mpd
+
+#EXTINF:-1 tvg-id="AMC+.us2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/145fb397b95a82a730cb3887f421145121cb473b7a0845cf8b108551b381126e._SL170_FMpng_.png" group-title="Movies Mpv",AMC+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59a51164c2c915352f04066a06f6e807:eba5cc362d1d63c0fe6460febca0fd11
+https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/0f5clvxn6o/out/v1/d5a953bb19734fa3baa1776266887fcb/cenc.mpd
+https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/0f5clvxn6o/out/v1/d5a953bb19734fa3baa1776266887fcb/cenc.mpd
+
+#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/65bbe4aa47cc4ecd7f99ee011ffec3a7365b47230177c9245903dc5593e52674._SL170_FMpng_.png" group-title="Movies Mpv",IFC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a15171a08a7c09585d6588b49d031252":"33270126ea0cbba11461c2189031f2d3"}
+https://otte.live.fly.ww.aiv-cdn.net/IAD/clients/dash/enc/fuumlkaqoa/out/v1/a8db1b7acf8c48a48dc34a6cd5df45a1/cenc.mpd
+
+#EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/e011deb22c4bb5b3959f8e438e3703857c40d891965ff06cd5108cee888de3fc._SL170_FMpng_.png" group-title="Movies Mpv",Sundance TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"60da54dad6804a8895d80f79bd2ef324":"528d95c9ca726d0602c28f9366a08069"}
+https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/a2x5qulu66/out/v1/b7749a4e6d41479ca533f4d7c01d7675/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/a2x5qulu66/out/v1/b7749a4e6d41479ca533f4d7c01d7675/cenc.mpd
+
 
