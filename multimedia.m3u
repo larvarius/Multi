@@ -528,41 +528,25 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/bcj3iscpd6/out/v1/fc
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Main Event
-http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/137720.m3u8
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Main Event
-http://nn.nnyx4k.com:8444/live/ECPC20000413/1335f76da5a8/201511.m3u8
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Main Event
-http://cord-cutter.net:8080/live/1AfCNg/597288/35243.m3u8
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Main Event
 http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/394553.m3u8
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Main Event 4K
 http://tvprem.pro:8080/live/Yefri2023/Yefri2023/1435598.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Premier Leage
-http://nn.nnyx4k.com:8444/live/ECPC20000413/1335f76da5a8/201503.m3u8
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Premier Leage
 http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/394557.m3u8
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Premier Leage
 http://tvprem.pro:8080/live/Yefri2023/Yefri2023/24183.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Football 
-http://nn.nnyx4k.com:8444/live/ECPC20000413/1335f76da5a8/201508.m3u8
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Football 
 http://xdplus.site:2082/live/GerardoSilvap/MTUUR/183600.m3u8
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Football 
 http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/394555.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports F1
-http://nn.nnyx4k.com:8444/live/ECPC20000413/1335f76da5a8/201505.m3u8
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports F1
-http://cord-cutter.net:8080/live/1AfCNg/597288/53704.m3u8
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports F1
 http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/394543.m3u8
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports F1 4K
 http://tvprem.pro:8080/live/Yefri2023/Yefri2023/783621.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Tennis
-http://nn.nnyx4k.com:8444/live/ECPC20000413/1335f76da5a8/201517.m3u8
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Tennis
 http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/394549.m3u8
 
