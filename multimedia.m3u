@@ -377,6 +377,255 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
 
 
 # ==========================================
+# GRUPO: Sports ES Mpd 
+# ==========================================
+
+
+
+#EXTINF:-1 tvg-chno="" cuid="504" tvg-name="¡HOLA!.TV" tvg-id="¡HOLA!.TV.es" tvg-logo="https://logo.m3uassets.com/holatv.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",¡Hola! TV 🇪🇸
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4cc24668662c2c91a811845dc19d9aba:7a791ca79b4add3df33c930a4b10dad7
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/iph7dpzuc9/out/v1/8f01d97db7ce415eb38c09a75fd55a3e/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="500" tvg-name="TVEi" tvg-id="TVEi.pt" tvg-logo="https://logo.m3uassets.com/tveinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",TVE Internacional Europe 🇪🇸
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
+https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="502" tvg-name="TVEi" tvg-id="Star.TVE.HD.co" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/StarTVE.webp" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Star TVE 🇪🇸
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
+
+
+#EXTINF:-1 tvg-chno="" cuid="503" tvg-name="La 1 🇪🇸" tvg-id="La.1.es" tvg-logo="https://logo.m3uassets.com/la1.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",La 1 🇪🇸⚽️
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=6835a3a03564dbf41f0e0b52&AV_CONTENT_LANGUAGE=sp&AV_CONTENT_GENRE=entertainment&AV_CONTENT_CAT=IAB1-7&AV_CONTENT_RATING=16&AV_CLIENT_SECTION=RTVE_la1&content_channel_name=LA1&content_livestream=1&AV_CONTENT_PROVIDER=RTVE&ads.vidaa_ads_param=1190602996
+https://is.gd/Q32YJ6??wowzasessionid=@iprtlk
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619
+
+
+#EXTINF:-1 tvg-chno="" cuid="504" tvg-name="La 2 🇪🇸" tvg-id="La.2.es" tvg-logo="https://logo.m3uassets.com/la2.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",La 2 🇪🇸
+https://is.gd/lj1NPx?wowzasessionid=@iprtlk
+https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8?wowzasessionid=@iprtlk
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
+
+---
+
+#EXTINF:-1 tvg-chno="" cuid="316" tvg-name="Antena3" tvg-id="Antena.3.Internacional.es" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/spain/antena-3-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Antena 3 Internacional 🇪🇸
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06acea1d12fd3a8351d1cd2331c69627:ddeb96c94f745c68d590dd462e47aac2
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/dxnynpuvl4/out/v1/2c50fa7374c24990b81abf23e21560e2/cenc.mpd
+
+
+#EXTINF:-1 tvg-chno="" cuid="509" tvg-name="Cuatro" tvg-id="Cuatro.es" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/spain/cuatro-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",cuatro 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1b0f4be6d9060a585dd92f49b093585:685a067eef72656be5f000a063caa49f
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fqkgjnprni/out/v1/03443dac525a4c008d1d96fb04f3877a/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="526" tvg-name="Telecinco" tvg-id="Telecinco.es" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/spain/telecinco-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Telecinco 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e127b11ba32506c18e84490871cef9d:1e40d02f5f859ddb027def42b7b1cea8
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bskabgmtyu/out/v1/cbc12a8d68d346078496095c84512bf4/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="laSexta" tvg-id="laSexta.es" tvg-logo="https://logo.m3uassets.com/lasexta.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",La Sexta 🇪🇸
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b18078e2d24a43c2bef2acf0ecf92962:2fe3632c7074c7bbe49611ccc750a571
+https://cache2.zapitv.com/live/eds_c2/la_sexta/dash_live_ez/la_sexta.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="523" tvg-name="Mega" tvg-id="Mega.es" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/spain/mega-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Mega 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0d6ecbc39474c73a855faf57b021d5b:46184ee5a6d38e265f5f439f5cb386ed
+https://cache3.zapitv.com/live/eds_c2/mega/dash_live_ez/mega.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="525" tvg-name="Nova" tvg-id="Neox.es" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/spain/neox-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Neox 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bf41667beb443aba1438863de5c10e3:90c3b72a3567dae15b1a96186a9061c3
+https://cache3.zapitv.com/live/eds_c2/neox/dash_live_ez/neox.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="524" tvg-name="Nova" tvg-id="Nova.es" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/spain/nova-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Nova 🇪🇸
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d14804bdf314c65a03609e7c729978b:263766334096bb7afc0f3c5726e3d4b2
+https://cache4.zapitv.com/live/eds_c2/nova/dash_live_ez/nova.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="519" tvg-name="Divinity" tvg-id="Divinity.es" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/spain/divinity-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Divinity 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6858fe03e48135a47d31c5e10834e18:078e0ed72cba7047af4db36139f6d0cd
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gan0or3neh/out/v1/5c8618a2e2134bd9a33eddcf778c1ae6/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="507" tvg-name="Be.Mad" tvg-id="Be.Mad.es" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/spain/be-mad-tv-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Be.Mad 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=101ae4e5db4f48b1ab2e3e7e51f2b879:fc243b64966d05458f20195bd1f892db
+https://cache4.zapitv.com/live/eds_c2/bemad_hd/dash_live_ez/bemad_hd.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="508" tvg-name="Calle.13" tvg-id="Calle.13.es" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/spain/calle-13-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Calle 13 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29e88896154e4a7092acfcfdb4a0b094:8d306e5637e8bc48c105a3ad3f7e313d
+https://cache3.zapitv.com/live/eds_c2/calle_13/dash_live_ez/calle_13.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="517" tvg-name="Dkiss" tvg-id="Dkiss.es" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/spain/dkiss-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",DKiss 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2e2e464abaf44259abca6f7055fed52:2edcd9e9c03f400ca0058598d3a75a5b
++https://cache07.zapitv.com/live/eds_c2/dkiss_tv/dash_live_ez/dkiss_tv.mpd
+
+
+
+#EXTINF:-1 tvg-chno="" cuid="518" tvg-name="DMAX" tvg-id="DMAX.es" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/spain/dmax-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",DMax 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2e2e464abaf44259abca6f7055fed52:2edcd9e9c03f400ca0058598d3a75a5b
+https://cache4.zapitv.com/live/eds_c2/dmax/dash_live_ez/dmax.mpd
+
+
+#EXTINF:-1 tvg-chno="" cuid="521" tvg-name="fdf" tvg-id="FDF.Telecinco.es" tvg-logo="https://logo.m3uassets.com/fdf.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",FDF 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c751ca45643b438ead85d9fabb3482e1:52097c7e31b2d69034720eab836c5668
+https://cache3.zapitv.com/live/eds_c2/fdf/dash_live_ez/fdf.mpd
+
+
+#EXTINF:-1 tvg-chno="" cuid="520" tvg-name="energy" tvg-id="Energy.es" tvg-logo="https://logo.m3uassets.com/energy.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Energy 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f377ce11b5fdb524906f63de5bb07c0:fa737be444c13c28e7c5fe1da36bdbcd
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ocxmqes2pu/out/v1/4741e2c4db434a0f9a605e2e56a9a982/cenc.mpd
+
+---
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="Atreseries.Internacional" tvg-id="Atreseries.Internacional.es" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Atreseries.webp" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",A3 Series Internacional 🇪🇸
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da2e30203fffb6eee7064f1acaed621d:32a38f6a3568339261d3e2f2d0fede69
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/trd6ii5akx/out/v1/5e0cb7a0ffaf4d938e0a8d75775b51ea/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="A3CINE" tvg-id="A3CINE.es" tvg-logo="https://logo.m3uassets.com/atrescine.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",A3Cine 🇪🇸
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f897106c2cc75a16ad12c5bd2e77781:3fabd4fd1bbde56b4bb3297f81e65b7a
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/k9bcyfgrhw/out/v1/288f6cad09824d4898612b35d4f2aa64/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="contra+" tvg-id="Acontra+.es" tvg-logo="https://acontraplus.com/assets/customer/logo-footer.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Acontra+ Cine 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2040a09e994af852d1bd161370e86a29:e4aa94106a82cbcf3cb1ca54fd59e771
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/enyah1390w/out/v1/e7eb52993e674cac9f63faababf3df22/cenc.mpd
+
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="Dark" tvg-id="Dark.es" tvg-logo="https://logo.m3uassets.com/dark.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Dark 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=19273919b7442ea2b18da9b9763c1760:abcf1b55f552a2a0b5ee3256e4bcf4b1
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lu0iixsxer/out/v1/cc71ea57e9a14fdf9ee0b2f2235432ae/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="Hollywood" tvg-id="Hollywood.es" tvg-logo="https://logo.m3uassets.com/canalhollywood.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Hollywood 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3683916b32053ecdfd92896167a538b1:7056231c4bc36658a23c374945d2eefb
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mag6zvyved/out/v1/8600dbca46414a9e834f975b7ccdca26/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="Somos" tvg-id="Somos.es" tvg-logo="https://logo.m3uassets.com/somos.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Somos 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5dbf8f994f1fa5dd5519382c7ddf3f8d:bed54cb448c909d31c79478deaa60616
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k9sfgempsy/out/v1/6e4175ae37c247b4b80cfd793d5a17dd/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="VinTV" tvg-id="VinTV.es" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_de_VinTV.png/250px-Logo_de_VinTV.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Vintv 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f665e85664da761d9f43db8119375cc9:3aca6d4c4302ec9e9240889dff27cafc
+https://bia-cf.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/vj617waw17/out/v1/64aea7701f014f1693af57e3ac7b3689/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="XTRM" tvg-id="XTRM.es" tvg-logo="https://logo.m3uassets.com/xtrm.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Xtrm 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed7a3f665cfbd9d487b8039231abaca5:b0669699de2ed25cfa06e7943e0acc80
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/esiotal5zq/out/v1/c01fdef0494c4ce5a65ac8f52bbe44dc/cenc.mpd
+
+---
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="AMC" tvg-id="AMC.es" tvg-logo="https://logo.m3uassets.com/amc.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",AMC 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47e023e0a02213717eada9bcbe8badf6:11c51a7ca3406597a75f1cb2940e8046
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/atzreh4v7c/out/v1/911226ec26bf4f92a9f787b3e211fc53/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="AMC Western" tvg-id="AMC.Crime.HD.pt" tvg-logo="https://logo.m3uassets.com/amc.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",AMC Western 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b0649935a63ade1849a022c47fdffb60:8e5d967116d0445d5c1689669b8adc31
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kuyjtcy6mh/out/v1/4820fcb4f06d4187954fe03090307447/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="AMC Break" tvg-id="AMC.Break.es" tvg-logo="https://logo.m3uassets.com/amcbreak.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",AMC Break 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb8156173f3256da61faa2d17c8159ca:d9947e4600adf5cb6bcc68d69bc28d00
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cu3miff4hw/out/v1/80a199f5bc974b64b0281896d0a49b69/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="AMC Crime" tvg-id="AMC.Crime.HD.pt" tvg-logo="https://logo.m3uassets.com/amccrime.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",AMC Crime 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3134884a0f457910ebe71cbad6247ada:4790ad9a1bc9912b5feada178d57c0fc
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/unpcb7o0f5/out/v1/a9d133bfdd2f4fc5bbe358888f6e7c3f/cenc.mpd
+
+
+---
+
+#EXTINF:-1 tvg-chno="" cuid="527" tvg-name="Trece" tvg-id="TRECE.es" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/spain/trece-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Trece 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72ca88134c2842b78aa171068b1c61f4:4afbe5207cde65872d005b1daedcc9b4
+https://cache4.zapitv.com/live/eds_c2/TRECETV/dash_live_ez/TRECETV.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="527" tvg-name="Trece" tvg-id="TRECE.es" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/spain/trece-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Trece 🇪🇸 (Web)
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
+https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
+https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="528" tvg-name="ETB 1" tvg-id="ETB1.es" tvg-logo="https://logo.m3uassets.com/etb1.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",ETB 1 🇪🇸
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8?wowzasessionid=@iprtlk
+
+#EXTINF:-1 tvg-chno="" cuid="529" tvg-name="ETB 2" tvg-id="ETB2.es" tvg-logo="https://logo.m3uassets.com/etb2.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",ETB 2 🇪🇸
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8?wowzasessionid=@iprtlk
+
+
+#EXTINF:-1 tvg-chno="" cuid="530" tvg-name="Galicia Europa 🇪🇸" tvg-id="TVG.Europa.es" tvg-logo="https://logo.m3uassets.com/galicia.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Galicia Europa 🇪🇸
+https://crtvg-europa.flumotion.cloud/playlist.m3u8?wowzasessionid=@iprtlk
+
+
+#EXTINF:-1 tvg-chno="" cuid="531" tvg-name="Canal Sur Andalucía 🇪🇸" tvg-id="Canal.Sur.Andalucía.es" tvg-logo="https://logo.m3uassets.com/canalsurandalucia.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Canal Sur Andalucía 🇪🇸
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8?wowzasessionid=@iprtlk
+
+#EXTINF:-1 tvg-chno="" cuid="532" tvg-name="Canal Sur Andalucía 🇪🇸" tvg-id="Canal.Sur.2.es" tvg-logo="https://logo.m3uassets.com/canalsur2.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Canal Sur 2 Andalucía 🇪🇸
+https://cdnlive.codev8.net/rtvalive/channel22.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="532" tvg-name="Canal Sur Andalucía 🇪🇸" tvg-id="Canal.Sur.2.es" tvg-logo="https://logo.m3uassets.com/canalsurandalucia.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Canal Sur Cocina Andalucía 🇪🇸
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+
+
+#EXTINF:-1 tvg-chno="" cuid="533" tvg-name="Aragon tv Internacional ⚽️" tvg-id="Aragón.TV.Int.es" tvg-logo="http://www.aragontelevision.es/logos/apple-touch-icon.png" tvg-logo="https://logo.m3uassets.com/canalsurandalucia.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Aragon tv Internacional ⚽️
++https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="534" tvg-id="Extremadura.TV" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Canal Extremadura 🇪🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="535" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",Toros (Canal Extremadura) 🇪🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://cdn-canalextremadura.watchity.net/fast1/master.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="536" tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",El Toro TV 🇪🇸
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="100" tvg-id="ent-channel" tvg-name="ENT Channel" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",ENT Channel 🇪🇸
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-id="ent-family" tvg-name="ENT Family" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Esp 🇪🇸 Mpd",ENT Family 🇪🇸
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
+
+
+
+
+# ==========================================
 # GRUPO: ⚽ Sports Latino ⚽
 # ==========================================
 
@@ -472,37 +721,37 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 
 
 # ==========================================
-# GRUPO: ⚽ Sports UK ⚽
+# GRUPO: ⚽ Sports UK Mpd ⚽
 # ==========================================
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="Sports UK" tvg-logo="https://i.postimg.cc/Dw8YJJ39/stablesportstv-tnt1.png",TNT SPORTS 1
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="Sports UK Mpd" tvg-logo="https://i.postimg.cc/Dw8YJJ39/stablesportstv-tnt1.png",TNT SPORTS 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-title="Sports UK" tvg-logo="https://i.postimg.cc/26pJfzMN/stablesportstv-tnt2.png",TNT SPORTS 2
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-title="Sports UK Mpd" tvg-logo="https://i.postimg.cc/26pJfzMN/stablesportstv-tnt2.png",TNT SPORTS 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-title="Sports UK" tvg-logo="https://i.postimg.cc/SQc4RPfP/stablesportstv-tnt3.png",TNT SPORTS 3
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-title="Sports UK Mpd" tvg-logo="https://i.postimg.cc/SQc4RPfP/stablesportstv-tnt3.png",TNT SPORTS 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcKkWn9mrApiZjcTXj7jwtGjG6lmXLTT8t0XG3TCkaUlRbvI6aTD89f6hR&s=10" group-title="Sports UK",Premier Sports 1
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcKkWn9mrApiZjcTXj7jwtGjG6lmXLTT8t0XG3TCkaUlRbvI6aTD89f6hR&s=10" group-title="Sports UK Mpd",Premier Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
-#EXTINF:-1 tvg-id="PREMIER_SPORTS_1" tvg-name="Premier Sports 1" tvg-logo="https://i.postimg.cc/m2ChRY5V/Premier-Sports-1-II.png" group-title="Sports UK",Premier Sports 1
+#EXTINF:-1 tvg-id="PREMIER_SPORTS_1" tvg-name="Premier Sports 1" tvg-logo="https://i.postimg.cc/m2ChRY5V/Premier-Sports-1-II.png" group-title="Sports UK Mpd",Premier Sports 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=FET0I1Up8YPwpaSGvv6c2w:5eP-xnobs0cqIInIoKJVfw
@@ -511,7 +760,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
-#EXTINF:-1 tvg-id="PREMIER_SPORTS_2" tvg-name="Premier Sports 2" tvg-logo="https://i.postimg.cc/6QjpzY8J/premier-sports-2.png" group-title="Sports UK",Premier Sports 2
+#EXTINF:-1 tvg-id="PREMIER_SPORTS_2" tvg-name="Premier Sports 2" tvg-logo="https://i.postimg.cc/6QjpzY8J/premier-sports-2.png" group-title="Sports UK Mpd",Premier Sports 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=Gl31NgnryYV4mMSQ9HJJGA:d_YpgNWC7FQSgHlqz4stGQ
@@ -524,8 +773,27 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/bcj3iscpd6/out/v1/fc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI" group-title="Sports UK",Premier Sports 2
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI" group-title="Sports UK Mpd",Premier Sports 2
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="1003" tvg-name="sky sport f1" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skySportF1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="Sports UK Mpd",Sky Sport F1 🇬🇧 🏎️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=MrQin7S7T60B0aVtIWktUQ&e=2074182008&scheme=https
+https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=MrQin7S7T60B0aVtIWktUQ&e=2074182008&scheme=https
+
+#EXTINF:-1 tvg-chno="" cuid="1003" tvg-name="sky sport f1" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skySportF1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="Sports UK Mpd",Sky Sport F1 🇬🇧 🏎️
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=68747
+
+#EXTINF:-1 tvg-chno="" cuid="1962" tvg-id="Fast&amp;FunBox.HD.pl" tvg-name="gp" tvg-logo="https://logo.m3uassets.com/fastfunbox.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="Sports UK Mpd",Fast & FunBox 🇬🇧
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+
+# ==========================================
+# GRUPO: ⚽ Sports UK ⚽
+# ==========================================
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Main Event
 http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/394553.m3u8
@@ -552,6 +820,7 @@ http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/394549.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Golf
 http://tvprem.pro:8080/live/Yefri2023/Yefri2023/856423.m3u8
+
 
 # ==========================================
 # GRUPO: ⚽ Sports USA ⚽
@@ -1331,56 +1600,103 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/
 # GRUPO: ⚽ Movies Mpv ⚽
 # =========================================
 
-#EXTINF:-1 group-title="Movies Mpv" tvg-id="Cinemax HDTV (West).us" tvg-name="Cinemax HDTV (West).us"  tvg-logo="https://www.directv.com/dtvassets/global/channel-icons/c-d/Channel_Icon_Cinemax_West.svg" ,Cinemax (USA) (West)
+#EXTINF:-1 group-title="Movies Mpv" tvg-id="Cinemax HDTV (West).us" tvg-name="Cinemax HDTV (West).us"  tvg-logo="https://www.directv.com/dtvassets/global/channel-icons/c-d/Channel_Icon_Cinemax_West.svg" group-title="Movies Mpd",Cinemax (USA) (West)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
 
-#EXTINF:-1 group-title="Movies Mpv" tvg-id="Cinemax Action HDTV (East).us" tvg-name="Cinemax Action HDTV (East).us"  tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cinemax-action._SL500_FMpng_.png" ,Cinemax Action (USA)
+#EXTINF:-1 group-title="Movies Mpv" tvg-id="Cinemax Action HDTV (East).us" tvg-name="Cinemax Action HDTV (East).us"  tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cinemax-action._SL500_FMpng_.png" group-title="Movies Mpd",Cinemax Action (USA)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=136a75130b82cdf89cb5f05d739b663f:0ef360ff75bb11b7f0982a86b86d39ae
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/995zvakyej/out/v1/3fa049c0afea4a83bb5f508f1859f160/cenc.mpd
 
-#EXTINF:-1 group-title="Movies Mpv" tvg-id="Cinemax Classics HDTV (East).us" tvg-name="Cinemax Classics HDTV (East).us"  tvg-logo="https://p-img.movetv.com/1280x720/9bf416be0ae1f3b58feae9881e8a9d26.png" ,Cinemax Classics (USA)
+#EXTINF:-1 group-title="Movies Mpv" tvg-id="Cinemax Classics HDTV (East).us" tvg-name="Cinemax Classics HDTV (East).us"  tvg-logo="https://p-img.movetv.com/1280x720/9bf416be0ae1f3b58feae9881e8a9d26.png" group-title="Movies Mpd",Cinemax Classics (USA)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd
 
-#EXTINF:-1 group-title="Movies Mpv" tvg-id="Cinemax Hits (East).us" tvg-name="Cinemax Hits (East).us"  tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cinemax-hits._SL500_FMpng_.png" ,Cinemax HITS (USA)
+#EXTINF:-1 group-title="Movies Mpv" tvg-id="Cinemax Hits (East).us" tvg-name="Cinemax Hits (East).us"  tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cinemax-hits._SL500_FMpng_.png" group-title="Movies Mpd",Cinemax HITS (USA)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=046c374a3db594dfb32cba86d2e4f72f:04c00a6ed0fc4ce37841210a42eeeb35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd
 
-#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/c4526445da1e72faca3e5b485c490386d3d6857c9a8b440bd871afbac79eac6f._SL170_FMpng_.png" group-title="Movies Mpv",AMC
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/c4526445da1e72faca3e5b485c490386d3d6857c9a8b440bd871afbac79eac6f._SL170_FMpng_.png" group-title="Movies Mpd",AMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3290efe4c5cf67165e846a0742c22cd9":"ddb94463c46af6037432fc026339c09d"}
 https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/gyczo3tdxu/out/v1/4e9f7dd1b08a404581818c3923af9a93/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/gyczo3tdxu/out/v1/4e9f7dd1b08a404581818c3923af9a93/cenc.mpd
 
-#EXTINF:-1 tvg-id="AMC+.us2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/145fb397b95a82a730cb3887f421145121cb473b7a0845cf8b108551b381126e._SL170_FMpng_.png" group-title="Movies Mpv",AMC+
+#EXTINF:-1 tvg-id="AMC+.us2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/145fb397b95a82a730cb3887f421145121cb473b7a0845cf8b108551b381126e._SL170_FMpng_.png" group-title="Movies Mpd",AMC+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59a51164c2c915352f04066a06f6e807:eba5cc362d1d63c0fe6460febca0fd11
 https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/0f5clvxn6o/out/v1/d5a953bb19734fa3baa1776266887fcb/cenc.mpd
 https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/0f5clvxn6o/out/v1/d5a953bb19734fa3baa1776266887fcb/cenc.mpd
 
-#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/65bbe4aa47cc4ecd7f99ee011ffec3a7365b47230177c9245903dc5593e52674._SL170_FMpng_.png" group-title="Movies Mpv",IFC
+#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/65bbe4aa47cc4ecd7f99ee011ffec3a7365b47230177c9245903dc5593e52674._SL170_FMpng_.png" group-title="Movies Mpd",IFC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a15171a08a7c09585d6588b49d031252":"33270126ea0cbba11461c2189031f2d3"}
 https://otte.live.fly.ww.aiv-cdn.net/IAD/clients/dash/enc/fuumlkaqoa/out/v1/a8db1b7acf8c48a48dc34a6cd5df45a1/cenc.mpd
 
-#EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/e011deb22c4bb5b3959f8e438e3703857c40d891965ff06cd5108cee888de3fc._SL170_FMpng_.png" group-title="Movies Mpv",Sundance TV
+#EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/e011deb22c4bb5b3959f8e438e3703857c40d891965ff06cd5108cee888de3fc._SL170_FMpng_.png" group-title="Movies Mpd",Sundance TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"60da54dad6804a8895d80f79bd2ef324":"528d95c9ca726d0602c28f9366a08069"}
 https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/a2x5qulu66/out/v1/b7749a4e6d41479ca533f4d7c01d7675/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/a2x5qulu66/out/v1/b7749a4e6d41479ca533f4d7c01d7675/cenc.mpd
+
+
+#EXTINF:-1 tvg-chno="" cuid="450" tvg-name="HBO.Signature" tvg-id="HBO.Signature.HD.us2" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/hbosignature.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Movies Mpd",HBO Signature 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2742f4791f17231bdb933844dabfb5bc:3c49eb8a723248f87fb8c3722874557e
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/o6rq3swwr4/out/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="183" tvg-id="Canal.Universal.Premiere.mx" tvg-logo="https://logo.m3uassets.com/universalpremiere.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Movies Mpd",Universal Premiere 🇺🇾 (🔉💬🇪🇸🇬🇧)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=547c1e15b8e93f1077d34f77a7ab018f:ba3f1a0580b46e371a6b02ef2ab2304f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ciqsqqxp8g/out/v1/e9283351f50849a8ab602a894772649f/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-chno="" cuid="184" tvg-id="Canal.Universal.Cinema.mx" tvg-name="Universal Cinema" tvg-logo="https://github.com/masterentertainment/listas/raw/main/logos/UNICI.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Movies Mpd",Universal Cinema 🇺🇾(🔉💬🇪🇸🇬🇧)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be1597d0eb3b71cb21b8e8a55230874d:0295a763fca3851258af5901907bf0b1
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eishhvjuuz/out/v1/92b27f5cd5244bba8071fcd0d09be067/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-chno="" cuid="185" tvg-id="Canal.Universal.Comedy.mx" tvg-name="Universal Comedy" tvg-logo="https://github.com/masterentertainment/listas/raw/main/logos/UNICO.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Movies Mpd",Universal Comedy 🇺🇾(🔉💬🇪🇸🇬🇧)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9fd8daa507b4c58f414f1d007cf0eccf:062672eb7346a690feab6c84a8de9dce
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pfpdcsvoyd/out/v1/1bb43614ccd348fd8b9cc4d4fc5be059/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-chno="" cuid="187" tvg-id="Canal.Universal.Crime.mx" tvg-name="Universal Crime" tvg-logo="https://github.com/masterentertainment/listas/raw/main/logos/UNICR.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Movies Mpd",Universal Crime 🇺🇾(🔉💬🇪🇸🇬🇧)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfc6790cbc2bc791b05c4f8f8126f5b5:b1c5b3c9a8ddc4badf5f49f8a989cf77
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuvkx1kkfl/out/v1/6a977f46a77b4a03a1e55db484c1695a/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-chno="" cuid="188" tvg-id="Canal.Universal.Reality.mx" tvg-name="Universal Reality" tvg-logo="https://github.com/masterentertainment/listas/raw/main/logos/UNIRE.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Movies Mpd",Universal Reality 🇺🇾(🔉💬🇪🇸🇬🇧)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6824642c08bd3cdb6c08404a894287f9:081aab1fb4e8da70e21bb906e704e5d6
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tezhlmgs1w/out/v1/362fef2b778b4531b4e0dd3db6acf805/cenc.mpd
+
+
+#EXTINF:-1 tvg-chno="" cuid="445" tvg-id="HBO.Latino.HD.us2" tvg-logo="https://lo1.in/us/hboltt.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Movies Mpd",HBO Latino 🇺🇸
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=440df5a5f7730c64f005eec9b12a9b52:dcad08b714e246f92cb9748f9e2e7e1e
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pybcooahnm/out/v1/d5a5fd1cd9074da3b20ebdf8ebfaecb6/cenc.mp
 
 
