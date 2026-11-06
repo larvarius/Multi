@@ -1,11 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="1",Paramount+ Fhd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1",Dazn La Liga
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=Vdb7mHIe21uoEDqc8hBx1A:SiFY2TLjFf/hP3LkSq1Ffg
 https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r4/__c/DAZN_LALIGA1/__op/dash-wv/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1",SKY SPORTS 16 HD 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=lbUtFtNEr1Oc6cLJ_5VXGg:XwNdnEoXgiH4nSQ5Qmsumg
+https://nog-live1-ott.izzigo.tv/7/out/u/dash/SKY-SPORTS-16-HD-H265/default.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1",Dazn La Liga
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=Vdb7mHIe21uoEDqc8hBx1A:SiFY2TLjFf/hP3LkSq1Ffg
+
 
 #EXTINF:-1 tvg-id="plex.tv.MotoGP.Channel.plex" tvg-name="" tvg-logo="https://cdn.motorsport.com/images/mgl/YN1RZ4b2/s1000/motogp-logo.jpg" group-title="SPORT",MotoGP Channel
 #KODIPROP:inputstream=inputstream.adaptive
