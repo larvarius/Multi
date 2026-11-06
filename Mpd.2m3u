@@ -14,11 +14,24 @@ https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r4/__c/DAZN_LALIGA1/__op/dash-
 #KODIPROP:inputstream.adaptive.license_key=lbUtFtNEr1Oc6cLJ_5VXGg:XwNdnEoXgiH4nSQ5Qmsumg
 https://nog-live1-ott.izzigo.tv/7/out/u/dash/SKY-SPORTS-16-HD-H265/default.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1",Dazn La Liga
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1",
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=Vdb7mHIe21uoEDqc8hBx1A:SiFY2TLjFf/hP3LkSq1Ffg
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1",
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1",
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
 
 
 #EXTINF:-1 tvg-id="plex.tv.MotoGP.Channel.plex" tvg-name="" tvg-logo="https://cdn.motorsport.com/images/mgl/YN1RZ4b2/s1000/motogp-logo.jpg" group-title="SPORT",MotoGP Channel
