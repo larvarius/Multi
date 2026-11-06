@@ -27,15 +27,6 @@ http://xdplus.site:2082/live/GerardoSilvap/MTUUR/588132.m3u8
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://images.open-epg.com/25689.png" group-title="Sports Ar",ESPN
 http://iptvpremium.ink:55577/live/juscsl54/748596js/167215.m3u8
 
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Sports Ar", DSports AR 
-https://deluxe-tv.vip:443/live/Bzjuliosa1123/2023JSaGreDo/1241682.m3u8
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Sports Ar", DSports AR 
-http://181.209.80.115:8000/play/dsports_hd
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Sports Ar", DSports AR 
-http://190.117.20.37:8000/play/a08d/index.m3u
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Sports Ar", DSports AR 
-http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Sports Ar", DSports PE 
 http://tvdirect.pro:8080/live/hugo13/69542358h/3468.m3u8
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Sports Ar", DSports EC 
@@ -94,12 +85,13 @@ http://tvdirect.pro:8080/live/hugo13/69542358h/3459.m3u8
 #EXTINF:-1 tvg-id="3082dtv.cl" tvg-logo="" group-title="Sports Ar",ESPN 7
 http://tvdirect.pro:8080/live/hugo13/69542358h/117008.m3u8
 
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Sports Ar", DSports AR (Directo)
+https://deluxe-tv.vip:443/live/Bzjuliosa1123/2023JSaGreDo/1241682.m3u8
 
-
-#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="Sports Ar", Dsports 2
+#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="Sports Ar", Dsports 2 (Directo)
 http://tvdirect.pro:8080/live/hugo13/69542358h/132104.m3u8
 
-#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="Sports Ar", Dsports + 
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="Sports Ar", Dsports + (Directo)
 http://tvdirect.pro:8080/live/hugo13/69542358h/3472.m3u8
 
 
