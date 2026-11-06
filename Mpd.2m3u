@@ -7,12 +7,12 @@
 #KODIPROP:inputstream.adaptive.license_key=Vdb7mHIe21uoEDqc8hBx1A:SiFY2TLjFf/hP3LkSq1Ffg
 https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r4/__c/DAZN_LALIGA1/__op/dash-wv/__f/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1",SKY SPORTS 16 HD 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1",La Liga +
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=lbUtFtNEr1Oc6cLJ_5VXGg:XwNdnEoXgiH4nSQ5Qmsumg
-https://nog-live1-ott.izzigo.tv/7/out/u/dash/SKY-SPORTS-16-HD-H265/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=X0PSj+QwzWw/mixmD72O1A:BEzMyY7nrzftC2j/mL95BA
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-p1/__c/LaLigaSportsTV_HD/__op/dash-wv/__f/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1",
 #KODIPROP:inputstreamaddon=inputstream.adaptive
