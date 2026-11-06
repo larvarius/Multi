@@ -55,6 +55,37 @@ https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-p1/__c/FOX_HD/__op/dash-wv/__f
 
 
 
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=HBO+Max+1&font=Oswald" group-title="Premium", HBO Max 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3eb66f2294a0c0785459b19982747995:665d7e670833fdcba6f60f70d07dd0c6
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4utnrqini2/out/v1/b3588cbd51284a0bae4bf28e325925b8/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=HBO+Max+2&font=Oswald" group-title="Premium", HBO Max 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb4d07aae30ceab28c1f6a41f64dd8b2:525c1cc9c936f31057e94937847e2e9e
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/5l2knhbdy7/out/v1/bd935b6a040443d8922f9b0b7a346866/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=HBO+Max+3&font=Oswald" group-title="Premium", HBO Max 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=401c33e436575995619923501172a83d:d0d73c099bff91b7bceedce3b6bc33e0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/xvg3cuxjpm/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=HBO+Max+4&font=Oswald" group-title="Premium", HBO Max 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b712edb3f3294185af8a1b3004c857b:eff1b519ff2433994d53d80376f4ef34
+https://a86aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/z5adngilc5/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd
+
+
+
+
 
 
 
