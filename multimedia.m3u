@@ -322,6 +322,14 @@ https://emitiendoenvivo.com/lpf/18.m3u8
 # GRUPO: ⚽ Sports ES ⚽
 # ==========================================
 
+#EXTINF:-1 tvg-id="DAZNLALIGA.es" tvg-logo="" group-title="Sports ES",Dazn La Liga
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=Vdb7mHIe21uoEDqc8hBx1A:SiFY2TLjFf/hP3LkSq1Ffg
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r4/__c/DAZN_LALIGA1/__op/dash-wv/__f/manifest.mpd
+
+
 #EXTINF:-1 tvg-id="DAZN 1.es" group-title="Sports ES" tvg-logo="",Dazn 1
 http://xdplus.site:2082/live/GerardoSilvap/MTUUR/675049.m3u8
 
@@ -331,7 +339,7 @@ http://xdplus.site:2082/live/GerardoSilvap/MTUUR/675052.m3u8
 #EXTINF:-1 tvg-id="DAZN3.es" group-title="Sports ES" tvg-logo="",Dazn 3
 http://tvprem.pro:8080/live/Yefri2023/Yefri2023/343448.m3u8
 
-#EXTINF:-1 tvg-id="DAZNLALIGA.es" group-title="Sports ES" tvg-logo="",Dazn La Liga
+#EXTINF:-1 tvg-id="DAZNLALIGA.es" group-title="Sports ES" tvg-logo="",Dazn La Liga Op2
 http://tvprem.pro:8080/live/Yefri2023/Yefri2023/1621083.m3u8
 
 #EXTINF:-1 tvg-id="DAZN F1.es" group-title="Sports ES" tvg-logo="",Dazn F1
