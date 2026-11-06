@@ -1656,6 +1656,7 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash-sd/enc/ln7isfb6fz/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="Motor",F1 TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1663,6 +1664,42 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=505616380de706936e493fdd1c25d0b6:5b313f49c63c682236eab3357400e216
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="1007" tvg-name="FORMULA 1 Channel 🇺🇸 🏎️" tvg-id="US600011Q2" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/F1Channel_1920x1080_Jan_2025.png" group-title="Motor",F1 TV Op2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=505616380de706936e493fdd1c25d0b6:5b313f49c63c682236eab3357400e216
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="1003" tvg-name="sky sport f1" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skySportF1.webp" group-title="Motor",Sky Sport F1 🇬🇧 🏎️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=MrQin7S7T60B0aVtIWktUQ&e=2074182008&scheme=https
+https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=MrQin7S7T60B0aVtIWktUQ&e=2074182008&scheme=https
+
+#EXTINF:-1 tvg-chno="" cuid="1003" tvg-name="sky sport f1" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skySportF1.webp" group-title="Motor",Sky Sport F1 Op2
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=68747
+
+#EXTINF:-1 tvg-chno="" cuid="1008" tvg-name="Rally" tvg-id="Rally.TV.de" tvg-logo="https://www.rally.tv/favicon.ico" group-title="Motor",Rally TV 🏎️
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
+https://Daviddemaria@dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
+https://jmp2.uk/stvp-GB51000026A
+
+#EXTINF:-1 tvg-chno="" cuid="1009" tvg-name="Motorvision 🇧🇷" tvg-id="Motorvision.HD.pt" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="Motor",Motorvision 🇧🇷🏎️
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
+https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1010" tvg-name="Racer Brasil 🇧🇷" tvg-id="65a6818c7bdc8d0008457b21" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/RACER_Select_Logo_1920x1080_Apr_2025.png" group-title="Motor",Racer Brasil 🇧🇷🏎️
+https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1962" tvg-id="GP TV" tvg-name="gp" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/GPTV.png" group-title="Motor",GP TV 🇧🇷
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+
+#EXTINF:-1 tvg-chno="" cuid="1010" tvg-name="Acelarados" tvg-id="" tvg-logo="https://i.imgur.com/bEA7KyI.png" group-title="Motor",Acelerados 🇧🇷
+https://cc-zvni27dp2ukyu.akamaized.net/ogc/acel/acel.m3u8
+
 
 
 # ==========================================
