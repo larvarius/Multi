@@ -13,16 +13,33 @@ https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r4/__c/DAZN_LALIGA1/__op/dash-
 #KODIPROP:inputstream.adaptive.license_key=z3Q92bEw+21UJQ1fkLV5ZQ:OeDB+ZOKcRSiY7t15xUEKw
 https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r4/__c/DAZN_LALIGA2/__op/dash-wv/__f/manifest.mpd
 
-#EXTINF:-1 tvg-id="DAZN.LIGA3" tvg-logo="https://i.ibb.co/DAZN.png" group-title="DAZN",DAZN LIGA 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=enJW7+IMochRQp95hRODhQ:DfaPHH1SleLHkpafpwrgbg
-https://requestrouter3.cdn.agiletv.net/__cl/cg:live2/__c/DAZN_LALIGA3/__op/dash-wv/__f/manifest.mpd
 
-#EXTINF:-1 tvg-id="DAZN.LIGA4" tvg-logo="https://i.ibb.co/DAZN.png" group-title="DAZN",DAZN LIGA 4
+#EXTINF:-1 tvg-id="LigaSmartBank1" tvg-logo="https://i.ibb.co/LigaSmartBank.png" group-title="Liga SmartBank",Liga SmartBank 🇪🇸
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=X/KeeR8FEij5W7ENFaR0VQ:W4X1b2Jhyy/nD8FyIQnX5A
-https://requestrouter3.cdn.agiletv.net/__cl/cg:live2/__c/DAZN_LALIGA4/__op/dash-wv/__f/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=qIYX6QRQTuKR9J8OYKUdSQ:F/ktWf3jttK/T/tI6MpyCg
+https://cache2.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+
+#EXTINF:-1 tvg-id="LigaSmartBank2" tvg-logo="https://i.ibb.co/LigaSmartBank.png" group-title="Liga SmartBank",Liga SmartBank 2 🇪🇸
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=X8jai5TER0aP/jkhV/jHXg:MzuTT93kwe6H5/HF2sTLjw
+https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd
+
+#EXTINF:-1 tvg-id="LigaSmartBank3" tvg-logo="https://i.ibb.co/LigaSmartBank.png" group-title="Liga SmartBank",Liga SmartBank 3 🇪🇸
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=UERApeg/QZyBbYx2fH9wOw:Wa/0DjSuifTjr0dY8koNjA
+https://cache2.zapitv.com/live/eds_c2/HYPERMOTION3/dash_live_ez/HYPERMOTION3.mpd
+
+#EXTINF:-1 tvg-id="PrimeraFederacion" tvg-logo="https://i.ibb.co/PrimeraFederacion.png" group-title="Primera Federación",PRIMERA FEDERACIÓN 🇪🇸
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=u41BsY5CqAX8I90rgaKw2A:YC_mC3aft5iC7QPkqegIOw
+https://live.euskaltel.com/__cl/cg:lv-r5/__c/PRIMERA_FEDERACION/__op/dash-wv/__f/manifest.mpd
+
+
