@@ -14,32 +14,89 @@ https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r4/__c/DAZN_LALIGA1/__op/dash-
 https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r4/__c/DAZN_LALIGA2/__op/dash-wv/__f/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="LigaSmartBank1" tvg-logo="https://i.ibb.co/LigaSmartBank.png" group-title="Liga SmartBank",Liga SmartBank 🇪🇸
+
+
+#EXTINF:-1 tvg-id="AMC.es" tvg-logo="https://i.ibb.co/AMC.png" group-title="Cine",AMC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=qIYX6QRQTuKR9J8OYKUdSQ:F/ktWf3jttK/T/tI6MpyCg
-https://cache2.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+#KODIPROP:inputstream.adaptive.license_key=D+t8RwhECNZsa1znFnJ/Mw:ha+ydAy3QtlvDCsyq1Czcg
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r3/__c/AMC_HD/__op/dash-wv/__f/manifest.mpd
 
-#EXTINF:-1 tvg-id="LigaSmartBank2" tvg-logo="https://i.ibb.co/LigaSmartBank.png" group-title="Liga SmartBank",Liga SmartBank 2 🇪🇸
+#EXTINF:-1 tvg-id="AMC.es.-2h" tvg-logo="https://i.ibb.co/AMC.png" group-title="Cine",AMC (-2h)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=X8jai5TER0aP/jkhV/jHXg:MzuTT93kwe6H5/HF2sTLjw
-https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd
+#KODIPROP:inputstream.adaptive.license_key=D+t8RwhECNZsa1znFnJ/Mw:ha+ydAy3QtlvDCsyq1Czcg
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-v3/__c/AMC_HD/__op/delay-dash-wv/__f/manifest.mpd
 
-#EXTINF:-1 tvg-id="LigaSmartBank3" tvg-logo="https://i.ibb.co/LigaSmartBank.png" group-title="Liga SmartBank",Liga SmartBank 3 🇪🇸
+#EXTINF:-1 tvg-id="TCM.es" tvg-logo="https://i.ibb.co/TCM.png" group-title="Cine",TCM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=UERApeg/QZyBbYx2fH9wOw:Wa/0DjSuifTjr0dY8koNjA
-https://cache2.zapitv.com/live/eds_c2/HYPERMOTION3/dash_live_ez/HYPERMOTION3.mpd
+#KODIPROP:inputstream.adaptive.license_key=BLvb1qdPKQZGpQBXcz+5kg:kIVHBRVP1bM7Qwu+GqKnjw
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r2/__c/TCM_HD_A/__op/dash-wv/__f/manifest.mpd
 
-#EXTINF:-1 tvg-id="PrimeraFederacion" tvg-logo="https://i.ibb.co/PrimeraFederacion.png" group-title="Primera Federación",PRIMERA FEDERACIÓN 🇪🇸
+#EXTINF:-1 tvg-id="TCM.es.-2h" tvg-logo="https://i.ibb.co/TCM.png" group-title="Cine",TCM (-2h)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=u41BsY5CqAX8I90rgaKw2A:YC_mC3aft5iC7QPkqegIOw
-https://live.euskaltel.com/__cl/cg:lv-r5/__c/PRIMERA_FEDERACION/__op/dash-wv/__f/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=BLvb1qdPKQZGpQBXcz+5kg:kIVHBRVP1bM7Qwu+GqKnjw
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-v4/__c/TCM_HD_A/__op/delay-dash-wv/__f/manifest.mpd
 
+#EXTINF:-1 tvg-id="WarnerTV.es" tvg-logo="https://i.ibb.co/WarnerTV.png" group-title="Cine",Warner TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=H1zbpgIj7Ssd+0e23fSaYw:Qcz3ctmUsjGcvL4Kfb/lJg
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r3/__c/TNT_HD_B/__op/dash-wv/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="WarnerTV.es.-2h" tvg-logo="https://i.ibb.co/WarnerTV.png" group-title="Cine",Warner TV (-2h)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=H1zbpgIj7Ssd+0e23fSaYw:Qcz3ctmUsjGcvL4Kfb/lJg
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-v3/__c/TNT_HD_B/__op/delay-dash-wv/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="Hollywood.es" tvg-logo="https://i.ibb.co/Hollywood.png" group-title="Cine",Hollywood
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=tF1UIwg8JB47RV3rCf8R5Q:HMDBENgo1jjH5T1gVSBa5g
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r3/__c/HWD_HD/__op/dash-wv/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="Hollywood.es.-2h" tvg-logo="https://i.ibb.co/Hollywood.png" group-title="Cine",Hollywood (-2h)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=tF1UIwg8JB47RV3rCf8R5Q:HMDBENgo1jjH5T1gVSBa5g
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-v3/__c/HWD_HD/__op/delay-dash-wv/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="ParamountNetwork.es" tvg-logo="https://i.ibb.co/Paramount.png" group-title="Cine",Paramount Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4QSJGvZ/KxlFddPMlUsjdQ:3/VVbnHmf1QNHnAHy2Am8g
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r3/__c/PARAMOUNT_HD_B/__op/dash-wv/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="ParamountNetwork.es.-2h" tvg-logo="https://i.ibb.co/Paramount.png" group-title="Cine",Paramount Network (-2h)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4QSJGvZ/KxlFddPMlUsjdQ:3/VVbnHmf1QNHnAHy2Am8g
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-v3/__c/PARAMOUNT_HD_B/__op/delay-dash-wv/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="StarChannel.es" tvg-logo="https://i.ibb.co/StarChannel.png" group-title="Cine",ST☆R Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=E/9qHMVw3FP3zkLnDbGtgg:jZcoGwpZ5mzFb5VM9zhYnA
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-p1/__c/FOX_HD/__op/dash-wv/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="StarChannel.es.-2h" tvg-logo="https://i.ibb.co/StarChannel.png" group-title="Cine",ST☆R Channel (-2h)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=E/9qHMVw3FP3zkLnDbGtgg:jZcoGwpZ5mzFb5VM9zhYnA
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-v2/__c/FOX_HD/__op/delay-dash-wv/__f/manifest.mpd
 
