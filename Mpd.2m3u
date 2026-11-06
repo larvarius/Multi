@@ -22,3 +22,18 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=505616380de706936e493fdd1c25d0b6:5b313f49c63c682236eab3357400e216
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
+
+#EXTINF:-1 group-title="Sports World" tvg-logo="https://i.ibb.co.com/4Jd3RWS/skysportf1.png",Sky Sport F1 🇦🇹
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9
+https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd
+
+#EXTINF:-1 group-title="Sports World" tvg-logo="https://i.ibb.co.com/4Jd3RWS/skysportf1.png",Sky Sport F1 🇦🇹
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adb32542fbed5db188bb0da99c5e7f8f:0018f63eaf1ee9bedc0fb14df51412db
+https://at-live-4.tentcdn.eu/bpk-tv/Sky_Sport_F1_HD/default/index.mpd
+
+#EXTINF:-1 group-title="Sports World" tvg-logo="https://i.ibb.co.com/brXCRq3/skysportplde.png",Sky Sport PL 🇦🇹
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=446af6dd9ec0395eaf5ab6adac2b8234:a70a5944e51312f5a045b1e81651d033
+https://simplitv-live.mdn.ors.at/live/eds/sky_sport_premier_league_hd/dash/sky_sport_premier_league_hd.mpd
