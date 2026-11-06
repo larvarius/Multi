@@ -27,13 +27,6 @@ http://xdplus.site:2082/live/GerardoSilvap/MTUUR/588132.m3u8
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://images.open-epg.com/25689.png" group-title="Sports Ar",ESPN
 http://iptvpremium.ink:55577/live/juscsl54/748596js/167215.m3u8
 
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Sports Ar", DSports PE 
-http://tvdirect.pro:8080/live/hugo13/69542358h/3468.m3u8
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Sports Ar", DSports EC 
-https://gotv.vip:443/live/Federico2890/Federico2890/540804.m3u8
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Sports Ar", DSports PE 
-https://gotv.vip:443/live/Federico2890/Federico2890/529975.m3u8
-
 
 
 #EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Sports Ar",ESPN Premium
