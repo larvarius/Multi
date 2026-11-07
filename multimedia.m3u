@@ -2077,27 +2077,26 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=e8ae44faa1e73658bfe725dec8204259:d90e4519b41352e2791370dfcc20406b
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="550" tvg-name="Rai 1" tvg-id="Rai1.it" tvg-logo="https://logo.m3uassets.com/rai1.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",Rai 1 🇮🇹
+#EXTINF:-1 tvg-chno="" cuid="550" tvg-name="Rai 1" tvg-id="Rai1.it" tvg-logo="https://logo.m3uassets.com/rai1.png" group-title="TV Mundo",Rai 1 🇮🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="551" tvg-name="Rai 2" tvg-id="Rai2.it" tvg-logo="https://logo.m3uassets.com/rai2.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",Rai 2 🇮🇹
+#EXTINF:-1 tvg-chno="" cuid="551" tvg-name="Rai 2" tvg-id="Rai2.it" tvg-logo="https://logo.m3uassets.com/rai2.png" group-title="TV Mundo",Rai 2 🇮🇹
 https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="554" tvg-name="Rai 3" tvg-id="Rai3.it" tvg-logo="https://logo.m3uassets.com/rai3.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",Rai 3 🇮🇹
+#EXTINF:-1 tvg-chno="" cuid="554" tvg-name="Rai 3" tvg-id="Rai3.it" tvg-logo="https://logo.m3uassets.com/rai3.png" group-title="TV Mundo",Rai 3 🇮🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="556" tvg-name="Rai Italia América" tvg-id="Rai.Italia.pt" tvg-logo="https://logo.m3uassets.com/raiitalia.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",Rai Italia 🇮🇹
+#EXTINF:-1 tvg-chno="" cuid="556" tvg-name="Rai Italia América" tvg-id="Rai.Italia.pt" tvg-logo="https://logo.m3uassets.com/raiitalia.png" group-title="TV Mundo",Rai Italia 🇮🇹
 https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="558" tvg-name="Rai World Premium" tvg-id="RaiPremium.it" tvg-logo="https://logo.m3uassets.com/raiworldpremium.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",Rai World Premium 🇮🇹
+#EXTINF:-1 tvg-chno="" cuid="558" tvg-name="Rai World Premium" tvg-id="RaiPremium.it" tvg-logo="https://logo.m3uassets.com/raiworldpremium.png" group-title="TV Mundo",Rai World Premium 🇮🇹
 https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
-
 
 
 
