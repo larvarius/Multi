@@ -640,16 +640,6 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 # GRUPO: ⚽ Sports Latino ⚽
 # ==========================================
 
-#EXTINF:-1 tvg-id="LaLiga" tvg-logo="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysportslaliga.png" group-title="Sports Latino",SKY Sports La Liga  (mpd)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb80e1e7d7598eaf98b1dbbe6dc14ee9:103ae55c7948ca1d159d6743619d26c4
-https://live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
-
-#EXTINF:-1 tvg-chno="573" group-title="Sports Latino" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysportslaliga.png" ,Sky Sports La Liga 
-http://181.119.177.253:8000/play/a0dz/index.m3u8
-
 #EXTINF:-1 tvg-id="633dtv.co" group-title="Sports Latino" tvg-logo="",Win Sports
 https://gotv.vip:443/live/Federico2890/Federico2890/349.m3u8
 
@@ -822,6 +812,13 @@ https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=Mr
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=68747
  
+#EXTINF:-1 tvg-id="LaLiga" tvg-logo="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysportslaliga.png" group-title="Sports UK Mps",SKY Sports La Liga  (mpd)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb80e1e7d7598eaf98b1dbbe6dc14ee9:103ae55c7948ca1d159d6743619d26c4
+https://live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H8eMXvf.png" group-title="Sports UK",SKY SPORT TENNIS HD (RUTUBE) 
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=wGBhgILq0m_ruFoAZOBOBw&e=2074182087&scheme=https
 
@@ -914,6 +911,9 @@ http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/394557.m3u8
 http://xdplus.site:2082/live/GerardoSilvap/MTUUR/183600.m3u8
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Football 
 http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/394555.m3u8
+
+#EXTINF:-1 tvg-chno="573" group-title="Sports UK" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysportslaliga.png" ,Sky Sports La Liga 
+http://181.119.177.253:8000/play/a0dz/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports F1 4K
 http://tvprem.pro:8080/live/Yefri2023/Yefri2023/783621.m3u8
