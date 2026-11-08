@@ -1350,6 +1350,19 @@ http://stream.mcquack.net/394/index.m3u8
 http://stream.mcquack.net/212/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="Sports EU",TRING SPORT 1 HD [AL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=895006&extension=ts&play_token=1Vl8wJONgP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="Sports EU",TRING SPORT 2 HD [AL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=895007&extension=ts&play_token=spZrfhxf6l
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="Sports EU",TRING SPORT 3 HD [AL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=895008&extension=ts&play_token=LolOjQq0hI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="Sports EU",TRING SPORT 4 HD [AL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=895009&extension=ts&play_token=IQgR5lK1Rl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="Sports EU",TRING SPORT 5 HD [AL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=895010&extension=ts&play_token=tuc5pNEWll
+
+
+
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/rtvssport.jpg" group-title="Sports EU",RTVS SPORT 🇸🇰 (mpd)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
