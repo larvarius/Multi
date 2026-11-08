@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml,https://epg.programadorx.cl/mdiaz/gratis.xml,https://www.open-epg.com/files/spain.xml,https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 
+
+
+
 # ==========================================
 # GRUPO: ⚽ Sports AR ⚽
 # ==========================================
@@ -86,6 +89,10 @@ http://tvdirect.pro:8080/live/hugo13/69542358h/132104.m3u8
 
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="Sports Ar", Dsports + (Directo)
 http://tvdirect.pro:8080/live/hugo13/69542358h/3472.m3u8
+
+
+
+
 
 
 # ==========================================
@@ -242,6 +249,11 @@ https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 http://158.172.155.130:8000/play/a0dp/index.m3u8
 
 
+
+
+
+
+
 # ==========================================
 # GRUPO: ⚽ Sports 4K ⚽
 # ==========================================
@@ -257,64 +269,164 @@ http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382836&exten
 
 
 
+
+
 # ==========================================
-# GRUPO: ⚽ LPF Event ⚽
+# GRUPO: ⚽ Sports BRA ⚽
 # ==========================================
-https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 1
-https://emitiendoenvivo.com/lpf/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 2
-https://emitiendoenvivo.com/lpf/2.m3u8
+#EXTINF:-1 tvg-id="CAZE_TV_LIVE_EVENT_1" tvg-name="CAZE TV LIVE EVENT 1" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" group-title="Sports BRA",CAZE TV LIVE EVENT 1 (mpd)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NEde2rmRrV6SVIrr1xBBCg:UBsgnMzTI6wAv1rBW0BstA
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 3
-https://emitiendoenvivo.com/lpf/3.m3u8
+#EXTINF:-1 tvg-id="CAZE_TV_LIVE_EVENT_2" tvg-name="CAZE TV LIVE EVENT 2" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" group-title="Sports BRA",CAZE TV LIVE EVENT 2 (mpd)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=rHq6qclIGqz72sZPw+wzEg:wMUEou0ucLh5plC4dwo4xg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 4
-https://emitiendoenvivo.com/lpf/4.m3u8
+#EXTINF:-1 tvg-id="CAZE_TV_LIVE_EVENT_3" tvg-name="CAZE TV LIVE EVENT 3" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" group-title="Sports BRA",CAZE TV LIVE EVENT 3 (mpd)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=Cinjt9wmztgBFNqZJm6mNg:nx5ANFRf7ZC1znqPiSXmIQ
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/iy79zu8tb9/out/v1/e86df8b45c0f452daf49ca6e3d27103e/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 5
-https://emitiendoenvivo.com/lpf/5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GE_TV.svg/960px-Logo_GE_TV.svg.png" group-title="Sports BRA",GE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 6
-https://emitiendoenvivo.com/lpf/6.m3u8
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV" tvg-logo="https://i.ibb.co/NKs6v0v/sportv.png" group-title="Sports BRA",SPORTV (mpd)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=UcDvI7Fyl-XAHNfzbdCmzg:iCP3E7pv25u-CirYLTCaSw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 7
-https://emitiendoenvivo.com/lpf/7.m3u8
+#EXTINF:-1 tvg-id="SPORTV_2" tvg-name="SPORTV 2" tvg-logo="https://i.ibb.co/L6MdcHL/sportv2.png" group-title="Sports BRA",SPORTV 2 (mpd)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=PeAo6vs7LK_-wDvhwcgYsw:j73Yqa5nSGlrsT5Ue7CT_A
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd?aws.sessionId=a57b713d-66c0-4b39-9dea-987451b920b8&amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 8
-https://emitiendoenvivo.com/lpf/8.m3u8
+#EXTINF:-1 tvg-id="SPORTV_3" tvg-name="SPORTV 3" tvg-logo="https://i.ibb.co/db4L078/sportv3.png" group-title="Sports BRA",SPORTV 3 (mpd)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=kC5ewOPQXmZdqjL8I_T1ng:eyMionOEOSGkPixh2sfK4w
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 9
-https://emitiendoenvivo.com/lpf/9.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sports BRA" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/06/TNT-Sports-Logo.png" ,TNT Sports 1 (Brasil) (mpd)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83a4bc2c011e2c72b35b7b5f2d35560d:01bd0115c83d3493449181ba68998ab1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://absucn2yeiuaaaaya6gwkqye6jcza.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 10
-https://emitiendoenvivo.com/lpf/10.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="Sports BRA",PREMIERER BR (mpd)
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+
+#EXTINF:-1 tvg-id="PREMIERE" tvg-name="PREMIERE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Sports BRA",PREMIERE (mpd)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=VrecF4KzDmtvyXOw6P1BBA:-jiqqGWlftp8d0RGl7qO0w
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+
+#EXTINF:-1 tvg-id="PREMIERE_2" tvg-name="PREMIERE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Sports BRA",PREMIERE 2 (mpd)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ncQEYMkwh66oTWMV8I7LZA:9pyNRiT93_TKib0LMb3Epw
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="Sports BRA",PREMIERER 2 (mpd)
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
+
+#EXTINF:-1 tvg-id="PREMIERE_3" tvg-name="PREMIERE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Sports BRA",PREMIERE 3 (mpd)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0j90M3mKZSp9T2eR2eEDbA:SULuvVmLVyfFzEhMxitS6A
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+
+#EXTINF:-1 tvg-id="PREMIERE_4" tvg-name="PREMIERE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Sports BRA",PREMIERE 4 (mpd)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4jNlwq2XhwyHFxK3Pw1hlQ:WHCccUMgu4YtvQcnDfgclA
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
+
+#EXTINF:-1 tvg-id="PREMIERE_5" tvg-name="PREMIERE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Sports BRA",PREMIERE 5 (mpd)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=My9i6zyugk6YpBJNopp9MQ:0WmM2j0ED5BRElphdFtZaw
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#EXTINF:-1 tvg-id="PREMIERE_6" tvg-name="PREMIERE 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Sports BRA",PREMIERE 6 (mpd)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=VhuqiWdsicHQR+GFK6AcCQ:qMFXgm398SmaMpt34qtqGg
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://embedcanais.com/
+#EXTVLCOPT:http-origin=https://embedcanais.com
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/k1mql3yg4r/out/v1/898067f362a5444bbe42d7568430ca14/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="PREMIERE_7" tvg-name="PREMIERE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Sports BRA",PREMIERE 7 (mpd)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=nuNSqsftjuHLQs/fMiscsA:BT1jX8kOF1iBvvJs0p83Hg
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://embedcanais.com/
+#EXTVLCOPT:http-origin=https://embedcanais.com
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/kqftwsvdgz/out/v1/9f866bc326d241aa9d470c52654a7bf9/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="PREMIERE_8" tvg-name="PREMIERE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Sports BRA",PREMIERE 8 (mpd)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=GfuEZBNllM4MZv41ieiO9A:ag78SoKh4Ifwk8Pl3j4qPg
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://embedcanais.com/
+#EXTVLCOPT:http-origin=https://embedcanais.com
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash-sd/enc/ln7isfb6fz/out/v1/34c85840b67d46b990cf4e01fb16d24d/cenc-sd.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 11
-https://emitiendoenvivo.com/lpf/11.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 12
-https://emitiendoenvivo.com/lpf/12.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 13
-https://emitiendoenvivo.com/lpf/13.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 14
-https://emitiendoenvivo.com/lpf/14.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 15
-https://emitiendoenvivo.com/lpf/15.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 16
-https://emitiendoenvivo.com/lpf/16.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 17
-https://emitiendoenvivo.com/lpf/17.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 18
-https://emitiendoenvivo.com/lpf/18.m3u8
 
 # ==========================================
 # GRUPO: ⚽ Sports ES ⚽
@@ -725,6 +837,9 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/4eia4y
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 
+
+
+
 # ==========================================
 # GRUPO: ⚽ Sports UK Mpd ⚽
 # ==========================================
@@ -819,25 +934,6 @@ https://m3usmart4k.gojo45749.workers.dev?id=68747
 #KODIPROP:inputstream.adaptive.license_key=cb80e1e7d7598eaf98b1dbbe6dc14ee9:103ae55c7948ca1d159d6743619d26c4
 https://live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H8eMXvf.png" group-title="Sports UK",SKY SPORT TENNIS HD (RUTUBE) 
-https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=wGBhgILq0m_ruFoAZOBOBw&e=2074182087&scheme=https
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aJYeDGG.png" group-title="Sports UK",SKY SPORTS GOLF HD (RUTUBE) 
-https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=KZFhCRiUQckRYG9a41JAHw&e=2075227990&scheme=https 
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CPxTAMJ.png" group-title="Sports UK",SKY SPORTS RACING HD (RUTUBE) 
-https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6bnWD3PZMSkhKk60sdV4sg&e=2075228089&scheme=https 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RDRTfkg.png" group-title="Sports UK",SKY SPORTS CRICKET HD (RUTUBE) 
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ESeK2qWTROnqUU-EqdtYBw&e=2075227853&scheme=https 
-
-
-#EXTINF:-1 tvg-chno="" cuid="1542" tvg-id="SkySp+.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsplus.webp" group-title="Sports UK",Sky Sport+ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://m3usmart4k.gojo45749.workers.dev?id=73310
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="Sports UK Mpd",Fancode 1 (mpd)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -890,6 +986,59 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 
 
 
+#EXTINF:-1 tvg-chno="" cuid="491" tvg-name="E4" tvg-id="" tvg-logo="" group-title="Sports UK Mpd",================ GENERALES UK 🇬🇧 ================ 
+https://cdn.truefilesize.com/mp4/sample-10mb.mp4
+
+
+#EXTINF:-1 tvg-chno="" cuid="474" tvg-id="BBC.Entertainment.HD.cy" tvg-logo="https://lo1.in/malt/BBC ENTERTAINMENT.png" group-title="Sports UK Mpd",BBC Entertainment 🇬🇧
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de6c62edc50564a1bcd57bd452e00dec:5587a0221df02bc10bcc80f8fc1fe5f4
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/nnhx4xadfk/out/v1/b716a65abc9d41cb8330ac655c098106/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="474" tvg-id="BBC.First.cz" tvg-logo="https://epg.iptvx.one/picons/bbc-first-pl.png" group-title="Sports UK Mpd",BBC First 🇬🇧
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7dc3abc5027b234af5af237d9ba1fb16:2542140d96078c87eca2a2b2fd7529aa
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/dxhd2i96mn/out/v1/c622abb40a8143d08135f5d8a5fccdc9/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="485" tvg-name="More4" tvg-id="More4.HD.uk" tvg-logo="https://logo.m3uassets.com/more4.png" group-title="Sports UK Mpd",More4 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="488" tvg-name="Channel 4" tvg-id="Channel.4.HD.uk" tvg-logo="https://logo.m3uassets.com/channel4.png" group-title="Sports UK Mpd",Channel 4 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="489" tvg-name="4seven" tvg-id="4seven.uk" tvg-logo="https://logo.m3uassets.com/4seven.png" group-title="Sports UK Mpd",4Seven 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="490" tvg-name="Film4" tvg-id="Film4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-uk.png" group-title="Sports UK Mpd",Film4 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="491" tvg-name="E4" tvg-id="E4.HD.uk" tvg-logo="https://logo.m3uassets.com/e4.png" group-title="Sports UK Mpd",E4 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
 # ==========================================
 # GRUPO: ⚽ Sports UK ⚽
 # ==========================================
@@ -927,6 +1076,27 @@ http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/394549.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Golf
 http://tvprem.pro:8080/live/Yefri2023/Yefri2023/856423.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8eMXvf.png" group-title="Sports UK",SKY SPORT TENNIS HD (RUTUBE) 
+https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=wGBhgILq0m_ruFoAZOBOBw&e=2074182087&scheme=https
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJYeDGG.png" group-title="Sports UK",SKY SPORTS GOLF HD (RUTUBE) 
+https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=KZFhCRiUQckRYG9a41JAHw&e=2075227990&scheme=https 
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CPxTAMJ.png" group-title="Sports UK",SKY SPORTS RACING HD (RUTUBE) 
+https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6bnWD3PZMSkhKk60sdV4sg&e=2075228089&scheme=https 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RDRTfkg.png" group-title="Sports UK",SKY SPORTS CRICKET HD (RUTUBE) 
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ESeK2qWTROnqUU-EqdtYBw&e=2075227853&scheme=https 
+
+
+#EXTINF:-1 tvg-chno="" cuid="1542" tvg-id="SkySp+.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsplus.webp" group-title="Sports UK",Sky Sport+ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=73310
+
+
 
 
 # ==========================================
@@ -1601,6 +1771,34 @@ http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/524827
 
 
 # ==========================================
+# GRUPO: ⚽ Sports Holanda ⚽
+# ==========================================
+
+
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="Sports NL",ZIGGO SPORT 1 HD [NL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894968&extension=ts&play_token=LEwOxQcokG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="Sports NL",ZIGGO SPORT 2 HD [NL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894969&extension=ts&play_token=YQki5daGhk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="Sports NL",ZIGGO SPORT 3 HD [NL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894970&extension=ts&play_token=g11q3yKSRQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="Sports NL",ZIGGO SPORT 4 HD [NL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894971&extension=ts&play_token=cMjfa1WfhC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="Sports NL",ZIGGO SPORT 5 HD [NL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894972&extension=ts&play_token=4KnLQFciHk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="Sports NL",ZIGGO SPORT 6 HD [NL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894973&extension=ts&play_token=uZdKG6fw6s
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ESPNHD.png" group-title="Sports NL",ESPN 1 HD [NL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=1287&extension=ts&play_token=7zvtXtnBYx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ESPNHD.png" group-title="Sports NL",ESPN 2 HD [NL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=1286&extension=ts&play_token=QHfPMB6fGe
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ESPNHD.png" group-title="Sports NL",ESPN 3 HD [NL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=1285&extension=ts&play_token=KPIr4VhDVQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ESPNHD.png" group-title="Sports NL",ESPN 4 HD [NL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=1284&extension=ts&play_token=TFezl7ClhL
+
+# ==========================================
 # GRUPO: ⚽ Sports Grecia ⚽
 # ==========================================
 
@@ -1816,153 +2014,73 @@ http://181.78.197.59:8000/play/a08c/index.m3u8
 http://181.78.197.59:8000/play/a06a/index.m3u8
 
 
+
+
+
+
 # ==========================================
-# GRUPO: ⚽ Sports BRA ⚽
+# GRUPO: ⚽ LPF Event ⚽
 # ==========================================
 
-#EXTINF:-1 tvg-id="CAZE_TV_LIVE_EVENT_1" tvg-name="CAZE TV LIVE EVENT 1" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" group-title="Sports BRA",CAZE TV LIVE EVENT 1 (mpd)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=NEde2rmRrV6SVIrr1xBBCg:UBsgnMzTI6wAv1rBW0BstA
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 
-#EXTINF:-1 tvg-id="CAZE_TV_LIVE_EVENT_2" tvg-name="CAZE TV LIVE EVENT 2" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" group-title="Sports BRA",CAZE TV LIVE EVENT 2 (mpd)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=rHq6qclIGqz72sZPw+wzEg:wMUEou0ucLh5plC4dwo4xg
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
+https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 1
+https://emitiendoenvivo.com/lpf/1.m3u8
 
-#EXTINF:-1 tvg-id="CAZE_TV_LIVE_EVENT_3" tvg-name="CAZE TV LIVE EVENT 3" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" group-title="Sports BRA",CAZE TV LIVE EVENT 3 (mpd)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=Cinjt9wmztgBFNqZJm6mNg:nx5ANFRf7ZC1znqPiSXmIQ
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/iy79zu8tb9/out/v1/e86df8b45c0f452daf49ca6e3d27103e/cenc-sd.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 2
+https://emitiendoenvivo.com/lpf/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GE_TV.svg/960px-Logo_GE_TV.svg.png" group-title="Sports BRA",GE TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 3
+https://emitiendoenvivo.com/lpf/3.m3u8
 
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV" tvg-logo="https://i.ibb.co/NKs6v0v/sportv.png" group-title="Sports BRA",SPORTV (mpd)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=UcDvI7Fyl-XAHNfzbdCmzg:iCP3E7pv25u-CirYLTCaSw
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 4
+https://emitiendoenvivo.com/lpf/4.m3u8
 
-#EXTINF:-1 tvg-id="SPORTV_2" tvg-name="SPORTV 2" tvg-logo="https://i.ibb.co/L6MdcHL/sportv2.png" group-title="Sports BRA",SPORTV 2 (mpd)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=PeAo6vs7LK_-wDvhwcgYsw:j73Yqa5nSGlrsT5Ue7CT_A
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd?aws.sessionId=a57b713d-66c0-4b39-9dea-987451b920b8&amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 5
+https://emitiendoenvivo.com/lpf/5.m3u8
 
-#EXTINF:-1 tvg-id="SPORTV_3" tvg-name="SPORTV 3" tvg-logo="https://i.ibb.co/db4L078/sportv3.png" group-title="Sports BRA",SPORTV 3 (mpd)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=kC5ewOPQXmZdqjL8I_T1ng:eyMionOEOSGkPixh2sfK4w
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 6
+https://emitiendoenvivo.com/lpf/6.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports BRA" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/06/TNT-Sports-Logo.png" ,TNT Sports 1 (Brasil) (mpd)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=83a4bc2c011e2c72b35b7b5f2d35560d:01bd0115c83d3493449181ba68998ab1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://absucn2yeiuaaaaya6gwkqye6jcza.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 7
+https://emitiendoenvivo.com/lpf/7.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 8
+https://emitiendoenvivo.com/lpf/8.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 9
+https://emitiendoenvivo.com/lpf/9.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 10
+https://emitiendoenvivo.com/lpf/10.m3u8
 
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="Sports BRA",PREMIERER BR (mpd)
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 11
+https://emitiendoenvivo.com/lpf/11.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE" tvg-name="PREMIERE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Sports BRA",PREMIERE (mpd)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=VrecF4KzDmtvyXOw6P1BBA:-jiqqGWlftp8d0RGl7qO0w
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 12
+https://emitiendoenvivo.com/lpf/12.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE_2" tvg-name="PREMIERE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Sports BRA",PREMIERE 2 (mpd)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ncQEYMkwh66oTWMV8I7LZA:9pyNRiT93_TKib0LMb3Epw
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 13
+https://emitiendoenvivo.com/lpf/13.m3u8
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="Sports BRA",PREMIERER 2 (mpd)
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 14
+https://emitiendoenvivo.com/lpf/14.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE_3" tvg-name="PREMIERE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Sports BRA",PREMIERE 3 (mpd)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0j90M3mKZSp9T2eR2eEDbA:SULuvVmLVyfFzEhMxitS6A
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 15
+https://emitiendoenvivo.com/lpf/15.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE_4" tvg-name="PREMIERE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Sports BRA",PREMIERE 4 (mpd)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4jNlwq2XhwyHFxK3Pw1hlQ:WHCccUMgu4YtvQcnDfgclA
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 16
+https://emitiendoenvivo.com/lpf/16.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE_5" tvg-name="PREMIERE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Sports BRA",PREMIERE 5 (mpd)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=My9i6zyugk6YpBJNopp9MQ:0WmM2j0ED5BRElphdFtZaw
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 17
+https://emitiendoenvivo.com/lpf/17.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE_6" tvg-name="PREMIERE 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Sports BRA",PREMIERE 6 (mpd)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=VhuqiWdsicHQR+GFK6AcCQ:qMFXgm398SmaMpt34qtqGg
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
-#EXTVLCOPT:http-referrer=https://embedcanais.com/
-#EXTVLCOPT:http-origin=https://embedcanais.com
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/k1mql3yg4r/out/v1/898067f362a5444bbe42d7568430ca14/cenc-sd.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/lpf-liga-profesional-de-futbol-de-argentina-logo-png_seeklogo-462471.png" group-title="LPF Event",LPF 18
+https://emitiendoenvivo.com/lpf/18.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE_7" tvg-name="PREMIERE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Sports BRA",PREMIERE 7 (mpd)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=nuNSqsftjuHLQs/fMiscsA:BT1jX8kOF1iBvvJs0p83Hg
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
-#EXTVLCOPT:http-referrer=https://embedcanais.com/
-#EXTVLCOPT:http-origin=https://embedcanais.com
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/kqftwsvdgz/out/v1/9f866bc326d241aa9d470c52654a7bf9/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="PREMIERE_8" tvg-name="PREMIERE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Sports BRA",PREMIERE 8 (mpd)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=GfuEZBNllM4MZv41ieiO9A:ag78SoKh4Ifwk8Pl3j4qPg
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
-#EXTVLCOPT:http-referrer=https://embedcanais.com/
-#EXTVLCOPT:http-origin=https://embedcanais.com
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash-sd/enc/ln7isfb6fz/out/v1/34c85840b67d46b990cf4e01fb16d24d/cenc-sd.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
 
 
 
@@ -2128,6 +2246,56 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="558" tvg-name="Rai World Premium" tvg-id="RaiPremium.it" tvg-logo="https://logo.m3uassets.com/raiworldpremium.png" group-title="TV Mundo",Rai World Premium 🇮🇹
 https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
+
+
+
+
+#EXTINF:-1 tvg-chno="" cuid="375" tvg-name="BBC América 🇺🇸" tvg-id="BBC.America.HD.us2" tvg-logo="https://logo.m3uassets.com/bbcamerica.png" group-title="TV Mundo",BBC América 🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"eebffffd7464b681ba44d0061859742f":"0dc1888c2b282fb8ba187b3dbd2e5e88"}
+https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/xtxdupopeb/out/v1/bdbac5c5affd4756bfe13f9dfb01f764/cenc.mpd
+
+#EXTINF:-1 tvg-chno="74.8" tvg-id="ZDF.de" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/zdf.png" group-title="TV Mundo",ZDF 🇩🇪⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
+
+#EXTINF:-1  tvg-name="SAT.1" tvg-id="SAT.1.de" tvg-logo="https://logo.m3uassets.com/sat1.png" group-title="TV Mundo", Sat.1 🇩🇪⚽️
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
+https://ac-009.live.p7s1video.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd
+
+#EXTINF:-1  tvg-name="SAT.1" tvg-id="SAT.1.at" tvg-logo="https://logo.m3uassets.com/sat1.png" group-title="TV Mundo", Sat.1 🇦🇹⚽️
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47d68f825cdea389eb3b75a39275fc61:97e8875d20f9b95a2b59ed79b4a358a1
+https://ac-001.live.p7s1video.net/a30b657a/t_001/sat1-at/cenc-default.mpd
+
+
+#EXTINF:-1 tvg-chno="" cuid="541" tvg-name="W9" tvg-id="W9.fr" tvg-logo="https://logo.m3uassets.com/w9.png" group-title="TV Mundo",W9 🇫🇷
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8ae44faa1e73658bfe725dec8204259:d90e4519b41352e2791370dfcc20406b
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="566" tvg-name="Italia.1" tvg-id="Italia.1.it" tvg-logo="https://logo.m3uassets.com/italia1.png" TVgroup-title="TV Mundo",Mediaset Italia 1 🇮🇹 ⚽️
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
+
+
+#EXTINF:-1 tvg-chno="" cuid="569" tvg-name="Canale.5" tvg-id="Canale.5.it" tvg-logo="https://logo.m3uassets.com/canale5.png" group-title="TV Mundo",Mediaset Canale 5 🇮🇹 ⚽️
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
 
 
 
