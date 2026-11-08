@@ -650,15 +650,6 @@ https://live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 #EXTINF:-1 tvg-chno="573" group-title="Sports Latino" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysportslaliga.png" ,Sky Sports La Liga 
 http://181.119.177.253:8000/play/a0dz/index.m3u8
 
-#EXTINF:-1 tvg-chno="573" group-title="Sports Latino" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysportslaliga.png" ,Sky Sports La Liga (mpd)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb80e1e7d7598eaf98b1dbbe6dc14ee9:103ae55c7948ca1d159d6743619d26c4
-#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
-#EXTVLCOPT:http-origin=https://www.izzigo.tv/webclient/
-#EXTVLCOPT:http-user-agent=izzigo/11.5.1(18)_prd izzigo ahh (Linux;Android 16) AndroidXMedia3/1.0.2
-https://live3-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
-
 #EXTINF:-1 tvg-id="633dtv.co" group-title="Sports Latino" tvg-logo="",Win Sports
 https://gotv.vip:443/live/Federico2890/Federico2890/349.m3u8
 
