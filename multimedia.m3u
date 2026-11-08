@@ -1453,6 +1453,24 @@ http://85.14.32.26:8800/udp/239.100.10.81:5000
 # GRUPO: ⚽ Sports FR ⚽
 # ========================================
 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="Sports FR",Canal+ HD [FR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894986&extension=ts&play_token=rHGXO81YMD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="Sports FR",Canal+ SPORT HD [FR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894987&extension=ts&play_token=ubgGufZ80V
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="Sports FR",Canal+ FOOT HD [FR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894988&extension=ts&play_token=XSIHJulwf3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="Sports FR",Canal+ LIVE 1 HD [FR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894982&extension=ts&play_token=Ku3fqPAGuk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="Sports FR",Canal+ LIVE 2 HD [FR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894983&extension=ts&play_token=6XuGuFffV2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="Sports FR",Canal+ LIVE 3 HD [FR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894984&extension=ts&play_token=w6l6dNG8jo
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="Sports FR",Canal+ LIVE 4 HD [FR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894985&extension=ts&play_token=ndPMTPKMmW
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="Sports FR", FR| RMC SPORTS 1 ACCESS HD
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/750861
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="Sports FR", FR| RMC SPORTS 1 HD
