@@ -258,14 +258,9 @@ http://158.172.155.130:8000/play/a0dp/index.m3u8
 # GRUPO: ⚽ Sports 4K ⚽
 # ==========================================
 
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="" group-title="Sports 4K",Sky Sports Main Event 4K
-http://tvprem.pro:8080/live/Yefri2023/Yefri2023/1435598.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="" group-title="Sports 4K",Sky Sports Main Event 4K UK
+http://mag.vipsclient.org/live/363631/953650/1444578.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="" group-title="Sports 4K",Sky Sports F1 4K
-http://tvprem.pro:8080/live/Yefri2023/Yefri2023/783621.m3u8
-
-#EXTINF:-1 group-title="Sports 4K" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 4K 1 (line)
-http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382836&extension=ts
 
 
 
@@ -927,62 +922,6 @@ https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=Mr
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=68747
  
-#EXTINF:-1 tvg-id="LaLiga" tvg-logo="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysportslaliga.png" group-title="Sports UK Mpd",SKY Sports La Liga  (mpd)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb80e1e7d7598eaf98b1dbbe6dc14ee9:103ae55c7948ca1d159d6743619d26c4
-https://live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
-
-
-#EXTINF:-1 tvg-logo="" group-title="Sports UK Mpd",Fancode 1 (mpd)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Sports UK Mpd",Fancode 2 (mpd)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-#EXTINF:-1 tvg-chno="" cuid="1962" tvg-id="Fast&amp;FunBox.HD.pl" tvg-name="gp" tvg-logo="https://logo.m3uassets.com/fastfunbox.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="Sports UK Mpd",Fast & FunBox 🇬🇧 (mpd)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/
-#EXTVLCOPT:http-origin=https://webtv.sk
-https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="" cuid="1517" tvg-id="Stan.Sport.Dummy.us" tvg-name="" tvg-logo="https://logo.m3uassets.com/stansport.png" group-title="Sports UK Mpd",Stan Sport 🇬🇧 (mpd)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1788160649-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7b59b976919abdfebdea51251a4a2439
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=2bb7f4489e5f421eb0de90035cffb2bc:96b09b69c638dac184f42910e0095933 
-#EXTVLCOPT:http-origin=https://dishhomego.com.np 
-#EXTVLCOPT:http-referrer=https://dishhomego.com.np/ 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0) 
-#EXTINF:-1 group-title="Sports UK" tvg-logo="https://img1.wsimg.com/isteam/ip/d08bca69-c528-4050-938f-bd511aa0a61f/blob-0004.png/:/cr=t:0%25,l:22.59%25,w:54.82%25,h:54.82%25", ACTION SPORTS 1 (DISHOME) (mpd)
-https://ottlive.dishhome.com.np/protected/vVnVkZ4Bnu3lGwDQJxH-/dash/manifest.mpd 
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=e6136af0960e4fb8b535dd6b1dd307c8:7e73113b6fbcc167612a0b2e58715bd8 
-#EXTVLCOPT:http-origin=https://dishhomego.com.np 
-#EXTVLCOPT:http-referrer=https://dishhomego.com.np/ 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0) 
-#EXTINF:-1 group-title="Sports UK" tvg-logo="https://img1.wsimg.com/isteam/ip/d08bca69-c528-4050-938f-bd511aa0a61f/blob-0004.png/:/cr=t:0%25,l:22.59%25,w:54.82%25,h:54.82%25", ACTION SPORTS 2 (DISHOME) (mpd) 
-https://ottlive.dishhome.com.np/protected/BlnekZ4Bnu3lGwDQwBL2/dash/manifest.mpd 
-
-#EXTINF:-1 tvg-chno="" cuid="1201" tvg-name="W-Sport" tvg-id="W-Sport.pt" tvg-logo="https://raw.githubusercontent.com/djdoolky76/tv-channel-logos/60962050390d4bcbfd85ab4f303594934b1ae89d/misc/custom/W-%20Sport.png" group-title="Sports UK",W-Sport 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
-https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
-
-
 
 
 
@@ -1043,55 +982,21 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 # GRUPO: ⚽ Sports UK ⚽
 # ==========================================
 
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Main Event 4K
-http://tvprem.pro:8080/live/Yefri2023/Yefri2023/1435598.m3u8
 
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Main Event
-http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/394553.m3u8
-
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Premier Leage
-http://tvprem.pro:8080/live/Yefri2023/Yefri2023/24183.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Premier Leage
-http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/394557.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Football 
-http://xdplus.site:2082/live/GerardoSilvap/MTUUR/183600.m3u8
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Football 
-http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/394555.m3u8
-
-#EXTINF:-1 tvg-chno="573" group-title="Sports UK" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysportslaliga.png" ,Sky Sports La Liga 
-http://181.119.177.253:8000/play/a0dz/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports F1 4K
-http://tvprem.pro:8080/live/Yefri2023/Yefri2023/783621.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports F1
-http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/394543.m3u8
-
-
-#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Tennis
-http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/394549.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="" group-title="Sports UK",Sky Sports Golf
-http://tvprem.pro:8080/live/Yefri2023/Yefri2023/856423.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H8eMXvf.png" group-title="Sports UK",SKY SPORT TENNIS HD (RUTUBE) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8eMXvf.png" group-title="Sports UK 2",SKY SPORT TENNIS HD (RUTUBE) 
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=wGBhgILq0m_ruFoAZOBOBw&e=2074182087&scheme=https
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aJYeDGG.png" group-title="Sports UK",SKY SPORTS GOLF HD (RUTUBE) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJYeDGG.png" group-title="Sports UK 2",SKY SPORTS GOLF HD (RUTUBE) 
 https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=KZFhCRiUQckRYG9a41JAHw&e=2075227990&scheme=https 
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CPxTAMJ.png" group-title="Sports UK",SKY SPORTS RACING HD (RUTUBE) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CPxTAMJ.png" group-title="Sports UK 2",SKY SPORTS RACING HD (RUTUBE) 
 https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6bnWD3PZMSkhKk60sdV4sg&e=2075228089&scheme=https 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RDRTfkg.png" group-title="Sports UK",SKY SPORTS CRICKET HD (RUTUBE) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RDRTfkg.png" group-title="Sports UK 2",SKY SPORTS CRICKET HD (RUTUBE) 
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ESeK2qWTROnqUU-EqdtYBw&e=2075227853&scheme=https 
 
 
-#EXTINF:-1 tvg-chno="" cuid="1542" tvg-id="SkySp+.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsplus.webp" group-title="Sports UK",Sky Sport+ 
+#EXTINF:-1 tvg-chno="" cuid="1542" tvg-id="SkySp+.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsplus.webp" group-title="Sports UK 2",Sky Sport+ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=73310
