@@ -983,25 +983,6 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 # ==========================================
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H8eMXvf.png" group-title="Sports UK 2",SKY SPORT TENNIS HD (RUTUBE) 
-https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=wGBhgILq0m_ruFoAZOBOBw&e=2074182087&scheme=https
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aJYeDGG.png" group-title="Sports UK 2",SKY SPORTS GOLF HD (RUTUBE) 
-https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=KZFhCRiUQckRYG9a41JAHw&e=2075227990&scheme=https 
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CPxTAMJ.png" group-title="Sports UK 2",SKY SPORTS RACING HD (RUTUBE) 
-https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6bnWD3PZMSkhKk60sdV4sg&e=2075228089&scheme=https 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RDRTfkg.png" group-title="Sports UK 2",SKY SPORTS CRICKET HD (RUTUBE) 
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ESeK2qWTROnqUU-EqdtYBw&e=2075227853&scheme=https 
-
-
-#EXTINF:-1 tvg-chno="" cuid="1542" tvg-id="SkySp+.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsplus.webp" group-title="Sports UK 2",Sky Sport+ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://m3usmart4k.gojo45749.workers.dev?id=73310
-
-
 
 
 # ==========================================
