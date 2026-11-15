@@ -2323,6 +2323,45 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pyb
 # GRUPO: ⚽ Music ⚽
 # =========================================
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.fandom.com/wiki/Dance_Trippin?file=DanceTelevisionBlackLogo2018_PNG.png" group-title=" Music",Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.fandom.com/wiki/Dance_Trippin?file=DanceTelevisionBlackLogo2018_PNG.png" group-title=" Music",Dance TV Deep House
+https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.fandom.com/wiki/Dance_Trippin?file=DanceTelevisionBlackLogo2018_PNG.png" group-title=" Music",Dance TV Minimal
+https://mbit1.worldcast.tv:9443/dancetelevisionsix/multibit.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.fandom.com/wiki/Dance_Trippin?file=DanceTelevisionBlackLogo2018_PNG.png" group-title=" Music",Dance TV House Melodic
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.fandom.com/wiki/Dance_Trippin?file=DanceTelevisionBlackLogo2018_PNG.png" group-title=" Music",Dance TV House Foor
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.fandom.com/wiki/Dance_Trippin?file=DanceTelevisionBlackLogo2018_PNG.png" group-title=" Music",Dance TV House Tech
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.fandom.com/wiki/Dance_Trippin?file=DanceTelevisionBlackLogo2018_PNG.png" group-title=" Music",Dance TV Techno Warehouse
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.fandom.com/wiki/Dance_Trippin?file=DanceTelevisionBlackLogo2018_PNG.png" group-title=" Music",Dance TV Mainstream
+https://mbit1.worldcast.tv:9443/dancetelevisionseven/multibit.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.fandom.com/wiki/Dance_Trippin?file=DanceTelevisionBlackLogo2018_PNG.png" group-title=" Music",Clubbing TV
+https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DanceFM.cl@SD" tvg-logo="https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png" group-title="Music",Dance FM (720p)
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Number1Dance.tr@SD" tvg-logo="https://i.imgur.com/ZM4PSyq.png" group-title="Music",Number 1 Dance (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="DeluxeMusic.de@SD" tvg-logo="https://i.imgur.com/HimuPPb.png" group-title="Music",Deluxe Music (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
 #EXTINF:-1 cuid="1670" tvg-name="Canal.Telehit" tvg-id="Canal.Telehit.mx" tvg-logo="https://logo.m3uassets.com/telehit.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Telehit 🇲🇽 (mpd)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
