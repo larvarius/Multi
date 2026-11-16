@@ -24,7 +24,7 @@ http://181.209.38.115:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://images.open-epg.com/25689.png" group-title="Sports Ar",ESPN
 http://tvdirect.pro:8080/live/hugo13/69542358h/3444.m3u8
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://images.open-epg.com/25689.png" group-title="Sports Ar",ESPN
-https://gotv.vip:443/live/Federico2890/Federico2890/65659.m3u8
+http://tvprem.pro:8080/live/Yefri2023/Yefri2023/338198.m3u8
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://images.open-epg.com/25689.png" group-title="Sports Ar",ESPN
 http://xdplus.site:2082/live/GerardoSilvap/MTUUR/588132.m3u8
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://images.open-epg.com/25689.png" group-title="Sports Ar",ESPN
@@ -35,7 +35,7 @@ http://iptvpremium.ink:55577/live/juscsl54/748596js/167215.m3u8
 #EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Sports Ar",ESPN Premium
 http://tvdirect.pro:8080/live/hugo13/69542358h/392572.m3u8
 #EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Sports Ar",ESPN Premium
-https://gotv.vip:443/live/Federico2890/Federico2890/587986.m3u8
+http://tvprem.pro:8080/live/Yefri2023/Yefri2023/118058.m3u8
 #EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Sports Ar",ESPN Premium
 http://181.209.38.115:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Sports Ar",ESPN Premium
@@ -45,7 +45,7 @@ http://iptvpremium.ink:55577/live/juscsl54/748596js/444969.m3u8
 
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Sports Ar",TNT Sports Premium
-https://gotv.vip:443/live/Federico2890/Federico2890/146030.m3u8
+http://tvprem.pro:8080/live/Yefri2023/Yefri2023/115.m3u8
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Sports Ar",TNT Sports Premium
 http://181.209.38.115:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Sports Ar",TNT Sports Premium
