@@ -451,14 +451,14 @@ http://tvprem.pro:8080/live/Yefri2023/Yefri2023/1621083.m3u8
 http://tvprem.pro:8080/live/Yefri2023/Yefri2023/61813.m3u8
 
 #EXTINF:-1 tvg-id="MovistarVamos.es" group-title="Sports ES" tvg-logo="",M+ Vamos
-https://gotv.vip:443/live/Federico2890/Federico2890/139966.m3u8
+http://tvprem.pro:8080/live/Yefri2023/Yefri2023/1620834.m3u8
 
 #EXTINF:-1 tvg-id="MovistarLaLigaHDR.es" group-title="Sports ES" tvg-logo="",Movistar La Liga 
 http://tvprem.pro:8080/live/Yefri2023/Yefri2023/1620980.m3u8
 
 #EXTINF:-1 tvg-id="MovistarLigaDeCampeones.es" group-title="Sports ES" tvg-logo="",Movistar Liga de Campeones
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/664.m3u8
-https://gotv.vip:443/live/Federico2890/Federico2890/145936.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="LaLiga TV Hypermotion.es" group-title="Sports ES",Movistar La Liga Hypermotion 1 (mpd)
 #EXTVLCOPT:http-referer=
@@ -483,7 +483,7 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-id="Energy.es" tvg-logo="" group-title="Sports ES",Energy
-https://gotv.vip:443/live/Federico2890/Federico2890/140005.m3u8
+http://tvprem.pro:8080/live/Yefri2023/Yefri2023/1620888.m3u8
 
 #EXTINF:-1 tvg-chno="574" group-title="Sports ES"  tvg-id="Teledeporte.es" tvg-name="Teledeporte.es"  tvg-logo="https://www.tvchannellists.com/w/File:Teledeporte_2026.svg" ,Teledeporte
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
@@ -748,7 +748,7 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 # ==========================================
 
 #EXTINF:-1 tvg-id="633dtv.co" group-title="Sports Latino" tvg-logo="",Win Sports
-https://gotv.vip:443/live/Federico2890/Federico2890/349.m3u8
+http://tvprem.pro:8080/live/Yefri2023/Yefri2023/858606.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1680" tvg-name="TUDN" tvg-id="TUDN.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Sports Latino",TUDN 🇺🇸
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-tudn?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
